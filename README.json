@@ -1,0 +1,4042 @@
+{
+  "items": [
+    {
+      "description": "Claude skills are modular capabilities that extend Claude's functionality for specific tasks. Think of them as plugins or specialized knowledge modules that help Claude become an expert in particular domains. Whether you're building software, analyzing security vulnerabilities, or creating marketing content, there's a skill to enhance your workflow.\nThis list focuses on verified, actively maintained projects that provide real value to developers and teams working with Claude AI.",
+      "items": [],
+      "title": "Why Awesome Claude Skills?"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Getting Started"
+    },
+    {
+      "description": "Start here for official tools and documentation from Anthropic.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "anthropics/skills",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T17:14:15Z",
+            "owner": "anthropics",
+            "repo": "skills",
+            "stars": 168583
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "anthropics/claude-code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T20:56:21Z",
+            "owner": "anthropics",
+            "repo": "claude-code",
+            "stars": 141263
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "anthropics/claude-plugins-official",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T01:17:50Z",
+            "owner": "anthropics",
+            "repo": "claude-plugins-official",
+            "stars": 33466
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "anthropics/claude-for-legal",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T04:03:49Z",
+            "owner": "anthropics",
+            "repo": "claude-for-legal",
+            "stars": 9088
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "anthropics/claude-code-action",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T20:57:43Z",
+            "owner": "anthropics",
+            "repo": "claude-code-action",
+            "stars": 8610
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "anthropics/claude-code-security-review",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-11T18:01:23Z",
+            "owner": "anthropics",
+            "repo": "claude-code-security-review",
+            "stars": 5854
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "anthropics/claude-code-base-action",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T20:57:52Z",
+            "owner": "anthropics",
+            "repo": "claude-code-base-action",
+            "stars": 944
+          }
+        }
+      ],
+      "title": "Official Resources"
+    },
+    {
+      "description": "These repositories offer extensive collections of skills across multiple domains. Great starting points if you want a broad toolkit.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "garrytan/gstack",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T23:33:39Z",
+            "owner": "garrytan",
+            "repo": "gstack",
+            "stars": 127732
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ComposioHQ/awesome-claude-skills",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T21:45:44Z",
+            "owner": "ComposioHQ",
+            "repo": "awesome-claude-skills",
+            "stars": 72388
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hesreallyhim/awesome-claude-code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:47:44Z",
+            "owner": "hesreallyhim",
+            "repo": "awesome-claude-code",
+            "stars": 52221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VoltAgent/awesome-openclaw-skills",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-09T14:52:15Z",
+            "owner": "VoltAgent",
+            "repo": "awesome-openclaw-skills",
+            "stars": 51923
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sickn33/agentic-awesome-skills",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T15:01:35Z",
+            "owner": "sickn33",
+            "repo": "agentic-awesome-skills",
+            "stars": 44856
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wshobson/agents",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T07:11:13Z",
+            "owner": "wshobson",
+            "repo": "agents",
+            "stars": 38751
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VoltAgent/awesome-agent-skills",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-12T10:31:44Z",
+            "owner": "VoltAgent",
+            "repo": "awesome-agent-skills",
+            "stars": 30156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "alirezarezvani/claude-skills",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T10:35:32Z",
+            "owner": "alirezarezvani",
+            "repo": "claude-skills",
+            "stars": 24359
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SuperClaude-Org/SuperClaude_Framework",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-22T06:02:09Z",
+            "owner": "SuperClaude-Org",
+            "repo": "SuperClaude_Framework",
+            "stars": 23824
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T14:37:38Z",
+            "owner": "muratcankoylan",
+            "repo": "Agent-Skills-for-Context-Engineering",
+            "stars": 17711
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "travisvn/awesome-claude-skills",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-28T19:30:24Z",
+            "owner": "travisvn",
+            "repo": "awesome-claude-skills",
+            "stars": 14622
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "huggingface/skills",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T01:26:40Z",
+            "owner": "huggingface",
+            "repo": "skills",
+            "stars": 10923
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ConardLi/garden-skills",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-07-12T14:36:31Z",
+            "owner": "ConardLi",
+            "repo": "garden-skills",
+            "stars": 10279
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jnMetaCode/superpowers-zh",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T21:54:54Z",
+            "owner": "jnMetaCode",
+            "repo": "superpowers-zh",
+            "stars": 7639
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "heilcheng/awesome-agent-skills",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-05T20:39:24Z",
+            "owner": "heilcheng",
+            "repo": "awesome-agent-skills",
+            "stars": 6088
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "antfu/skills",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-23T00:14:36Z",
+            "owner": "antfu",
+            "repo": "skills",
+            "stars": 5751
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "langgptai/awesome-claude-prompts",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-28T01:53:30Z",
+            "owner": "langgptai",
+            "repo": "awesome-claude-prompts",
+            "stars": 5401
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libukai/awesome-agent-skills",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-05T15:41:35Z",
+            "owner": "libukai",
+            "repo": "awesome-agent-skills",
+            "stars": 4964
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clawdbot-ai/awesome-openclaw-skills-zh",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-26T11:39:31Z",
+            "owner": "clawdbot-ai",
+            "repo": "awesome-openclaw-skills-zh",
+            "stars": 4140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mergisi/awesome-openclaw-agents",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-05-25T10:21:05Z",
+            "owner": "mergisi",
+            "repo": "awesome-openclaw-agents",
+            "stars": 3904
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "davepoon/buildwithclaude",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T01:32:45Z",
+            "owner": "davepoon",
+            "repo": "buildwithclaude",
+            "stars": 3286
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "microsoft/skills",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T11:16:10Z",
+            "owner": "microsoft",
+            "repo": "skills",
+            "stars": 2883
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rohitg00/awesome-claude-code-toolkit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-12T07:18:34Z",
+            "owner": "rohitg00",
+            "repo": "awesome-claude-code-toolkit",
+            "stars": 2496
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JasonColapietro/suede-creator-skills",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T02:28:19Z",
+            "owner": "JasonColapietro",
+            "repo": "suede-creator-skills",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "swarmclawai/andrej-karpathy-skills",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-11T12:43:50Z",
+            "owner": "swarmclawai",
+            "repo": "andrej-karpathy-skills",
+            "stars": 36
+          }
+        }
+      ],
+      "title": "Comprehensive Skill Collections"
+    },
+    {
+      "description": "Skills focused on software development, code quality, and engineering workflows.",
+      "items": [],
+      "title": "Development & Engineering"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "obra/superpowers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-13T00:36:31Z",
+            "owner": "obra",
+            "repo": "superpowers",
+            "stars": 271330
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "affaan-m/ECC",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T22:45:12Z",
+            "owner": "affaan-m",
+            "repo": "ECC",
+            "stars": 239784
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mattpocock/skills",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-07T15:50:46Z",
+            "owner": "mattpocock",
+            "repo": "skills",
+            "stars": 215316
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github/spec-kit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T22:55:14Z",
+            "owner": "github",
+            "repo": "spec-kit",
+            "stars": 126538
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "addyosmani/agent-skills",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T19:48:56Z",
+            "owner": "addyosmani",
+            "repo": "agent-skills",
+            "stars": 86658
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eyaltoledano/claude-task-master",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-28T13:27:12Z",
+            "owner": "eyaltoledano",
+            "repo": "claude-task-master",
+            "stars": 27992
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yamadashy/repomix",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T03:57:20Z",
+            "owner": "yamadashy",
+            "repo": "repomix",
+            "stars": 27803
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OthmanAdi/planning-with-files",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-09T09:20:09Z",
+            "owner": "OthmanAdi",
+            "repo": "planning-with-files",
+            "stars": 26132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EveryInc/compound-engineering-plugin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T22:01:08Z",
+            "owner": "EveryInc",
+            "repo": "compound-engineering-plugin",
+            "stars": 24219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SawyerHood/dev-browser",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-15T01:30:01Z",
+            "owner": "SawyerHood",
+            "repo": "dev-browser",
+            "stars": 6536
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pimzino/claude-code-spec-workflow",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-09-07T14:14:52Z",
+            "owner": "Pimzino",
+            "repo": "claude-code-spec-workflow",
+            "stars": 3844
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-skills/code-review-skill",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-16T06:13:07Z",
+            "owner": "awesome-skills",
+            "repo": "code-review-skill",
+            "stars": 1695
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "carlrannaberg/claudekit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-31T20:45:06Z",
+            "owner": "carlrannaberg",
+            "repo": "claudekit",
+            "stars": 754
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bo-cao/breaking-coding-chaos",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T02:02:37Z",
+            "owner": "bo-cao",
+            "repo": "breaking-coding-chaos",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "arun-mosai/claude-code-slice-skills",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-21T16:59:07Z",
+            "owner": "arun-mosai",
+            "repo": "claude-code-slice-skills",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YoungApple/growth-retrospective-skill",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-05-26T15:22:43Z",
+            "owner": "YoungApple",
+            "repo": "growth-retrospective-skill",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mturac/recsys-pipeline-architect",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Pattern popularized by xAI's open-sourced X For You algorithm",
+              "description": "independent MIT reimplementation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2026-05-15T21:55:27Z",
+                "owner": "xai-org",
+                "repo": "x-algorithm",
+                "stars": 26980
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-15T21:30:50Z",
+            "owner": "mturac",
+            "repo": "recsys-pipeline-architect",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gyujeongion/claude-code-rootcause",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-28T12:17:17Z",
+            "owner": "gyujeongion",
+            "repo": "claude-code-rootcause",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gyujeongion/claude-code-sandbox-gate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-28T12:17:21Z",
+            "owner": "gyujeongion",
+            "repo": "claude-code-sandbox-gate",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gyujeongion/claude-code-request-modes",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-28T12:17:10Z",
+            "owner": "gyujeongion",
+            "repo": "claude-code-request-modes",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gyujeongion/claude-code-cold-tester",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-28T12:17:19Z",
+            "owner": "gyujeongion",
+            "repo": "claude-code-cold-tester",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gyujeongion/claude-code-mix-compare",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-28T12:17:12Z",
+            "owner": "gyujeongion",
+            "repo": "claude-code-mix-compare",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ggrigo/align",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-18T06:47:23Z",
+            "owner": "ggrigo",
+            "repo": "align",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "innovestrum/keelson",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-04T23:08:18Z",
+            "owner": "innovestrum",
+            "repo": "keelson",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mturac/pluginpool",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-16T21:30:28Z",
+            "owner": "mturac",
+            "repo": "pluginpool",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "laki-arnsteinlarsen/strategistkit-skills",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-26T16:46:54Z",
+            "owner": "laki-arnsteinlarsen",
+            "repo": "strategistkit-skills",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zenlee123/routerbase-agent-skills",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-05T17:32:23Z",
+            "owner": "zenlee123",
+            "repo": "routerbase-agent-skills",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Core Development Skills"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "VoltAgent/awesome-claude-code-subagents",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-12T13:34:46Z",
+            "owner": "VoltAgent",
+            "repo": "awesome-claude-code-subagents",
+            "stars": 24250
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orchestra-Research/AI-Research-SKILLs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2026-06-16T01:36:46Z",
+            "owner": "Orchestra-Research",
+            "repo": "AI-Research-SKILLs",
+            "stars": 11651
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jeffallan/claude-skills",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T20:19:18Z",
+            "owner": "Jeffallan",
+            "repo": "claude-skills",
+            "stars": 10992
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "revfactory/harness",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-24T23:35:08Z",
+            "owner": "revfactory",
+            "repo": "harness",
+            "stars": 8745
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vijaythecoder/awesome-claude-agents",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-10-30T00:06:52Z",
+            "owner": "vijaythecoder",
+            "repo": "awesome-claude-agents",
+            "stars": 4379
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wshobson/commands",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-10-12T00:45:28Z",
+            "owner": "wshobson",
+            "repo": "commands",
+            "stars": 2608
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "composio-community/awesome-claude-plugins",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-26T09:02:02Z",
+            "owner": "composio-community",
+            "repo": "awesome-claude-plugins",
+            "stars": 1882
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lst97/claude-code-sub-agents",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-15T11:02:46Z",
+            "owner": "lst97",
+            "repo": "claude-code-sub-agents",
+            "stars": 1662
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hesreallyhim/a-list-of-claude-code-agents",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-11-10T17:14:34Z",
+            "owner": "hesreallyhim",
+            "repo": "a-list-of-claude-code-agents",
+            "stars": 1341
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qdhenry/Claude-Command-Suite",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-03-01T16:57:57Z",
+            "owner": "qdhenry",
+            "repo": "Claude-Command-Suite",
+            "stars": 1326
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "0xfurai/claude-code-subagents",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-10-15T19:50:24Z",
+            "owner": "0xfurai",
+            "repo": "claude-code-subagents",
+            "stars": 982
+          }
+        }
+      ],
+      "title": "Specialized Agents"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "nextlevelbuilder/ui-ux-pro-max-skill",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T10:20:40Z",
+            "owner": "nextlevelbuilder",
+            "repo": "ui-ux-pro-max-skill",
+            "stars": 116166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "htdt/godogen",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-26T18:44:23Z",
+            "owner": "htdt",
+            "repo": "godogen",
+            "stars": 5424
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IvanMurzak/Unity-MCP",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-10T17:59:31Z",
+            "owner": "IvanMurzak",
+            "repo": "Unity-MCP",
+            "stars": 3878
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "coder/claudecode.nvim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-08-11T20:58:22Z",
+            "owner": "coder",
+            "repo": "claudecode.nvim",
+            "stars": 2996
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "conorluddy/ios-simulator-skill",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-18T15:29:20Z",
+            "owner": "conorluddy",
+            "repo": "ios-simulator-skill",
+            "stars": 1210
+          }
+        }
+      ],
+      "title": "Framework-Specific"
+    },
+    {
+      "description": "Orchestrate multiple Claude agents to work together on complex tasks.",
+      "items": [],
+      "title": "Multi-Agent Systems"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "bmad-code-org/BMAD-METHOD",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T03:34:51Z",
+            "owner": "bmad-code-org",
+            "repo": "BMAD-METHOD",
+            "stars": 51837
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BloopAI/vibe-kanban",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-24T09:17:34Z",
+            "owner": "BloopAI",
+            "repo": "vibe-kanban",
+            "stars": 27761
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gastownhall/gastown",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T01:48:44Z",
+            "owner": "gastownhall",
+            "repo": "gastown",
+            "stars": 17591
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "humanlayer/humanlayer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-19T03:27:53Z",
+            "owner": "humanlayer",
+            "repo": "humanlayer",
+            "stars": 11252
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Untrivial-ai/agent-orchestrator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T03:37:49Z",
+            "owner": "Untrivial-ai",
+            "repo": "agent-orchestrator",
+            "stars": 9461
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "generalaction/emdash",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T15:00:53Z",
+            "owner": "generalaction",
+            "repo": "emdash",
+            "stars": 5396
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nyldn/claude-octopus",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-12T18:58:19Z",
+            "owner": "nyldn",
+            "repo": "claude-octopus",
+            "stars": 3959
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RunMaestro/Maestro",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:11:07Z",
+            "owner": "RunMaestro",
+            "repo": "Maestro",
+            "stars": 3243
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stravu/crystal",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-26T21:48:10Z",
+            "owner": "stravu",
+            "repo": "crystal",
+            "stars": 3110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stellarlinkco/myclaude",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-04T04:25:57Z",
+            "owner": "stellarlinkco",
+            "repo": "myclaude",
+            "stars": 2745
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "agentlas-ai/Agentlas-OS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T14:24:26Z",
+            "owner": "agentlas-ai",
+            "repo": "Agentlas-OS",
+            "stars": 1157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dlorenc/multiclaude",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-01-28T23:14:09Z",
+            "owner": "dlorenc",
+            "repo": "multiclaude",
+            "stars": 562
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ofekron/better-agent",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T02:26:38Z",
+            "owner": "ofekron",
+            "repo": "better-agent",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "supernovae-st/nika",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T21:53:26Z",
+            "owner": "supernovae-st",
+            "repo": "nika",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "5dive-ai/5dive",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-13T02:00:22Z",
+            "owner": "5dive-ai",
+            "repo": "5dive",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Varalix-Digitech-Solutions/clone-team",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-17T01:33:28Z",
+            "owner": "Varalix-Digitech-Solutions",
+            "repo": "clone-team",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "beastlabai/multi-llm-plugin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T15:41:50Z",
+            "owner": "beastlabai",
+            "repo": "multi-llm-plugin",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ymxlx/polis-protocol",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T20:35:53Z",
+            "owner": "ymxlx",
+            "repo": "polis-protocol",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Varalix-Digitech-Solutions/game-build-team-skill",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-11T09:35:57Z",
+            "owner": "Varalix-Digitech-Solutions",
+            "repo": "game-build-team-skill",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gyujeongion/llm-council-no-api",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-02T19:55:47Z",
+            "owner": "gyujeongion",
+            "repo": "llm-council-no-api",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gyujeongion/claude-code-goal-loop",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-28T12:17:14Z",
+            "owner": "gyujeongion",
+            "repo": "claude-code-goal-loop",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Orchestration Platforms"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ruvnet/ruflo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T22:32:57Z",
+            "owner": "ruvnet",
+            "repo": "ruflo",
+            "stars": 67748
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yeachan-Heo/oh-my-claudecode",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T04:01:00Z",
+            "owner": "Yeachan-Heo",
+            "repo": "oh-my-claudecode",
+            "stars": 38534
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "smtg-ai/claude-squad",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-30T16:45:40Z",
+            "owner": "smtg-ai",
+            "repo": "claude-squad",
+            "stars": 8301
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SeemSeam/claude_codex_bridge",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T23:22:15Z",
+            "owner": "SeemSeam",
+            "repo": "claude_codex_bridge",
+            "stars": 3406
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mikeyobrien/ralph-orchestrator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-25T03:50:59Z",
+            "owner": "mikeyobrien",
+            "repo": "ralph-orchestrator",
+            "stars": 3098
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "michaelshimeles/ralphy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-05T16:28:20Z",
+            "owner": "michaelshimeles",
+            "repo": "ralphy",
+            "stars": 2958
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "subsy/ralph-tui",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-13T19:16:05Z",
+            "owner": "subsy",
+            "repo": "ralph-tui",
+            "stars": 2426
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dicklesworthstone/claude_code_agent_farm",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-04-06T00:02:12Z",
+            "owner": "Dicklesworthstone",
+            "repo": "claude_code_agent_farm",
+            "stars": 902
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "disler/infinite-agentic-loop",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-03-09T14:29:59Z",
+            "owner": "disler",
+            "repo": "infinite-agentic-loop",
+            "stars": 609
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "avelikiy/great_cto",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T14:45:58Z",
+            "owner": "avelikiy",
+            "repo": "great_cto",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutomateLab-tech/agency-os",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-03T13:45:27Z",
+            "owner": "AutomateLab-tech",
+            "repo": "agency-os",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Parallel Processing"
+    },
+    {
+      "description": "Professional-grade security skills for vulnerability detection, code auditing, and compliance.",
+      "items": [],
+      "title": "Security & Compliance"
+    },
+    {
+      "description": "n- GiulioDER/cca-audit",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mukul975/Anthropic-Cybersecurity-Skills",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T14:55:19Z",
+            "owner": "mukul975",
+            "repo": "Anthropic-Cybersecurity-Skills",
+            "stars": 27698
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SimoneAvogadro/android-reverse-engineering-skill",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-06-10T13:03:36Z",
+            "owner": "SimoneAvogadro",
+            "repo": "android-reverse-engineering-skill",
+            "stars": 6773
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vercel-labs/deepsec",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T00:55:17Z",
+            "owner": "vercel-labs",
+            "repo": "deepsec",
+            "stars": 6684
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trailofbits/skills",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T16:35:31Z",
+            "owner": "trailofbits",
+            "repo": "skills",
+            "stars": 6564
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gadievron/raptor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T00:14:47Z",
+            "owner": "gadievron",
+            "repo": "raptor",
+            "stars": 3611
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LoRexxar/Kunlun-M",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T02:47:39Z",
+            "owner": "LoRexxar",
+            "repo": "Kunlun-M",
+            "stars": 2407
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wrsmith108/varlock-claude-skill",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-04T01:12:04Z",
+            "owner": "wrsmith108",
+            "repo": "varlock-claude-skill",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "moltenbit/should-i-care",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-29T12:33:04Z",
+            "owner": "moltenbit",
+            "repo": "should-i-care",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpicyNoodles3/claude-code-file-guard",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-07T10:09:32Z",
+            "owner": "SpicyNoodles3",
+            "repo": "claude-code-file-guard",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Security Analysis"
+    },
+    {
+      "description": "Skills for marketing professionals, content creators, and growth teams.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "nexu-io/open-design",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T04:02:05Z",
+            "owner": "nexu-io",
+            "repo": "open-design",
+            "stars": 85386
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "coreyhaines31/marketingskills",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-29T05:41:15Z",
+            "owner": "coreyhaines31",
+            "repo": "marketingskills",
+            "stars": 44070
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "op7418/guizang-ppt-skill",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-07T03:58:08Z",
+            "owner": "op7418",
+            "repo": "guizang-ppt-skill",
+            "stars": 23882
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "alchaincyf/huashu-design",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-27T02:53:02Z",
+            "owner": "alchaincyf",
+            "repo": "huashu-design",
+            "stars": 22923
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgriciDaniel/claude-seo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-27T06:09:54Z",
+            "owner": "AgriciDaniel",
+            "repo": "claude-seo",
+            "stars": 14039
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yizhiyanhua-ai/fireworks-tech-graph",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-17T04:25:22Z",
+            "owner": "yizhiyanhua-ai",
+            "repo": "fireworks-tech-graph",
+            "stars": 9863
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zubair-trabzada/geo-seo-claude",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T06:35:11Z",
+            "owner": "zubair-trabzada",
+            "repo": "geo-seo-claude",
+            "stars": 9331
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgriciDaniel/claude-ads",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-13T20:22:29Z",
+            "owner": "AgriciDaniel",
+            "repo": "claude-ads",
+            "stars": 8015
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zarazhangrui/codebase-to-course",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-03-30T18:26:09Z",
+            "owner": "zarazhangrui",
+            "repo": "codebase-to-course",
+            "stars": 5386
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZSeven-W/openpencil",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T00:53:54Z",
+            "owner": "ZSeven-W",
+            "repo": "openpencil",
+            "stars": 4820
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nowork-studio/NotFair",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SEO skills",
+              "description": "site analysis, keyword research, meta tags, schema markup, GEO optimization, and content writing",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-08-13T00:45:53Z",
+                "owner": "nowork-studio",
+                "repo": "notfair-plugin",
+                "stars": 3346
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Google Ads skills",
+              "description": "audits, wasted-spend detection, search-term cleanup, keyword and bid management",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-08-13T00:45:53Z",
+                "owner": "nowork-studio",
+                "repo": "notfair-plugin",
+                "stars": 3346
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Meta Ads skills",
+              "description": "ROAS analysis, creative fatigue, and audience overlap detection",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-08-13T00:45:53Z",
+                "owner": "nowork-studio",
+                "repo": "notfair-plugin",
+                "stars": 3346
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T00:45:53Z",
+            "owner": "nowork-studio",
+            "repo": "notfair-plugin",
+            "stars": 3346
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clockless-org/html-anything",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-13T22:08:04Z",
+            "owner": "clockless-org",
+            "repo": "html-anything",
+            "stars": 132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cognyai/claude-code-marketing-skills",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-06-16T10:11:54Z",
+            "owner": "cognyai",
+            "repo": "claude-code-marketing-skills",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ndesv21/socialclaw",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-08T17:35:44Z",
+            "owner": "ndesv21",
+            "repo": "socialclaw",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "salespeak-ai/buyer-eval-skill",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-30T05:38:29Z",
+            "owner": "salespeak-ai",
+            "repo": "buyer-eval-skill",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Linked-API/linkedin-skills",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-21T09:25:45Z",
+            "owner": "Linked-API",
+            "repo": "linkedin-skills",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sergebulaev/facebook-skills",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T13:33:27Z",
+            "owner": "sergebulaev",
+            "repo": "facebook-skills",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "outreachmagic/outreachmagic",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T10:55:04Z",
+            "owner": "outreachmagic",
+            "repo": "outreachmagic",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aislinn-yang/rednote-writing-skill",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-13T14:37:14Z",
+            "owner": "aislinn-yang",
+            "repo": "rednote-writing-skill",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sequenzy/skills",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-09T20:03:35Z",
+            "owner": "Sequenzy",
+            "repo": "skills",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fjilvvi/growthlens",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-01T08:38:18Z",
+            "owner": "fjilvvi",
+            "repo": "growthlens",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Get-Maito/newsletter-skills",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-03T17:35:13Z",
+            "owner": "Get-Maito",
+            "repo": "newsletter-skills",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Marketing & Content"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Uhudsavasindankacanokcu2/finance-skills-for-claude",
+          "description": "Cash flow, runway, invoices, budgets & scenario modeling for founders/finance teams",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-19T15:26:13Z",
+            "owner": "Uhudsavasindankacanokcu2",
+            "repo": "finance-skills-for-claude",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Uhudsavasindankacanokcu2/recruiting-skills-for-claude",
+          "description": "Job descriptions, bias-aware resume screening & structured interview kits",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-19T15:27:11Z",
+            "owner": "Uhudsavasindankacanokcu2",
+            "repo": "recruiting-skills-for-claude",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Uhudsavasindankacanokcu2/legal-skills-for-claude",
+          "description": "Contract review, summarization, drafting & negotiation redlines in plain English",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-19T15:27:17Z",
+            "owner": "Uhudsavasindankacanokcu2",
+            "repo": "legal-skills-for-claude",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Domain-Specific Skills"
+    },
+    {
+      "description": "Utilities and tools to enhance your Claude workflow.",
+      "items": [],
+      "title": "Productivity Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "farion1231/cc-switch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T15:05:47Z",
+            "owner": "farion1231",
+            "repo": "cc-switch",
+            "stars": 126791
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CherryHQ/cherry-studio",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T04:04:32Z",
+            "owner": "CherryHQ",
+            "repo": "cherry-studio",
+            "stars": 50360
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iOfficeAI/AionUi",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:18:24Z",
+            "owner": "iOfficeAI",
+            "repo": "AionUi",
+            "stars": 31925
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "winfunc/opcode",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-10-16T12:05:56Z",
+            "owner": "winfunc",
+            "repo": "opcode",
+            "stars": 22364
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "siteboon/claudecodeui",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T01:33:34Z",
+            "owner": "siteboon",
+            "repo": "claudecodeui",
+            "stars": 13249
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ValueCell-ai/ClawX",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:00:08Z",
+            "owner": "ValueCell-ai",
+            "repo": "ClawX",
+            "stars": 7588
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "automazeio/vibeproxy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-12T12:20:47Z",
+            "owner": "automazeio",
+            "repo": "vibeproxy",
+            "stars": 3275
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jazzyalex/agent-sessions",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-12T23:27:16Z",
+            "owner": "jazzyalex",
+            "repo": "agent-sessions",
+            "stars": 777
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tristan666666/agent-island",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Desktop Applications & GUI Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "code-yeongyu/oh-my-openagent",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T04:02:08Z",
+            "owner": "code-yeongyu",
+            "repo": "oh-my-openagent",
+            "stars": 67783
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tailcallhq/forgecode",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T21:10:25Z",
+            "owner": "tailcallhq",
+            "repo": "forgecode",
+            "stars": 7484
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "max-sixty/worktrunk",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T23:49:43Z",
+            "owner": "max-sixty",
+            "repo": "worktrunk",
+            "stars": 6409
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "intellectronica/ruler",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T16:40:14Z",
+            "owner": "intellectronica",
+            "repo": "ruler",
+            "stars": 2864
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "notlikeDev/CCPlugins",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-26T15:20:03Z",
+            "owner": "notlikeDev",
+            "repo": "CCPlugins",
+            "stars": 2778
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "thousandflowers/skillreaper",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-04T13:12:58Z",
+            "owner": "thousandflowers",
+            "repo": "skillreaper",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KernelLord/pickysteve",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-16T22:24:18Z",
+            "owner": "KernelLord",
+            "repo": "pickysteve",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "huangji6693-max/claude-code-dna",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-05-26T15:22:03Z",
+            "owner": "huangji6693-max",
+            "repo": "claude-code-dna",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Battlelamb/claude-code-conversation-titler",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-10T06:49:53Z",
+            "owner": "Battlelamb",
+            "repo": "claude-code-conversation-titler",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Agent Harnesses & Meta-Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Graphify-Labs/graphify",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T13:28:38Z",
+            "owner": "Graphify-Labs",
+            "repo": "graphify",
+            "stars": 105733
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "thedotmack/claude-mem",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T01:59:22Z",
+            "owner": "thedotmack",
+            "repo": "claude-mem",
+            "stars": 90572
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeusData/codebase-memory-mcp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T01:16:50Z",
+            "owner": "DeusData",
+            "repo": "codebase-memory-mcp",
+            "stars": 38726
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tirth8205/code-review-graph",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T12:45:39Z",
+            "owner": "tirth8205",
+            "repo": "code-review-graph",
+            "stars": 29939
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "getzep/graphiti",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T20:16:17Z",
+            "owner": "getzep",
+            "repo": "graphiti",
+            "stars": 29868
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "supermemoryai/supermemory",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T01:44:12Z",
+            "owner": "supermemoryai",
+            "repo": "supermemory",
+            "stars": 28882
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gastownhall/beads",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T11:16:03Z",
+            "owner": "gastownhall",
+            "repo": "beads",
+            "stars": 26266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mksglu/context-mode",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T20:41:01Z",
+            "owner": "mksglu",
+            "repo": "context-mode",
+            "stars": 19830
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NevaMind-AI/memU",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T15:38:44Z",
+            "owner": "NevaMind-AI",
+            "repo": "memU",
+            "stars": 14294
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zilliztech/claude-context",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-14T12:00:38Z",
+            "owner": "zilliztech",
+            "repo": "claude-context",
+            "stars": 12389
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "breferrari/obsidian-mind",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-03T16:49:07Z",
+            "owner": "breferrari",
+            "repo": "obsidian-mind",
+            "stars": 4329
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "parcadei/Continuous-Claude-v3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-26T15:27:49Z",
+            "owner": "parcadei",
+            "repo": "Continuous-Claude-v3",
+            "stars": 3883
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "agenticnotetaking/arscontexta",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-02-24T23:54:21Z",
+            "owner": "agenticnotetaking",
+            "repo": "arscontexta",
+            "stars": 3470
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SamurAIGPT/llm-wiki-agent",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T04:55:24Z",
+            "owner": "SamurAIGPT",
+            "repo": "llm-wiki-agent",
+            "stars": 3355
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "letta-ai/claude-subconscious",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-01T23:32:16Z",
+            "owner": "letta-ai",
+            "repo": "claude-subconscious",
+            "stars": 2867
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fkiene/llmtrim",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T16:37:21Z",
+            "owner": "fkiene",
+            "repo": "llmtrim",
+            "stars": 208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hjqcan/GoodMemory",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T12:30:31Z",
+            "owner": "hjqcan",
+            "repo": "GoodMemory",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TerminallyLazy/Tree-Ring-Memory",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-23T22:36:20Z",
+            "owner": "TerminallyLazy",
+            "repo": "Tree-Ring-Memory",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "caioribeiroclw-pixel/pluribus",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-18T15:55:54Z",
+            "owner": "caioribeiroclw-pixel",
+            "repo": "pluribus",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bks-lab/open-bridge",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T10:23:01Z",
+            "owner": "bks-lab",
+            "repo": "open-bridge",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "maxbaluev/accreted-intelligence",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-05T18:31:50Z",
+            "owner": "maxbaluev",
+            "repo": "accreted-intelligence",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cremenescu/mem0ry4ai",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-26T16:47:41Z",
+            "owner": "cremenescu",
+            "repo": "mem0ry4ai",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sunnja69/akephalos",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-03T10:25:17Z",
+            "owner": "sunnja69",
+            "repo": "akephalos",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "0xsarwagya/ontoly",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T20:46:49Z",
+            "owner": "0xsarwagya",
+            "repo": "ontoly",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Memory & Context Management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "modelcontextprotocol/servers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T02:41:59Z",
+            "owner": "modelcontextprotocol",
+            "repo": "servers",
+            "stars": 89508
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "upstash/context7",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T22:12:13Z",
+            "owner": "upstash",
+            "repo": "context7",
+            "stars": 60665
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChromeDevTools/chrome-devtools-mcp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T15:49:57Z",
+            "owner": "ChromeDevTools",
+            "repo": "chrome-devtools-mcp",
+            "stars": 49055
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "microsoft/playwright-mcp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T20:16:20Z",
+            "owner": "microsoft",
+            "repo": "playwright-mcp",
+            "stars": 36064
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github/github-mcp-server",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T13:40:55Z",
+            "owner": "github",
+            "repo": "github-mcp-server",
+            "stars": 32198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nanocoai/nanoclaw",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T16:39:45Z",
+            "owner": "nanocoai",
+            "repo": "nanoclaw",
+            "stars": 30500
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "oraios/serena",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T13:06:48Z",
+            "owner": "oraios",
+            "repo": "serena",
+            "stars": 27938
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GLips/Figma-Context-MCP",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T04:58:42Z",
+            "owner": "GLips",
+            "repo": "Figma-Context-MCP",
+            "stars": 15643
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chenhg5/cc-connect",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-07T02:04:17Z",
+            "owner": "chenhg5",
+            "repo": "cc-connect",
+            "stars": 14881
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awslabs/mcp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T02:07:15Z",
+            "owner": "awslabs",
+            "repo": "mcp",
+            "stars": 9589
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wonderwhy-er/DesktopCommanderMCP",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-06T14:56:32Z",
+            "owner": "wonderwhy-er",
+            "repo": "DesktopCommanderMCP",
+            "stars": 9308
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eze-is/web-access",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-16T05:22:35Z",
+            "owner": "eze-is",
+            "repo": "web-access",
+            "stars": 8639
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "google-labs-code/stitch-skills",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-30T17:07:49Z",
+            "owner": "google-labs-code",
+            "repo": "stitch-skills",
+            "stars": 8028
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "firecrawl/firecrawl-mcp-server",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T20:16:10Z",
+            "owner": "firecrawl",
+            "repo": "firecrawl-mcp-server",
+            "stars": 7222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grab/cursor-talk-to-figma-mcp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-26T07:14:26Z",
+            "owner": "grab",
+            "repo": "cursor-talk-to-figma-mcp",
+            "stars": 6965
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sooperset/mcp-atlassian",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T16:20:56Z",
+            "owner": "sooperset",
+            "repo": "mcp-atlassian",
+            "stars": 5735
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "makenotion/notion-mcp-server",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-25T16:20:03Z",
+            "owner": "makenotion",
+            "repo": "notion-mcp-server",
+            "stars": 4588
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "atilaahmettaner/tradingview-mcp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T16:03:29Z",
+            "owner": "atilaahmettaner",
+            "repo": "tradingview-mcp",
+            "stars": 3944
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PleasePrompto/notebooklm-mcp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-01T05:51:20Z",
+            "owner": "PleasePrompto",
+            "repo": "notebooklm-mcp",
+            "stars": 3237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "op7418/Claude-to-IM-skill",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-23T17:03:44Z",
+            "owner": "op7418",
+            "repo": "Claude-to-IM-skill",
+            "stars": 2854
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RichardAtCT/claude-code-telegram",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-30T07:48:14Z",
+            "owner": "RichardAtCT",
+            "repo": "claude-code-telegram",
+            "stars": 2753
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubestellar/console",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:57:51Z",
+            "owner": "kubestellar",
+            "repo": "console",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "officialzeroxyz/zero-plugins",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-11T16:53:18Z",
+            "owner": "officialzeroxyz",
+            "repo": "zero-plugins",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "getformo/cli",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T04:17:07Z",
+            "owner": "getformo",
+            "repo": "cli",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "skillselion/skillselion-mcp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-09T18:29:40Z",
+            "owner": "skillselion",
+            "repo": "skillselion-mcp",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "MCP Servers & Integrations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "router-for-me/CLIProxyAPI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T17:50:55Z",
+            "owner": "router-for-me",
+            "repo": "CLIProxyAPI",
+            "stars": 47091
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "1rgs/claude-code-proxy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-23T02:46:08Z",
+            "owner": "1rgs",
+            "repo": "claude-code-proxy",
+            "stars": 3726
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "madhavajay/alex",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T02:23:52Z",
+            "owner": "madhavajay",
+            "repo": "alex",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sozercan/vekil",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T03:57:47Z",
+            "owner": "sozercan",
+            "repo": "vekil",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "runapi-ai/cli-skill",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-12T05:55:36Z",
+            "owner": "runapi-ai",
+            "repo": "cli-skill",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "API & Integration Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "musistudio/claude-code-router",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T04:36:47Z",
+            "owner": "musistudio",
+            "repo": "claude-code-router",
+            "stars": 36613
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "davila7/claude-code-templates",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:51:00Z",
+            "owner": "davila7",
+            "repo": "claude-code-templates",
+            "stars": 30218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UfoMiao/zcf",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T18:13:00Z",
+            "owner": "UfoMiao",
+            "repo": "zcf",
+            "stars": 6077
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MohamedAbdallah-14/unslop",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-29T06:09:56Z",
+            "owner": "MohamedAbdallah-14",
+            "repo": "unslop",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ainova-systems/intelligence-sync",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-29T14:27:20Z",
+            "owner": "ainova-systems",
+            "repo": "intelligence-sync",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "CLI Configuration Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "frankbria/ralph-claude-code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-18T02:33:21Z",
+            "owner": "frankbria",
+            "repo": "ralph-claude-code",
+            "stars": 9596
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "evalstate/fast-agent",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T23:12:02Z",
+            "owner": "evalstate",
+            "repo": "fast-agent",
+            "stars": 3887
+          }
+        }
+      ],
+      "title": "Autonomous Development"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jarrodwatts/claude-hud",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T17:02:36Z",
+            "owner": "jarrodwatts",
+            "repo": "claude-hud",
+            "stars": 27339
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "steipete/CodexBar",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-13T03:03:01Z",
+            "owner": "steipete",
+            "repo": "CodexBar",
+            "stars": 20015
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ccusage/ccusage",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T03:00:37Z",
+            "owner": "ccusage",
+            "repo": "ccusage",
+            "stars": 17887
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sirmalloc/ccstatusline",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-03T08:45:50Z",
+            "owner": "sirmalloc",
+            "repo": "ccstatusline",
+            "stars": 12378
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "getagentseal/codeburn",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T19:50:43Z",
+            "owner": "getagentseal",
+            "repo": "codeburn",
+            "stars": 9280
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Maciek-roboblog/Claude-Code-Usage-Monitor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-05T04:52:21Z",
+            "owner": "Maciek-roboblog",
+            "repo": "Claude-Code-Usage-Monitor",
+            "stars": 8622
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "backnotprop/plannotator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T04:04:11Z",
+            "owner": "backnotprop",
+            "repo": "plannotator",
+            "stars": 7723
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PeonPing/peon-ping",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-10T01:08:32Z",
+            "owner": "PeonPing",
+            "repo": "peon-ping",
+            "stars": 4993
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "junhoyeo/tokscale",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T01:03:26Z",
+            "owner": "junhoyeo",
+            "repo": "tokscale",
+            "stars": 4927
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "matt1398/claude-devtools",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-13T21:40:54Z",
+            "owner": "matt1398",
+            "repo": "claude-devtools",
+            "stars": 3824
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hamed-elfayome/Claude-Usage-Tracker",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-12T01:17:56Z",
+            "owner": "hamed-elfayome",
+            "repo": "Claude-Usage-Tracker",
+            "stars": 3256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZeframLou/call-me",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-07T01:30:52Z",
+            "owner": "ZeframLou",
+            "repo": "call-me",
+            "stars": 2631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yuyz0112/claude-code-reverse",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-08-26T15:29:53Z",
+            "owner": "Yuyz0112",
+            "repo": "claude-code-reverse",
+            "stars": 2425
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "disler/claude-code-hooks-multi-agent-observability",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-08T23:59:13Z",
+            "owner": "disler",
+            "repo": "claude-code-hooks-multi-agent-observability",
+            "stars": 1513
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "luoyuctl/agenttrace",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T01:07:58Z",
+            "owner": "luoyuctl",
+            "repo": "agenttrace",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Necmttn/ax",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T03:53:49Z",
+            "owner": "Necmttn",
+            "repo": "ax",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jakemarsh/ccthread",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-25T00:22:46Z",
+            "owner": "jakemarsh",
+            "repo": "ccthread",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eltonylfgi-blip/claude-session-triage",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-15T23:52:25Z",
+            "owner": "eltonylfgi-blip",
+            "repo": "claude-session-triage",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Monitoring & Observability"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "shanraisshan/claude-code-best-practice",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-13T03:46:13Z",
+            "owner": "shanraisshan",
+            "repo": "claude-code-best-practice",
+            "stars": 64410
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "centminmod/my-claude-code-setup",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T10:25:31Z",
+            "owner": "centminmod",
+            "repo": "my-claude-code-setup",
+            "stars": 2574
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "abhishekray07/claude-md-templates",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-18T16:18:25Z",
+            "owner": "abhishekray07",
+            "repo": "claude-md-templates",
+            "stars": 314
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sneg55/agent-starter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-27T10:04:18Z",
+            "owner": "sneg55",
+            "repo": "agent-starter",
+            "stars": 78
+          }
+        }
+      ],
+      "title": "Configuration & Templates"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "JuliusBrussee/caveman",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T00:29:06Z",
+            "owner": "JuliusBrussee",
+            "repo": "caveman",
+            "stars": 97820
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nadimtuhin/claude-token-optimizer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T08:50:35Z",
+            "owner": "nadimtuhin",
+            "repo": "claude-token-optimizer",
+            "stars": 550
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sagargupta16/claude-cost-optimizer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-25T04:55:28Z",
+            "owner": "Sagargupta16",
+            "repo": "claude-cost-optimizer",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutomateLab-tech/publishing-skills",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-19T07:13:23Z",
+            "owner": "AutomateLab-tech",
+            "repo": "publishing-skills",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Cost Optimization"
+    },
+    {
+      "description": "Resources for mastering Claude skills and understanding best practices.",
+      "items": [],
+      "title": "Learning & Documentation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "shareAI-lab/learn-claude-code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T19:33:31Z",
+            "owner": "shareAI-lab",
+            "repo": "learn-claude-code",
+            "stars": 74032
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "luongnv89/claude-howto",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T00:58:47Z",
+            "owner": "luongnv89",
+            "repo": "claude-howto",
+            "stars": 40999
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Piebald-AI/claude-code-system-prompts",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T21:51:34Z",
+            "owner": "Piebald-AI",
+            "repo": "claude-code-system-prompts",
+            "stars": 12270
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "diet103/claude-code-infrastructure-showcase",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-13T22:59:08Z",
+            "owner": "diet103",
+            "repo": "claude-code-infrastructure-showcase",
+            "stars": 9995
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ykdojo/claude-code-tips",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-06T01:26:59Z",
+            "owner": "ykdojo",
+            "repo": "claude-code-tips",
+            "stars": 9609
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChrisWiles/claude-code-showcase",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-06T19:05:18Z",
+            "owner": "ChrisWiles",
+            "repo": "claude-code-showcase",
+            "stars": 6015
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FlorianBruniaux/claude-code-ultimate-guide",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T09:21:40Z",
+            "owner": "FlorianBruniaux",
+            "repo": "claude-code-ultimate-guide",
+            "stars": 5714
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KimYx0207/AI-Coding-Guide-Zh",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-12T20:41:23Z",
+            "owner": "KimYx0207",
+            "repo": "AI-Coding-Guide-Zh",
+            "stars": 5673
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zebbern/claude-code-guide",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T00:38:51Z",
+            "owner": "zebbern",
+            "repo": "claude-code-guide",
+            "stars": 4560
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lintsinghua/claude-code-book",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-19T05:47:21Z",
+            "owner": "lintsinghua",
+            "repo": "claude-code-book",
+            "stars": 4086
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jamesmurdza/awesome-ai-devtools",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-11T19:10:35Z",
+            "owner": "jamesmurdza",
+            "repo": "awesome-ai-devtools",
+            "stars": 3912
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "disler/claude-code-hooks-mastery",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-04T18:16:25Z",
+            "owner": "disler",
+            "repo": "claude-code-hooks-mastery",
+            "stars": 3886
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OneRedOak/claude-code-workflows",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-09-14T07:33:32Z",
+            "owner": "OneRedOak",
+            "repo": "claude-code-workflows",
+            "stars": 3883
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Windy3f3f3f3f/how-claude-code-works",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-12T09:37:30Z",
+            "owner": "Windy3f3f3f3f",
+            "repo": "how-claude-code-works",
+            "stars": 3427
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Meirtz/Awesome-Context-Engineering",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-28T05:40:26Z",
+            "owner": "Meirtz",
+            "repo": "Awesome-Context-Engineering",
+            "stars": 3276
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cranot/claude-code-guide",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-27T15:48:54Z",
+            "owner": "Cranot",
+            "repo": "claude-code-guide",
+            "stars": 2862
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KhazP/vibe-coding-prompt-template",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-18T21:54:53Z",
+            "owner": "KhazP",
+            "repo": "vibe-coding-prompt-template",
+            "stars": 2831
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rosmur/claudecode-best-practices",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-09T05:53:38Z",
+            "owner": "rosmur",
+            "repo": "claudecode-best-practices",
+            "stars": 85
+          }
+        }
+      ],
+      "title": "Comprehensive Guides"
+    },
+    {
+      "description": "Tools and frameworks for creating your own Claude skills.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "agentskills/agentskills",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T20:36:04Z",
+            "owner": "agentskills",
+            "repo": "agentskills",
+            "stars": 24202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yusufkaraaslan/Skill_Seekers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T13:13:26Z",
+            "owner": "yusufkaraaslan",
+            "repo": "Skill_Seekers",
+            "stars": 14752
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "numman-ali/openskills",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-18T13:09:50Z",
+            "owner": "numman-ali",
+            "repo": "openskills",
+            "stars": 10690
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "refly-ai/refly",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-29T05:25:23Z",
+            "owner": "refly-ai",
+            "repo": "refly",
+            "stars": 7482
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tech-leads-club/agent-skills",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-06T19:57:06Z",
+            "owner": "tech-leads-club",
+            "repo": "agent-skills",
+            "stars": 5020
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gotalab/cc-sdd",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-20T08:45:14Z",
+            "owner": "gotalab",
+            "repo": "cc-sdd",
+            "stars": 3617
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "microsoft/apm",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T03:34:16Z",
+            "owner": "microsoft",
+            "repo": "apm",
+            "stars": 3525
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "alirezarezvani/claude-code-skill-factory",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-12T15:30:27Z",
+            "owner": "alirezarezvani",
+            "repo": "claude-code-skill-factory",
+            "stars": 848
+          }
+        }
+      ],
+      "title": "Skill Development"
+    },
+    {
+      "description": "CC0 - Public Domain\nThis curated list is maintained by the community for the community.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:04:39.514Z",
+    "original_repository": "GetBindu/awesome-claude-code-and-skills",
+    "original_repository_sha": "4ca251a8398f33dbb7f48189077e3deabad252e1",
+    "enhanced_repository": "enhansome/enhansome-claude-code-and-skills",
+    "enhanced_repository_description": null,
+    "title": "Awesome Claude Skills with stars"
+  }
+}
