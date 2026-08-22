@@ -43,43 +43,43 @@ Claude skills are structured instructions and configurations that guide Claude t
 
 Start here for official tools and documentation from Anthropic.
 
-* [anthropics/skills](https://github.com/anthropics/skills) ⭐ 170,863 | 🐛 1,136 | 🌐 Python | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/anthropics/skills?style=flat-square)
+* [anthropics/skills](https://github.com/anthropics/skills) ⭐ 171,021 | 🐛 1,140 | 🌐 Python | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/anthropics/skills?style=flat-square)
   * Official repository for Claude Agent Skills
   * Includes document processing (docx, pdf, pptx, xlsx)
   * Art and design capabilities
   * MCP (Model Context Protocol) builder
 
-* [anthropics/claude-code](https://github.com/anthropics/claude-code) ⭐ 142,293 | 🐛 14,994 | 🌐 Python | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/anthropics/claude-code?style=flat-square)
+* [anthropics/claude-code](https://github.com/anthropics/claude-code) ⭐ 142,507 | 🐛 15,059 | 🌐 Python | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/anthropics/claude-code?style=flat-square)
   * Official Claude Code agentic coding tool
   * Lives in your terminal and understands your codebase
   * AI-powered development assistant
   * Built by Anthropic
 
-* [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) ⭐ 33,795 | 🐛 947 | 🌐 Python | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/anthropics/claude-plugins-official?style=flat-square)
+* [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) ⭐ 33,829 | 🐛 969 | 🌐 Python | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/anthropics/claude-plugins-official?style=flat-square)
   * Official Anthropic-managed plugin directory
   * Curated collection of high-quality Claude Code plugins
   * Verified and maintained by Anthropic
   * Includes internal and external plugins
 
-* [anthropics/claude-for-legal](https://github.com/anthropics/claude-for-legal) ⭐ 9,217 | 🐛 67 | 🌐 Python | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/anthropics/claude-for-legal?style=flat-square)
+* [anthropics/claude-for-legal](https://github.com/anthropics/claude-for-legal) ⭐ 9,223 | 🐛 67 | 🌐 Python | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/anthropics/claude-for-legal?style=flat-square)
   * Official Anthropic suite of plugins for legal workflows
   * Targets common legal-team tasks across drafting, review, and search
   * Python-based; maintained by Anthropic
 
-* [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) ⭐ 8,691 | 🐛 701 | 🌐 TypeScript | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/anthropics/claude-code-action?style=flat-square)
+* [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) ⭐ 8,698 | 🐛 702 | 🌐 TypeScript | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/anthropics/claude-code-action?style=flat-square)
   * GitHub Action for Claude Code integration
   * Automated code review and analysis
   * CI/CD pipeline integration
   * Official Anthropic GitHub Actions support
 
-* [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) ⭐ 6,002 | 🐛 81 | 🌐 Python | 📅 2026-02-11 ![Stars](https://img.shields.io/github/stars/anthropics/claude-code-security-review?style=flat-square)
+* [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) ⭐ 6,007 | 🐛 81 | 🌐 Python | 📅 2026-02-11 ![Stars](https://img.shields.io/github/stars/anthropics/claude-code-security-review?style=flat-square)
   * AI-powered security review GitHub Action
   * Analyze code changes for security vulnerabilities
   * Context-aware security analysis for pull requests
   * Deep semantic security analysis using Claude
   * Official Anthropic security tooling
 
-* [anthropics/claude-code-base-action](https://github.com/anthropics/claude-code-base-action) ⭐ 950 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/anthropics/claude-code-base-action?style=flat-square)
+* [anthropics/claude-code-base-action](https://github.com/anthropics/claude-code-base-action) ⭐ 951 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/anthropics/claude-code-base-action?style=flat-square)
   * Base GitHub Action for custom Claude Code workflows
   * Build any custom workflow on top of Claude Code
   * Settings and MCP configuration support
@@ -92,100 +92,100 @@ Start here for official tools and documentation from Anthropic.
 
 These repositories offer extensive collections of skills across multiple domains. Great starting points if you want a broad toolkit.
 
-* [garrytan/gstack](https://github.com/garrytan/gstack) ⭐ 129,077 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/garrytan/gstack?style=flat-square)
+* [garrytan/gstack](https://github.com/garrytan/gstack) ⭐ 129,211 | 🐛 796 | 🌐 TypeScript | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/garrytan/gstack?style=flat-square)
   * Garry Tan's exact Claude Code setup
   * 6 opinionated tools for startup leadership
   * Includes CEO, Engineering Manager, Release Manager, QA agents
   * Production-tested by Y Combinator president
 
-* [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) ⭐ 72,975 | 🐛 1,303 | 🌐 Python | 📅 2026-08-10 ![Stars](https://img.shields.io/github/stars/ComposioHQ/awesome-claude-skills?style=flat-square)
+* [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) ⭐ 73,033 | 🐛 1,309 | 🌐 Python | 📅 2026-08-10 ![Stars](https://img.shields.io/github/stars/ComposioHQ/awesome-claude-skills?style=flat-square)
   * Composio-curated directory of Claude Skills, plugins, and workflow integrations
   * Covers agent skills, MCP servers, Claude Code, Codex, Cursor, Gemini CLI, and Antigravity
   * Sections for SaaS automation, developer tools, and Rube integrations
   * Active community contributions with Python-driven generator scripts
 
-* [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) ⭐ 52,772 | 🐛 906 | 🌐 Python | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/hesreallyhim/awesome-claude-code?style=flat-square)
+* [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) ⭐ 52,828 | 🐛 915 | 🌐 Python | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/hesreallyhim/awesome-claude-code?style=flat-square)
   * One of the largest community-curated Claude Code lists
   * Indexes skills, hooks, slash commands, agent orchestrators, applications, and plugins
   * Tagged for agentic coding and AI workflow optimization
   * Frequently referenced as a starting point for Claude Code newcomers
 
-* [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) ⭐ 52,103 | 🐛 2 | 📅 2026-08-20 ![Stars](https://img.shields.io/github/stars/VoltAgent/awesome-openclaw-skills?style=flat-square)
+* [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) ⭐ 52,120 | 🐛 4 | 📅 2026-08-20 ![Stars](https://img.shields.io/github/stars/VoltAgent/awesome-openclaw-skills?style=flat-square)
   * 5,400+ skills filtered and categorized from the OpenClaw Skills Registry
   * Indexed by domain with quality and recency filters
   * Companion to VoltAgent's awesome-agent-skills and awesome-claude-code-subagents lists
 
-* [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) ⭐ 45,238 | 🐛 11 | 🌐 Python | 📅 2026-08-20 ![Stars](https://img.shields.io/github/stars/sickn33/agentic-awesome-skills?style=flat-square)
+* [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) ⭐ 45,272 | 🐛 13 | 🌐 Python | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/sickn33/agentic-awesome-skills?style=flat-square)
   * 1,326+ installable agentic skills
   * CLI installer for easy setup
   * Bundled workflows for common tasks
 
-* [wshobson/agents](https://github.com/wshobson/agents) ⭐ 39,005 | 🐛 9 | 🌐 Python | 📅 2026-08-18 ![Stars](https://img.shields.io/github/stars/wshobson/agents?style=flat-square)
+* [wshobson/agents](https://github.com/wshobson/agents) ⭐ 39,029 | 🐛 6 | 🌐 Python | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/wshobson/agents?style=flat-square)
   * 112 specialized agents across 72 focused plugins
   * 16 orchestrators for complex workflows
   * 146 skills and 79 tools
   * Well-organized by use case
 
-* [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) ⭐ 30,709 | 🐛 19 | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/VoltAgent/awesome-agent-skills?style=flat-square)
+* [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) ⭐ 30,933 | 🐛 23 | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/VoltAgent/awesome-agent-skills?style=flat-square)
   * 1000+ agent skills from official dev teams
   * Contributions from Sentry, Trail of Bits, Expo, DuckDB, Figma, Google
   * Community-driven with regular updates
 
-* [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) ⭐ 24,773 | 🐛 7 | 🌐 Python | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/alirezarezvani/claude-skills?style=flat-square)
+* [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) ⭐ 24,813 | 🐛 9 | 🌐 Python | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/alirezarezvani/claude-skills?style=flat-square)
   * 192+ professional skills and agent plugins
   * Engineering, marketing, product management
   * Compliance and C-level advisory capabilities
   * Compatible with 11 different tools
 
-* [SuperClaude-Org/SuperClaude\_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) ⭐ 23,841 | 🐛 73 | 🌐 Python | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/SuperClaude-Org/SuperClaude_Framework?style=flat-square)
+* [SuperClaude-Org/SuperClaude\_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) ⭐ 23,841 | 🐛 74 | 🌐 Python | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/SuperClaude-Org/SuperClaude_Framework?style=flat-square)
   * Configuration framework for structured development
   * 30 slash commands covering complete development lifecycle
   * Cognitive personas and behavioral modes
   * Deep research capabilities with autonomous web research
   * MCP server integration and workflow automation
 
-* [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) ⭐ 17,797 | 🐛 53 | 🌐 Python | 📅 2026-08-19 ![Stars](https://img.shields.io/github/stars/muratcankoylan/Agent-Skills-for-Context-Engineering?style=flat-square)
+* [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) ⭐ 17,802 | 🐛 53 | 🌐 Python | 📅 2026-08-19 ![Stars](https://img.shields.io/github/stars/muratcankoylan/Agent-Skills-for-Context-Engineering?style=flat-square)
   * Open collection of agent skills focused on context engineering principles
   * Foundational, architectural, operational, and methodology skill tracks
   * Skills cover context compression, degradation patterns, memory systems, tool design, and LLM-as-judge evaluation
   * Designed for production-grade agent systems on any agent platform
 
-* [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) ⭐ 14,762 | 🐛 745 | 📅 2026-04-28 ![Stars](https://img.shields.io/github/stars/travisvn/awesome-claude-skills?style=flat-square)
+* [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) ⭐ 14,776 | 🐛 747 | 📅 2026-04-28 ![Stars](https://img.shields.io/github/stars/travisvn/awesome-claude-skills?style=flat-square)
   * Curated list focused on Claude Skills with a Claude Code emphasis
   * Includes Claude Code, Claude Desktop, and Claude AI tooling
   * Lightweight directory designed for fast scanning
 
-* [huggingface/skills](https://github.com/huggingface/skills) ⭐ 10,952 | 🐛 40 | 🌐 Python | 📅 2026-08-18 ![Stars](https://img.shields.io/github/stars/huggingface/skills?style=flat-square)
+* [huggingface/skills](https://github.com/huggingface/skills) ⭐ 10,953 | 🐛 40 | 🌐 Python | 📅 2026-08-18 ![Stars](https://img.shields.io/github/stars/huggingface/skills?style=flat-square)
   * Skills for plugging the Hugging Face ecosystem into AI coding agents
   * Covers model search, dataset access, Spaces, and Inference Endpoints
   * Python-driven, maintained by Hugging Face
 
-* [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) ⭐ 10,484 | 🐛 16 | 🌐 CSS | 📅 2026-07-12 ![Stars](https://img.shields.io/github/stars/ConardLi/garden-skills?style=flat-square)
+* [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) ⭐ 10,494 | 🐛 16 | 🌐 CSS | 📅 2026-07-12 ![Stars](https://img.shields.io/github/stars/ConardLi/garden-skills?style=flat-square)
   * ConardLi's open-source skills collection
   * Web design, knowledge retrieval, and image generation skills
   * CSS-driven visual assets
 
-* [jnMetaCode/superpowers-zh](https://github.com/jnMetaCode/superpowers-zh) ⭐ 7,774 | 🐛 18 | 🌐 JavaScript | 📅 2026-08-18 ![Stars](https://img.shields.io/github/stars/jnMetaCode/superpowers-zh?style=flat-square)
+* [jnMetaCode/superpowers-zh](https://github.com/jnMetaCode/superpowers-zh) ⭐ 7,787 | 🐛 18 | 🌐 JavaScript | 📅 2026-08-18 ![Stars](https://img.shields.io/github/stars/jnMetaCode/superpowers-zh?style=flat-square)
   * Chinese expansion of obra/superpowers
   * Translates the upstream skill bundle and adds six original Chinese skills
   * Shell-based installer
 
-* [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) ⭐ 6,125 | 🐛 269 | 🌐 TypeScript | 📅 2026-04-05 ![Stars](https://img.shields.io/github/stars/heilcheng/awesome-agent-skills?style=flat-square)
+* [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) ⭐ 6,126 | 🐛 270 | 🌐 TypeScript | 📅 2026-04-05 ![Stars](https://img.shields.io/github/stars/heilcheng/awesome-agent-skills?style=flat-square)
   * Tutorials, guides, and agent-skills directories in one place
   * Aggregates resources across the agent-skills ecosystem
   * TypeScript-based site for browsing
 
-* [antfu/skills](https://github.com/antfu/skills) ⭐ 5,786 | 🐛 10 | 🌐 TypeScript | 📅 2026-06-23 ![Stars](https://img.shields.io/github/stars/antfu/skills?style=flat-square)
+* [antfu/skills](https://github.com/antfu/skills) ⭐ 5,789 | 🐛 10 | 🌐 TypeScript | 📅 2026-06-23 ![Stars](https://img.shields.io/github/stars/antfu/skills?style=flat-square)
   * Anthony Fu's curated collection of agent skills
   * Skills cover web tooling, build configuration, and developer ergonomics
   * TypeScript implementation
 
-* [langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts) ⭐ 5,431 | 🐛 19 | 📅 2026-02-28 ![Stars](https://img.shields.io/github/stars/langgptai/awesome-claude-prompts?style=flat-square)
+* [langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts) ⭐ 5,432 | 🐛 19 | 📅 2026-02-28 ![Stars](https://img.shields.io/github/stars/langgptai/awesome-claude-prompts?style=flat-square)
   * Curated Claude prompts for everyday use cases
   * Helps non-developers get more from Claude
   * Maintained by LangGPT
 
-* [libukai/awesome-agent-skills](https://github.com/libukai/awesome-agent-skills) ⭐ 4,998 | 🐛 93 | 📅 2026-08-05 ![Stars](https://img.shields.io/github/stars/libukai/awesome-agent-skills?style=flat-square)
+* [libukai/awesome-agent-skills](https://github.com/libukai/awesome-agent-skills) ⭐ 5,001 | 🐛 93 | 📅 2026-08-05 ![Stars](https://img.shields.io/github/stars/libukai/awesome-agent-skills?style=flat-square)
   * Chinese-language ultimate guide to Agent Skills
   * Quick start, resource recommendations, curated skills, and tooling
   * Python-driven generator
@@ -195,28 +195,28 @@ These repositories offer extensive collections of skills across multiple domains
   * Translated and reorganized by scenario for natural-language invocation
   * Companion to the official Clawdbot skills directory
 
-* [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) ⭐ 3,927 | 🐛 86 | 🌐 HTML | 📅 2026-05-25 ![Stars](https://img.shields.io/github/stars/mergisi/awesome-openclaw-agents?style=flat-square)
+* [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) ⭐ 3,929 | 🐛 87 | 🌐 HTML | 📅 2026-05-25 ![Stars](https://img.shields.io/github/stars/mergisi/awesome-openclaw-agents?style=flat-square)
   * 162 production-ready AI agent templates with `SOUL.md` configs
   * Templates organized into 19 categories
   * HTML-driven gallery
 
-* [davepoon/buildwithclaude](https://github.com/davepoon/buildwithclaude) ⭐ 3,305 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/davepoon/buildwithclaude?style=flat-square)
+* [davepoon/buildwithclaude](https://github.com/davepoon/buildwithclaude) ⭐ 3,311 | 🐛 14 | 🌐 Python | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/davepoon/buildwithclaude?style=flat-square)
   * Hub for Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections
   * Extends Claude Code and Claude Desktop
   * Python-driven discovery layer
 
-* [microsoft/skills](https://github.com/microsoft/skills) ⭐ 2,931 | 🐛 63 | 🌐 TypeScript | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/microsoft/skills?style=flat-square)
+* [microsoft/skills](https://github.com/microsoft/skills) ⭐ 2,934 | 🐛 63 | 🌐 TypeScript | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/microsoft/skills?style=flat-square)
   * Microsoft-published skills, MCP servers, and Custom Agents
   * Ships `AGENTS.md` bundles for grounding coding agents
   * TypeScript-driven; useful starting point for enterprise teams
 
-* [rohitg00/awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit) ⭐ 2,538 | 🐛 290 | 🌐 JavaScript | 📅 2026-05-12 ![Stars](https://img.shields.io/github/stars/rohitg00/awesome-claude-code-toolkit?style=flat-square)
+* [rohitg00/awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit) ⭐ 2,541 | 🐛 290 | 🌐 JavaScript | 📅 2026-05-12 ![Stars](https://img.shields.io/github/stars/rohitg00/awesome-claude-code-toolkit?style=flat-square)
   * Most comprehensive toolkit available
   * 135 agents, 35 skills, 42 commands
   * 150+ plugins, 19 hooks, 7 templates
   * Covers development, DevOps, and productivity
 
-* [JasonColapietro/suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) ⭐ 151 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-19 ![Stars](https://img.shields.io/github/stars/JasonColapietro/suede-creator-skills?style=flat-square)
+* [JasonColapietro/suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) ⭐ 152 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/JasonColapietro/suede-creator-skills?style=flat-square)
   * 67 MIT-licensed skills for Claude Code and Codex
   * Covers code review and ship grading, design, marketing, agent workflows, and mobile release preparation
   * Installable through the Claude and Codex plugin marketplaces or the skills CLI
@@ -244,22 +244,22 @@ These repositories offer extensive collections of skills across multiple domains
 
 ***
 
-* [abubakarsiddik31/claude-skills-collection](https://github.com/abubakarsiddik31/claude-skills-collection) ⭐ 1,042 | 🐛 12 | 📅 2026-08-14 ![Stars](https://img.shields.io/github/stars/abubakarsiddik31/claude-skills-collection?style=flat-square)
+* [abubakarsiddik31/claude-skills-collection](https://github.com/abubakarsiddik31/claude-skills-collection) ⭐ 1,045 | 🐛 12 | 📅 2026-08-14 ![Stars](https://img.shields.io/github/stars/abubakarsiddik31/claude-skills-collection?style=flat-square)
   * Curated collection of official and community Claude Skills
   * Spans productivity, creativity, coding, and content workflows
   * Actively maintained general-purpose skills library
 
-* [levnikolaevich/claude-code-skills](https://github.com/levnikolaevich/claude-code-skills) ⭐ 539 | 🐛 0 | 🌐 HTML | 📅 2026-08-07 ![Stars](https://img.shields.io/github/stars/levnikolaevich/claude-code-skills?style=flat-square)
+* [levnikolaevich/claude-code-skills](https://github.com/levnikolaevich/claude-code-skills) ⭐ 543 | 🐛 0 | 🌐 HTML | 📅 2026-08-07 ![Stars](https://img.shields.io/github/stars/levnikolaevich/claude-code-skills?style=flat-square)
   * Standalone engineering skills organized by numbered categories
   * Review, audit, optimization, testing, product discovery, architecture, and safe publishing
   * Works with Claude Code and Codex; MIT licensed
 
-* [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) ⭐ 531 | 🐛 4 | 🌐 HTML | 📅 2026-08-12 ![Stars](https://img.shields.io/github/stars/borghei/Claude-Skills?style=flat-square)
+* [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) ⭐ 536 | 🐛 4 | 🌐 HTML | 📅 2026-08-12 ![Stars](https://img.shields.io/github/stars/borghei/Claude-Skills?style=flat-square)
   * 368 skills, 76 expert agents, and 859 standard-library Python tools
   * Spans engineering, PM, marketing, C-level, compliance, and research
   * Persona system (`startup-cto`, `growth-marketer`, etc.); works with Claude Code, Cursor, Codex, Gemini, and Copilot
 
-* [karanb192/awesome-claude-skills](https://github.com/karanb192/awesome-claude-skills) ⭐ 495 | 🐛 174 | 📅 2026-08-05 ![Stars](https://img.shields.io/github/stars/karanb192/awesome-claude-skills?style=flat-square)
+* [karanb192/awesome-claude-skills](https://github.com/karanb192/awesome-claude-skills) ⭐ 496 | 🐛 176 | 📅 2026-08-05 ![Stars](https://img.shields.io/github/stars/karanb192/awesome-claude-skills?style=flat-square)
   * Curated "awesome" list of 50+ verified skills
   * Covers Claude Code, Claude.ai, and the API
   * Document processing, git workflows, TDD, and debugging; MIT licensed
@@ -286,51 +286,51 @@ Skills focused on software development, code quality, and engineering workflows.
 
 ### Core Development Skills
 
-* [obra/superpowers](https://github.com/obra/superpowers) ⭐ 275,628 | 🐛 299 | 🌐 Shell | 📅 2026-08-19 ![Stars](https://img.shields.io/github/stars/obra/superpowers?style=flat-square)
+* [obra/superpowers](https://github.com/obra/superpowers) ⭐ 276,161 | 🐛 307 | 🌐 Shell | 📅 2026-08-19 ![Stars](https://img.shields.io/github/stars/obra/superpowers?style=flat-square)
   * 20+ battle-tested development skills
   * TDD (Test-Driven Development) workflows
   * Debugging patterns and collaboration tools
   * Git workflows and best practices
 
-* [affaan-m/ECC](https://github.com/affaan-m/ECC) ⭐ 241,770 | 🐛 145 | 🌐 JavaScript | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/affaan-m/ECC?style=flat-square)
+* [affaan-m/ECC](https://github.com/affaan-m/ECC) ⭐ 242,155 | 🐛 148 | 🌐 JavaScript | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/affaan-m/ECC?style=flat-square)
   * Agent harness performance optimization
   * Research-first development approach
   * Memory management and security patterns
 
-* [mattpocock/skills](https://github.com/mattpocock/skills) ⭐ 229,356 | 🐛 374 | 🌐 Shell | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/mattpocock/skills?style=flat-square)
+* [mattpocock/skills](https://github.com/mattpocock/skills) ⭐ 231,915 | 🐛 385 | 🌐 Shell | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/mattpocock/skills?style=flat-square)
   * 17 professional dev workflow skills
   * PRD (Product Requirements Document) writing
   * Codebase architecture guidance
   * Git guardrails and issue triage
 
-* [github/spec-kit](https://github.com/github/spec-kit) ⭐ 130,689 | 🐛 341 | 🌐 Python | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/github/spec-kit?style=flat-square)
+* [github/spec-kit](https://github.com/github/spec-kit) ⭐ 130,830 | 🐛 349 | 🌐 Python | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/github/spec-kit?style=flat-square)
   * GitHub's toolkit for Spec-Driven Development (spec → plan → tasks → implement)
   * Drives agents from a written specification rather than ad-hoc prompts
   * Works with Claude Code, Copilot, Cursor, and Gemini CLI; Python, MIT licensed
 
-* [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) ⭐ 88,940 | 🐛 109 | 🌐 JavaScript | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/addyosmani/agent-skills?style=flat-square)
+* [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) ⭐ 89,114 | 🐛 109 | 🌐 JavaScript | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/addyosmani/agent-skills?style=flat-square)
   * Production-grade engineering skills aimed at AI coding agents
   * Targets Claude Code, Cursor, and Antigravity IDE workflows
   * Shell-driven and MIT licensed
   * Maintained by Addy Osmani
 
-* [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) ⭐ 28,009 | 🐛 212 | 🌐 JavaScript | 📅 2026-04-28 ![Stars](https://img.shields.io/github/stars/eyaltoledano/claude-task-master?style=flat-square)
+* [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) ⭐ 28,012 | 🐛 212 | 🌐 JavaScript | 📅 2026-04-28 ![Stars](https://img.shields.io/github/stars/eyaltoledano/claude-task-master?style=flat-square)
   * AI task-management system that parses a PRD into structured, dependency-aware tasks
   * Ships both a CLI and an MCP server; drives step-by-step implementation
   * Integrates with Claude Code, Cursor, Windsurf, and Roo
 
-* [yamadashy/repomix](https://github.com/yamadashy/repomix) ⭐ 27,995 | 🐛 133 | 🌐 TypeScript | 📅 2026-08-18 ![Stars](https://img.shields.io/github/stars/yamadashy/repomix?style=flat-square)
+* [yamadashy/repomix](https://github.com/yamadashy/repomix) ⭐ 28,012 | 🐛 133 | 🌐 TypeScript | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/yamadashy/repomix?style=flat-square)
   * Packs an entire repository into a single AI-friendly file
   * Feed whole codebases to Claude and other LLMs for analysis
   * Token counting, compression, and remote-repo support; TypeScript, MIT licensed
 
-* [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) ⭐ 26,268 | 🐛 8 | 🌐 Shell | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/OthmanAdi/planning-with-files?style=flat-square)
+* [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) ⭐ 26,289 | 🐛 7 | 🌐 Shell | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/OthmanAdi/planning-with-files?style=flat-square)
   * Claude Code skill implementing Manus-style persistent markdown planning
   * Plans live as files so they survive context resets and span sessions
   * Compatible with Claude Code, Hermes Agent, OpenClaw, Kilocode, Copilot, and Mastra
   * Python-backed and MIT licensed
 
-* [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) ⭐ 24,427 | 🐛 85 | 🌐 TypeScript | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/EveryInc/compound-engineering-plugin?style=flat-square)
+* [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) ⭐ 24,446 | 🐛 79 | 🌐 TypeScript | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/EveryInc/compound-engineering-plugin?style=flat-square)
   * Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
   * Loop of `/ce-brainstorm`, `/ce-plan`, `/ce-work`, `/ce-code-review`, and `/ce-compound`
   * `/ce-strategy` anchors a `STRATEGY.md` and `/ce-product-pulse` writes time-windowed pulse reports
@@ -348,17 +348,17 @@ Skills focused on software development, code quality, and engineering workflows.
   * Plus a Report → Analyze → Fix → Verify bug workflow, with a live dashboard
   * TypeScript, MIT licensed
 
-* [awesome-skills/code-review-skill](https://github.com/awesome-skills/code-review-skill) ⭐ 1,771 | 🐛 2 | 🌐 HTML | 📅 2026-07-16 ![Stars](https://img.shields.io/github/stars/awesome-skills/code-review-skill?style=flat-square)
+* [awesome-skills/code-review-skill](https://github.com/awesome-skills/code-review-skill) ⭐ 1,774 | 🐛 3 | 🌐 HTML | 📅 2026-07-16 ![Stars](https://img.shields.io/github/stars/awesome-skills/code-review-skill?style=flat-square)
   * Comprehensive single code-review Skill for Claude Code
   * Covers 20+ languages/frameworks (React 19, Vue 3, Rust, TypeScript, TanStack Query v5)
   * \~21k lines of review guidelines; MIT licensed
 
-* [carlrannaberg/claudekit](https://github.com/carlrannaberg/claudekit) ⭐ 759 | 🐛 13 | 🌐 TypeScript | 📅 2026-03-31 ![Stars](https://img.shields.io/github/stars/carlrannaberg/claudekit?style=flat-square)
+* [carlrannaberg/claudekit](https://github.com/carlrannaberg/claudekit) ⭐ 760 | 🐛 13 | 🌐 TypeScript | 📅 2026-03-31 ![Stars](https://img.shields.io/github/stars/carlrannaberg/claudekit?style=flat-square)
   * Toolkit of custom slash commands, hooks, and utilities for Claude Code
   * Hooks enforce type-checking and lint on edits
   * TypeScript, MIT licensed
 
-* [musoyangrigor/gitx-skill](https://github.com/musoyangrigor/gitx-skill) ⭐ 50 | 🐛 0 | 📅 2026-08-17 ![Stars](https://img.shields.io/github/stars/musoyangrigor/gitx-skill?style=flat-square)
+* [musoyangrigor/gitx-skill](https://github.com/musoyangrigor/gitx-skill) ⭐ 52 | 🐛 0 | 📅 2026-08-17 ![Stars](https://img.shields.io/github/stars/musoyangrigor/gitx-skill?style=flat-square)
   * Turns messy AI-generated changes into clean, reviewable Git history
   * Splits mixed working-tree changes into logical Conventional Commits
   * Safe branches, checks, pull/push, PRs, issues, secret scanning, and conflict resolution
@@ -386,7 +386,7 @@ Skills focused on software development, code quality, and engineering workflows.
   * Try in 5 seconds: `git clone … && bash examples/demo-fixture/demo.sh` (no LLM needed)
 
 * [mturac/recsys-pipeline-architect](https://github.com/mturac/recsys-pipeline-architect) ⭐ 2 | 🐛 0 | 📅 2026-05-15 ![Stars](https://img.shields.io/github/stars/mturac/recsys-pipeline-architect?style=flat-square)
-  * Pattern popularized by xAI's open-sourced [X For You algorithm](https://github.com/xai-org/x-algorithm) ⭐ 32,162 | 🐛 73 | 🌐 Rust | 📅 2026-08-21 — independent MIT reimplementation
+  * Pattern popularized by xAI's open-sourced [X For You algorithm](https://github.com/xai-org/x-algorithm) ⭐ 32,197 | 🐛 73 | 🌐 Rust | 📅 2026-08-21 — independent MIT reimplementation
   * Designs composable recommendation, ranking, and feed pipelines using the six-stage **Source → Hydrator → Filter → Scorer → Selector → SideEffect** framework
   * Walks Claude through eight clarifying steps and surfaces architectural trade-offs (multi-action vs single-score, candidate isolation vs joint, online vs offline batch)
   * Emits runnable scaffolds for Strapi v5 (TypeScript / Jest), Go (with generics), or Python / FastAPI — all three example suites green
@@ -445,22 +445,22 @@ Skills focused on software development, code quality, and engineering workflows.
 
 ### Specialized Agents
 
-* [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) ⭐ 24,525 | 🐛 6 | 🌐 Shell | 📅 2026-08-12 ![Stars](https://img.shields.io/github/stars/VoltAgent/awesome-claude-code-subagents?style=flat-square)
+* [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) ⭐ 24,545 | 🐛 6 | 🌐 Shell | 📅 2026-08-12 ![Stars](https://img.shields.io/github/stars/VoltAgent/awesome-claude-code-subagents?style=flat-square)
   * 100+ specialized subagents
   * Full-stack development coverage
   * Research and DevOps automation
 
-* [Orchestra-Research/AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs) ⭐ 11,926 | 🐛 19 | 🌐 TeX | 📅 2026-06-16 ![Stars](https://img.shields.io/github/stars/Orchestra-Research/AI-Research-SKILLs?style=flat-square)
+* [Orchestra-Research/AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs) ⭐ 11,950 | 🐛 19 | 🌐 TeX | 📅 2026-06-16 ![Stars](https://img.shields.io/github/stars/Orchestra-Research/AI-Research-SKILLs?style=flat-square)
   * Open-source library of AI research and engineering skills
   * Vendor-neutral: works with Claude Code, Codex, and Gemini CLI
   * LaTeX-driven docs; built for research-oriented teams
 
-* [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) ⭐ 11,104 | 🐛 31 | 🌐 Python | 📅 2026-08-07 ![Stars](https://img.shields.io/github/stars/Jeffallan/claude-skills?style=flat-square)
+* [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) ⭐ 11,116 | 🐛 32 | 🌐 Python | 📅 2026-08-07 ![Stars](https://img.shields.io/github/stars/Jeffallan/claude-skills?style=flat-square)
   * 66 specialized skills for full-stack developers
   * Turns Claude Code into a domain-aware pair programmer
   * Python-driven; covers frontend, backend, data, and ops
 
-* [revfactory/harness](https://github.com/revfactory/harness) ⭐ 8,811 | 🐛 27 | 🌐 HTML | 📅 2026-07-24 ![Stars](https://img.shields.io/github/stars/revfactory/harness?style=flat-square)
+* [revfactory/harness](https://github.com/revfactory/harness) ⭐ 8,815 | 🐛 27 | 🌐 HTML | 📅 2026-07-24 ![Stars](https://img.shields.io/github/stars/revfactory/harness?style=flat-square)
   * Meta-skill that designs domain-specific agent teams
   * Generates specialized agents and the skills they use
   * HTML-based interface for team composition
@@ -471,7 +471,7 @@ Skills focused on software development, code quality, and engineering workflows.
   * Code Archaeologist for legacy code analysis
   * Performance Optimizer for bottleneck detection
 
-* [wshobson/commands](https://github.com/wshobson/commands) ⭐ 2,617 | 🐛 3 | 📅 2025-10-12 ![Stars](https://img.shields.io/github/stars/wshobson/commands?style=flat-square)
+* [wshobson/commands](https://github.com/wshobson/commands) ⭐ 2,619 | 🐛 3 | 📅 2025-10-12 ![Stars](https://img.shields.io/github/stars/wshobson/commands?style=flat-square)
   * Production-ready slash-command collection for Claude Code
   * Split into multi-step workflows and single-purpose tools
   * Companion to the popular `wshobson/agents`; MIT licensed
@@ -481,12 +481,12 @@ Skills focused on software development, code quality, and engineering workflows.
   * Custom commands, agents, hooks, and MCP servers via the plugin system
   * Community-maintained directory
 
-* [lst97/claude-code-sub-agents](https://github.com/lst97/claude-code-sub-agents) ⭐ 1,670 | 🐛 4 | 📅 2025-08-15 ![Stars](https://img.shields.io/github/stars/lst97/claude-code-sub-agents?style=flat-square)
+* [lst97/claude-code-sub-agents](https://github.com/lst97/claude-code-sub-agents) ⭐ 1,671 | 🐛 4 | 📅 2025-08-15 ![Stars](https://img.shields.io/github/stars/lst97/claude-code-sub-agents?style=flat-square)
   * Domain-expert subagents
   * Multi-agent orchestration capabilities
   * Automatic task delegation
 
-* [hesreallyhim/a-list-of-claude-code-agents](https://github.com/hesreallyhim/a-list-of-claude-code-agents) ⭐ 1,344 | 🐛 15 | 📅 2025-11-10 ![Stars](https://img.shields.io/github/stars/hesreallyhim/a-list-of-claude-code-agents?style=flat-square)
+* [hesreallyhim/a-list-of-claude-code-agents](https://github.com/hesreallyhim/a-list-of-claude-code-agents) ⭐ 1,345 | 🐛 15 | 📅 2025-11-10 ![Stars](https://img.shields.io/github/stars/hesreallyhim/a-list-of-claude-code-agents?style=flat-square)
   * Community-submitted directory of Claude Code subagents
   * Companion to the maintainer's awesome-claude-code list
   * Browse and contribute agents by category
@@ -503,27 +503,27 @@ Skills focused on software development, code quality, and engineering workflows.
 
 ### Framework-Specific
 
-* [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) ⭐ 119,326 | 🐛 83 | 🌐 Python | 📅 2026-08-20 ![Stars](https://img.shields.io/github/stars/nextlevelbuilder/ui-ux-pro-max-skill?style=flat-square)
+* [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) ⭐ 119,859 | 🐛 84 | 🌐 Python | 📅 2026-08-20 ![Stars](https://img.shields.io/github/stars/nextlevelbuilder/ui-ux-pro-max-skill?style=flat-square)
   * Professional UI/UX design skill
   * Modern design patterns and accessibility
   * Component library integration
 
-* [htdt/godogen](https://github.com/htdt/godogen) ⭐ 5,535 | 🐛 6 | 🌐 Python | 📅 2026-07-26 ![Stars](https://img.shields.io/github/stars/htdt/godogen?style=flat-square)
+* [htdt/godogen](https://github.com/htdt/godogen) ⭐ 5,547 | 🐛 6 | 🌐 Python | 📅 2026-07-26 ![Stars](https://img.shields.io/github/stars/htdt/godogen?style=flat-square)
   * Autonomous game development for Godot and Bevy
   * Designed to run with Claude Code and Codex
   * Python-driven; assists across engine, gameplay, and asset workflows
 
-* [IvanMurzak/Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) ⭐ 3,956 | 🐛 50 | 🌐 C# | 📅 2026-08-19 ![Stars](https://img.shields.io/github/stars/IvanMurzak/Unity-MCP?style=flat-square)
+* [IvanMurzak/Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) ⭐ 3,960 | 🐛 50 | 🌐 C# | 📅 2026-08-19 ![Stars](https://img.shields.io/github/stars/IvanMurzak/Unity-MCP?style=flat-square)
   * AI skills, MCP tools, and CLI for the Unity engine
   * Full AI develop-and-test loop with efficient token usage
   * C# implementation; quick CLI-based setup
 
-* [coder/claudecode.nvim](https://github.com/coder/claudecode.nvim) ⭐ 3,011 | 🐛 90 | 🌐 Lua | 📅 2026-08-11 ![Stars](https://img.shields.io/github/stars/coder/claudecode.nvim?style=flat-square)
+* [coder/claudecode.nvim](https://github.com/coder/claudecode.nvim) ⭐ 3,013 | 🐛 90 | 🌐 Lua | 📅 2026-08-11 ![Stars](https://img.shields.io/github/stars/coder/claudecode.nvim?style=flat-square)
   * Claude Code Neovim IDE extension
   * Embeds Claude Code into the Neovim workflow
   * Lua-based; maintained by Coder
 
-* [conorluddy/ios-simulator-skill](https://github.com/conorluddy/ios-simulator-skill) ⭐ 1,222 | 🐛 20 | 🌐 Python | 📅 2026-06-18 ![Stars](https://img.shields.io/github/stars/conorluddy/ios-simulator-skill?style=flat-square)
+* [conorluddy/ios-simulator-skill](https://github.com/conorluddy/ios-simulator-skill) ⭐ 1,225 | 🐛 20 | 🌐 Python | 📅 2026-06-18 ![Stars](https://img.shields.io/github/stars/conorluddy/ios-simulator-skill?style=flat-square)
   * iOS Simulator automation for Claude Code
   * 21 production scripts for building and testing
   * Semantic navigation using accessibility APIs
@@ -538,43 +538,43 @@ Orchestrate multiple Claude agents to work together on complex tasks.
 
 ### Orchestration Platforms
 
-* [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) ⭐ 52,147 | 🐛 146 | 🌐 JavaScript | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/bmad-code-org/BMAD-METHOD?style=flat-square)
+* [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) ⭐ 52,173 | 🐛 146 | 🌐 JavaScript | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/bmad-code-org/BMAD-METHOD?style=flat-square)
   * "Breakthrough Method for Agile AI-Driven Development"
   * Role-based agent team (analyst, PM, architect, dev, QA) in a plan-then-build flow
   * Tool-agnostic framework used heavily with Claude Code, Cursor, and others
 
-* [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) ⭐ 27,879 | 🐛 534 | 🌐 Rust | 📅 2026-04-24 ![Stars](https://img.shields.io/github/stars/BloopAI/vibe-kanban?style=flat-square)
+* [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) ⭐ 27,886 | 🐛 533 | 🌐 Rust | 📅 2026-04-24 ![Stars](https://img.shields.io/github/stars/BloopAI/vibe-kanban?style=flat-square)
   * Kanban-style board to run and manage multiple coding agents
   * Orchestrates Claude Code, Codex, and other agents from one UI
   * Rust-based; Apache-2.0 licensed
 
-* [gastownhall/gastown](https://github.com/gastownhall/gastown) ⭐ 17,710 | 🐛 415 | 🌐 Go | 📅 2026-08-19 ![Stars](https://img.shields.io/github/stars/gastownhall/gastown?style=flat-square)
+* [gastownhall/gastown](https://github.com/gastownhall/gastown) ⭐ 17,726 | 🐛 413 | 🌐 Go | 📅 2026-08-19 ![Stars](https://img.shields.io/github/stars/gastownhall/gastown?style=flat-square)
   * Multi-agent workspace manager
   * Persistent agent identity across sessions
   * Convoy system for coordinated tasks
   * Git-backed state tracking
 
-* [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) ⭐ 11,306 | 🐛 72 | 🌐 TypeScript | 📅 2026-06-19 ![Stars](https://img.shields.io/github/stars/humanlayer/humanlayer?style=flat-square)
+* [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) ⭐ 11,311 | 🐛 72 | 🌐 TypeScript | 📅 2026-06-19 ![Stars](https://img.shields.io/github/stars/humanlayer/humanlayer?style=flat-square)
   * Framework for steering coding agents through complex codebases
   * Human-in-the-loop approvals and advanced context-engineering workflows
   * TypeScript-based
 
-* [Untrivial-ai/agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) ⭐ 9,704 | 🐛 763 | 🌐 Go | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/Untrivial-ai/agent-orchestrator?style=flat-square)
+* [Untrivial-ai/agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) ⭐ 9,855 | 🐛 729 | 🌐 Go | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/Untrivial-ai/agent-orchestrator?style=flat-square)
   * Agent-agnostic parallel orchestrator
   * Git worktrees for isolated environments
   * CI auto-fix and review routing
 
-* [generalaction/emdash](https://github.com/generalaction/emdash) ⭐ 5,461 | 🐛 209 | 🌐 TypeScript | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/generalaction/emdash?style=flat-square)
+* [generalaction/emdash](https://github.com/generalaction/emdash) ⭐ 5,465 | 🐛 209 | 🌐 TypeScript | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/generalaction/emdash?style=flat-square)
   * Open-source agentic development environment (Y Combinator W26)
   * Runs multiple coding agents in parallel across any provider
   * TypeScript-driven
 
-* [nyldn/claude-octopus](https://github.com/nyldn/claude-octopus) ⭐ 3,994 | 🐛 3 | 🌐 Shell | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/nyldn/claude-octopus?style=flat-square)
+* [nyldn/claude-octopus](https://github.com/nyldn/claude-octopus) ⭐ 3,994 | 🐛 5 | 🌐 Shell | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/nyldn/claude-octopus?style=flat-square)
   * Surface AI blindspots by running up to 8 AI models on every task
   * Targets research, design, and coding workflows
   * Shell-based orchestration layer
 
-* [RunMaestro/Maestro](https://github.com/RunMaestro/Maestro) ⭐ 3,272 | 🐛 68 | 🌐 TypeScript | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/RunMaestro/Maestro?style=flat-square)
+* [RunMaestro/Maestro](https://github.com/RunMaestro/Maestro) ⭐ 3,271 | 🐛 66 | 🌐 TypeScript | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/RunMaestro/Maestro?style=flat-square)
   * Agent orchestration command center
   * Coordinates multi-agent runs across coding tasks
   * TypeScript-driven; designed for fleet-scale agent operations
@@ -584,12 +584,12 @@ Orchestrate multiple Claude agents to work together on complex tasks.
   * Compare competing approaches side by side
   * TypeScript, MIT licensed
 
-* [stellarlinkco/myclaude](https://github.com/stellarlinkco/myclaude) ⭐ 2,745 | 🐛 6 | 🌐 Go | 📅 2026-05-04 ![Stars](https://img.shields.io/github/stars/stellarlinkco/myclaude?style=flat-square)
+* [stellarlinkco/myclaude](https://github.com/stellarlinkco/myclaude) ⭐ 2,746 | 🐛 6 | 🌐 Go | 📅 2026-05-04 ![Stars](https://img.shields.io/github/stars/stellarlinkco/myclaude?style=flat-square)
   * Multi-agent orchestration workflow across Claude Code, Codex, Gemini, and OpenCode
   * Go-based runtime distributed as a single binary
   * Targets cross-agent collaboration on the same task
 
-* [agentlas-ai/Agentlas-OS](https://github.com/agentlas-ai/Agentlas-OS) ⭐ 1,127 | 🐛 0 | 🌐 Python | 📅 2026-08-20 ![Stars](https://img.shields.io/github/stars/agentlas-ai/Agentlas-OS?style=flat-square)
+* [agentlas-ai/Agentlas-OS](https://github.com/agentlas-ai/Agentlas-OS) ⭐ 1,126 | 🐛 0 | 🌐 Python | 📅 2026-08-20 ![Stars](https://img.shields.io/github/stars/agentlas-ai/Agentlas-OS?style=flat-square)
   * Open Agent OS for Claude Code, Codex, and Cursor
   * Packages agents, skills, memory, routing rules, and security gates
   * Includes Hephaestus Network MCP for Agentlas Hub search, runtime bundles, and plugin resolution
@@ -600,22 +600,22 @@ Orchestrate multiple Claude agents to work together on complex tasks.
   * Singleplayer and multiplayer coordination
   * Supervisor-subagent pattern implementation
 
-* [ofekron/better-agent](https://github.com/ofekron/better-agent) ⭐ 58 | 🐛 1 | 🌐 Python | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/ofekron/better-agent?style=flat-square)
+* [ofekron/better-agent](https://github.com/ofekron/better-agent) ⭐ 58 | 🐛 1 | 🌐 Python | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/ofekron/better-agent?style=flat-square)
   * Local workspace for Claude, Codex, and Gemini coding-agent sessions
   * Fork and delegate work across providers with persistent session state
   * Detached runners and restart recovery keep long-running work inspectable
   * Source-available for non-commercial use; commercial use requires permission
 
-* [supernovae-st/nika](https://github.com/supernovae-st/nika) ⭐ 53 | 🐛 30 | 🌐 Rust | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/supernovae-st/nika?style=flat-square)
-  * Workflow engine for AI: Claude Code captures repeatable work as `.nika.yaml` DAG files
-  * Statically checked before execution (schema, permits, cost floor), tamper-evident traces after
-  * Ships a Claude Code plugin (authoring skill + read-only MCP oracle)
-
-* [5dive-ai/5dive](https://github.com/5dive-ai/5dive) ⭐ 53 | 🐛 11 | 🌐 Shell | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/5dive-ai/5dive?style=flat-square)
+* [5dive-ai/5dive](https://github.com/5dive-ai/5dive) ⭐ 54 | 🐛 11 | 🌐 Shell | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/5dive-ai/5dive?style=flat-square)
   * Run a company of AI coding agents on a server you own
   * One-command spin-up of named agents (Claude Code, Codex, Grok, and more)
   * Cron + heartbeat scheduling, shared task queue with human-escalation gates, Telegram control
   * Babysit and needs-you triage dashboard; self-hosted, MIT
+
+* [supernovae-st/nika](https://github.com/supernovae-st/nika) ⭐ 53 | 🐛 34 | 🌐 Rust | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/supernovae-st/nika?style=flat-square)
+  * Workflow engine for AI: Claude Code captures repeatable work as `.nika.yaml` DAG files
+  * Statically checked before execution (schema, permits, cost floor), tamper-evident traces after
+  * Ships a Claude Code plugin (authoring skill + read-only MCP oracle)
 
 * [Varalix-Digitech-Solutions/clone-team](https://github.com/Varalix-Digitech-Solutions/clone-team) ⭐ 19 | 🐛 2 | 🌐 JavaScript | 📅 2026-06-17 ![Stars](https://img.shields.io/github/stars/Varalix-Digitech-Solutions/clone-team?style=flat-square)
   * Agent team (Manager, Frontend Developer, Backend Architect, Tester) that clones any website into a pixel-perfect UI in your chosen stack
@@ -647,25 +647,25 @@ Orchestrate multiple Claude agents to work together on complex tasks.
 
 ### Parallel Processing
 
-* [ruvnet/ruflo](https://github.com/ruvnet/ruflo) ⭐ 68,624 | 🐛 830 | 🌐 TypeScript | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/ruvnet/ruflo?style=flat-square)
+* [ruvnet/ruflo](https://github.com/ruvnet/ruflo) ⭐ 68,855 | 🐛 831 | 🌐 TypeScript | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/ruvnet/ruflo?style=flat-square)
   * Multi-agent swarm orchestration
   * Self-learning capabilities
   * RAG (Retrieval-Augmented Generation) integration
   * Hive mind topology for distributed intelligence
 
-* [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) ⭐ 38,708 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/Yeachan-Heo/oh-my-claudecode?style=flat-square)
+* [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) ⭐ 38,735 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/Yeachan-Heo/oh-my-claudecode?style=flat-square)
   * Teams-first multi-agent orchestration
   * Zero configuration with intelligent defaults
   * Natural language interface, no commands to memorize
   * Automatic parallelization and cost optimization
   * Real-time HUD statusline for visibility
 
-* [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) ⭐ 8,349 | 🐛 54 | 🌐 Go | 📅 2026-08-20 ![Stars](https://img.shields.io/github/stars/smtg-ai/claude-squad?style=flat-square)
+* [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) ⭐ 8,353 | 🐛 54 | 🌐 Go | 📅 2026-08-20 ![Stars](https://img.shields.io/github/stars/smtg-ai/claude-squad?style=flat-square)
   * Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp
   * Go-based runner with per-agent session control
   * Built for keeping several agents alive in parallel
 
-* [SeemSeam/claude\_codex\_bridge](https://github.com/SeemSeam/claude_codex_bridge) ⭐ 3,431 | 🐛 100 | 🌐 Python | 📅 2026-08-20 ![Stars](https://img.shields.io/github/stars/SeemSeam/claude_codex_bridge?style=flat-square)
+* [SeemSeam/claude\_codex\_bridge](https://github.com/SeemSeam/claude_codex_bridge) ⭐ 3,436 | 🐛 101 | 🌐 Python | 📅 2026-08-20 ![Stars](https://img.shields.io/github/stars/SeemSeam/claude_codex_bridge?style=flat-square)
   * Visible multi-agent CLI teams for Claude, Codex, Gemini, OpenCode, and Droid
   * Project memory plus tmux-based supervision
   * Python-driven runtime
@@ -675,16 +675,16 @@ Orchestrate multiple Claude agents to work together on complex tasks.
   * Rust-based runtime for managing long-running agent loops
   * Built for fleet-style autonomous coding
 
-* [michaelshimeles/ralphy](https://github.com/michaelshimeles/ralphy) ⭐ 2,957 | 🐛 43 | 🌐 TypeScript | 📅 2026-02-05 ![Stars](https://img.shields.io/github/stars/michaelshimeles/ralphy?style=flat-square)
+* [michaelshimeles/ralphy](https://github.com/michaelshimeles/ralphy) ⭐ 2,958 | 🐛 43 | 🌐 TypeScript | 📅 2026-02-05 ![Stars](https://img.shields.io/github/stars/michaelshimeles/ralphy?style=flat-square)
   * Bash-style Ralph Wiggum setup that runs agents in a loop
   * Supports Claude Code, Codex, OpenCode, Cursor agent, Qwen, and Droid
   * TypeScript implementation; lightweight harness
 
-* [subsy/ralph-tui](https://github.com/subsy/ralph-tui) ⭐ 2,425 | 🐛 49 | 🌐 TypeScript | 📅 2026-05-13 ![Stars](https://img.shields.io/github/stars/subsy/ralph-tui?style=flat-square)
+* [subsy/ralph-tui](https://github.com/subsy/ralph-tui) ⭐ 2,426 | 🐛 50 | 🌐 TypeScript | 📅 2026-05-13 ![Stars](https://img.shields.io/github/stars/subsy/ralph-tui?style=flat-square)
   * Terminal UI on top of the Ralph autonomous-loop technique
   * TypeScript-driven; provides visibility into iteration cycles
 
-* [Dicklesworthstone/claude\_code\_agent\_farm](https://github.com/Dicklesworthstone/claude_code_agent_farm) ⭐ 912 | 🐛 0 | 🌐 Shell | 📅 2026-04-06 ![Stars](https://img.shields.io/github/stars/Dicklesworthstone/claude_code_agent_farm?style=flat-square)
+* [Dicklesworthstone/claude\_code\_agent\_farm](https://github.com/Dicklesworthstone/claude_code_agent_farm) ⭐ 914 | 🐛 0 | 🌐 Shell | 📅 2026-04-06 ![Stars](https://img.shields.io/github/stars/Dicklesworthstone/claude_code_agent_farm?style=flat-square)
   * Run 20-50 Claude agents in parallel
   * Lock-based coordination system
   * tmux monitoring dashboard
@@ -694,7 +694,7 @@ Orchestrate multiple Claude agents to work together on complex tasks.
   * Evolving iterations for complex problem-solving
   * Self-improving agent patterns
 
-* [avelikiy/great\_cto](https://github.com/avelikiy/great_cto) ⭐ 80 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-20 ![Stars](https://img.shields.io/github/stars/avelikiy/great_cto?style=flat-square)
+* [avelikiy/great\_cto](https://github.com/avelikiy/great_cto) ⭐ 81 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-20 ![Stars](https://img.shields.io/github/stars/avelikiy/great_cto?style=flat-square)
   * Multi-agent SDLC plugin for Claude Code
   * 34 specialist reviewer agents across 25 archetypes (fintech, voice-AI, clinical, robotics, and more)
   * 10 compliance packs auto-attach by archetype (PCI, HIPAA, FDA SaMD, NYC AEDT, GDPR, etc.)
@@ -709,7 +709,7 @@ Orchestrate multiple Claude agents to work together on complex tasks.
 
 ***
 
-* [dagger/container-use](https://github.com/dagger/container-use) ⭐ 4,014 | 🐛 59 | 🌐 Go | 📅 2026-08-17 ![Stars](https://img.shields.io/github/stars/dagger/container-use?style=flat-square)
+* [dagger/container-use](https://github.com/dagger/container-use) ⭐ 4,015 | 🐛 59 | 🌐 Go | 📅 2026-08-17 ![Stars](https://img.shields.io/github/stars/dagger/container-use?style=flat-square)
   * Sandboxed, isolated development environments for coding agents
   * Lets multiple agents work in parallel without touching the host
   * Go-based; Apache-2.0 licensed
@@ -727,27 +727,27 @@ Professional-grade security skills for vulnerability detection, code auditing, a
 
 n- [GiulioDER/cca-audit](https://github.com/GiulioDER/cca-audit) ⭐ 0 | 🐛 6 | 🌐 Python | 📅 2026-08-11 ![Stars](https://img.shields.io/github/stars/GiulioDER/cca-audit?style=flat-square)
 
-* [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) ⭐ 30,519 | 🐛 47 | 🌐 Python | 📅 2026-08-20 ![Stars](https://img.shields.io/github/stars/mukul975/Anthropic-Cybersecurity-Skills?style=flat-square)
+* [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) ⭐ 30,657 | 🐛 47 | 🌐 Python | 📅 2026-08-20 ![Stars](https://img.shields.io/github/stars/mukul975/Anthropic-Cybersecurity-Skills?style=flat-square)
   * 754 structured cybersecurity skills for AI agents
   * Mapped to MITRE ATT\&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, and NIST AI RMF
   * Python-driven; large-scale skill bundle
 
-* [vercel-labs/deepsec](https://github.com/vercel-labs/deepsec) ⭐ 7,776 | 🐛 62 | 🌐 TypeScript | 📅 2026-08-18 ![Stars](https://img.shields.io/github/stars/vercel-labs/deepsec?style=flat-square)
+* [vercel-labs/deepsec](https://github.com/vercel-labs/deepsec) ⭐ 7,787 | 🐛 65 | 🌐 TypeScript | 📅 2026-08-18 ![Stars](https://img.shields.io/github/stars/vercel-labs/deepsec?style=flat-square)
   * Security harness for finding vulnerabilities using coding agents
   * TypeScript-based; integrates with the agent loop
   * Maintained by Vercel Labs
 
-* [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) ⭐ 6,859 | 🐛 8 | 🌐 Shell | 📅 2026-06-10 ![Stars](https://img.shields.io/github/stars/SimoneAvogadro/android-reverse-engineering-skill?style=flat-square)
+* [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) ⭐ 6,861 | 🐛 8 | 🌐 Shell | 📅 2026-06-10 ![Stars](https://img.shields.io/github/stars/SimoneAvogadro/android-reverse-engineering-skill?style=flat-square)
   * Claude Code skill for Android application reverse engineering
   * Shell-driven tooling around standard RE workflows
   * Useful for security researchers and CTF teams
 
-* [trailofbits/skills](https://github.com/trailofbits/skills) ⭐ 6,775 | 🐛 33 | 🌐 Python | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/trailofbits/skills?style=flat-square)
+* [trailofbits/skills](https://github.com/trailofbits/skills) ⭐ 6,787 | 🐛 34 | 🌐 Python | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/trailofbits/skills?style=flat-square)
   * Trail of Bits Claude Code skills for security research and audit work
   * Vulnerability detection patterns from real engagement experience
   * Python-driven
 
-* [gadievron/raptor](https://github.com/gadievron/raptor) ⭐ 3,655 | 🐛 17 | 🌐 Python | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/gadievron/raptor?style=flat-square)
+* [gadievron/raptor](https://github.com/gadievron/raptor) ⭐ 3,655 | 🐛 17 | 🌐 Python | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/gadievron/raptor?style=flat-square)
   * Turns Claude Code into a general-purpose offensive and defensive security agent
   * Uses `CLAUDE.md`, sub-agents, and rules for opinionated workflows
   * Python-driven
@@ -757,7 +757,7 @@ n- [GiulioDER/cca-audit](https://github.com/GiulioDER/cca-audit) ⭐ 0 | 🐛 6 
   * Semantic scanning combined with AI Agent integration (OpenClaw and Claude Code)
   * Python-driven; useful for application-security teams
 
-* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 856 | 🐛 1 | 🌐 Python | 📅 2026-08-21 - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, with proof of exploitation.
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 859 | 🐛 1 | 🌐 Python | 📅 2026-08-21 - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, with proof of exploitation.
 
 * [wrsmith108/varlock-claude-skill](https://github.com/wrsmith108/varlock-claude-skill) ⭐ 31 | 🐛 0 | 📅 2026-03-04 ![Stars](https://img.shields.io/github/stars/wrsmith108/varlock-claude-skill?style=flat-square)
   * Secure environment variable management
@@ -785,7 +785,7 @@ n- [GiulioDER/cca-audit](https://github.com/GiulioDER/cca-audit) ⭐ 0 | 🐛 6 
 
 ### Compliance & Auditing
 
-* [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) ⭐ 10,036 | 🐛 81 | 📅 2026-08-02 ![Stars](https://img.shields.io/github/stars/BehiSecc/awesome-claude-skills?style=flat-square)
+* [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) ⭐ 10,040 | 🐛 85 | 📅 2026-08-02 ![Stars](https://img.shields.io/github/stars/BehiSecc/awesome-claude-skills?style=flat-square)
   * Security-focused skill collection
   * Document handling with security in mind
   * Development and data analysis tools
@@ -796,65 +796,65 @@ n- [GiulioDER/cca-audit](https://github.com/GiulioDER/cca-audit) ⭐ 0 | 🐛 6 
 
 Skills for marketing professionals, content creators, and growth teams.
 
-* [nexu-io/open-design](https://github.com/nexu-io/open-design) ⭐ 90,149 | 🐛 811 | 🌐 TypeScript | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/nexu-io/open-design?style=flat-square)
+* [nexu-io/open-design](https://github.com/nexu-io/open-design) ⭐ 90,426 | 🐛 834 | 🌐 TypeScript | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/nexu-io/open-design?style=flat-square)
   * Local-first, open-source alternative to Anthropic's Claude Design
   * 19 skills with 71 brand-grade design systems
   * Generates web, desktop, and mobile prototypes; BYOK
 
-* [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) ⭐ 45,185 | 🐛 100 | 🌐 JavaScript | 📅 2026-08-19 ![Stars](https://img.shields.io/github/stars/coreyhaines31/marketingskills?style=flat-square)
+* [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) ⭐ 45,293 | 🐛 102 | 🌐 JavaScript | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/coreyhaines31/marketingskills?style=flat-square)
   * 23 professional marketing skills
   * CRO (Conversion Rate Optimization)
   * Copywriting and SEO strategies
   * Paid advertising and growth tactics
 
-* [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) ⭐ 24,585 | 🐛 40 | 🌐 HTML | 📅 2026-08-07 ![Stars](https://img.shields.io/github/stars/op7418/guizang-ppt-skill?style=flat-square)
+* [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) ⭐ 24,632 | 🐛 40 | 🌐 HTML | 📅 2026-08-07 ![Stars](https://img.shields.io/github/stars/op7418/guizang-ppt-skill?style=flat-square)
   * Agent skill for generating polished HTML slide decks
   * Editorial-magazine and Swiss layouts with social-cover variants
   * Image prompts and WebGL/low-poly visual options
 
-* [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) ⭐ 23,381 | 🐛 3 | 🌐 HTML | 📅 2026-08-13 ![Stars](https://img.shields.io/github/stars/alchaincyf/huashu-design?style=flat-square)
+* [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) ⭐ 23,409 | 🐛 3 | 🌐 HTML | 📅 2026-08-13 ![Stars](https://img.shields.io/github/stars/alchaincyf/huashu-design?style=flat-square)
   * HTML-native design skill for Claude Code
   * High-fidelity prototypes, slide decks, and animation with MP4 export
   * 20 design philosophies and a 5-axis review; agent-agnostic
 
-* [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) ⭐ 14,749 | 🐛 49 | 🌐 Python | 📅 2026-08-20 ![Stars](https://img.shields.io/github/stars/AgriciDaniel/claude-seo?style=flat-square)
+* [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) ⭐ 14,814 | 🐛 50 | 🌐 Python | 📅 2026-08-20 ![Stars](https://img.shields.io/github/stars/AgriciDaniel/claude-seo?style=flat-square)
   * Universal SEO skill for Claude Code
   * 25 sub-skills plus 18 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, and local SEO
   * Python-driven
 
-* [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) ⭐ 10,749 | 🐛 0 | 🌐 Python | 📅 2026-08-18 ![Stars](https://img.shields.io/github/stars/yizhiyanhua-ai/fireworks-tech-graph?style=flat-square)
+* [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) ⭐ 10,771 | 🐛 0 | 🌐 Python | 📅 2026-08-18 ![Stars](https://img.shields.io/github/stars/yizhiyanhua-ai/fireworks-tech-graph?style=flat-square)
   * Generate production-quality SVG and PNG technical diagrams from natural language
   * 7 styles, UML support, and AI/Agent workflow patterns
   * Python-driven
 
-* [zubair-trabzada/geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude) ⭐ 9,420 | 🐛 21 | 🌐 Python | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/zubair-trabzada/geo-seo-claude?style=flat-square)
+* [zubair-trabzada/geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude) ⭐ 9,427 | 🐛 22 | 🌐 Python | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/zubair-trabzada/geo-seo-claude?style=flat-square)
   * GEO-first SEO skill for Claude Code
   * Citability scoring, AI crawler analysis, and brand-mention tracking
   * Python-driven
 
-* [AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads) ⭐ 8,347 | 🐛 37 | 🌐 Python | 📅 2026-07-13 ![Stars](https://img.shields.io/github/stars/AgriciDaniel/claude-ads?style=flat-square)
+* [AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads) ⭐ 8,370 | 🐛 37 | 🌐 Python | 📅 2026-07-13 ![Stars](https://img.shields.io/github/stars/AgriciDaniel/claude-ads?style=flat-square)
   * Paid advertising audit and optimization skill for Claude Code
   * 250+ checks across Google, Meta, YouTube, LinkedIn, and TikTok ads
   * Python-driven
 
-* [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil) ⭐ 5,536 | 🐛 14 | 🌐 Rust | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/ZSeven-W/openpencil?style=flat-square)
+* [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil) ⭐ 5,573 | 🐛 13 | 🌐 Rust | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/ZSeven-W/openpencil?style=flat-square)
   * Open-source AI-native vector design tool
   * First to feature concurrent agent teams for design-as-code
   * TypeScript-driven
 
-* [zarazhangrui/codebase-to-course](https://github.com/zarazhangrui/codebase-to-course) ⭐ 5,429 | 🐛 13 | 🌐 CSS | 📅 2026-03-30 ![Stars](https://img.shields.io/github/stars/zarazhangrui/codebase-to-course?style=flat-square)
+* [zarazhangrui/codebase-to-course](https://github.com/zarazhangrui/codebase-to-course) ⭐ 5,434 | 🐛 13 | 🌐 CSS | 📅 2026-03-30 ![Stars](https://img.shields.io/github/stars/zarazhangrui/codebase-to-course?style=flat-square)
   * Transform codebases into interactive HTML courses
   * Beautiful, educational content generation
   * Perfect for developer education and onboarding
 
-* [nowork-studio/NotFair](https://github.com/nowork-studio/NotFair) ⭐ 3,389 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-14 ![Stars](https://img.shields.io/github/stars/nowork-studio/NotFair?style=flat-square)
-  * [SEO skills](https://github.com/nowork-studio/NotFair/tree/main/seo) ⭐ 3,389 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-14: site analysis, keyword research, meta tags, schema markup, GEO optimization, and content writing
-  * [Google Ads skills](https://github.com/nowork-studio/NotFair/tree/main/google-ads) ⭐ 3,389 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-14: audits, wasted-spend detection, search-term cleanup, keyword and bid management
-  * [Meta Ads skills](https://github.com/nowork-studio/NotFair/tree/main/meta-ads) ⭐ 3,389 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-14: ROAS analysis, creative fatigue, and audience overlap detection
+* [nowork-studio/NotFair](https://github.com/nowork-studio/NotFair) ⭐ 3,390 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/nowork-studio/NotFair?style=flat-square)
+  * [SEO skills](https://github.com/nowork-studio/NotFair/tree/main/seo) ⭐ 3,390 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-22: site analysis, keyword research, meta tags, schema markup, GEO optimization, and content writing
+  * [Google Ads skills](https://github.com/nowork-studio/NotFair/tree/main/google-ads) ⭐ 3,390 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-22: audits, wasted-spend detection, search-term cleanup, keyword and bid management
+  * [Meta Ads skills](https://github.com/nowork-studio/NotFair/tree/main/meta-ads) ⭐ 3,390 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-22: ROAS analysis, creative fatigue, and audience overlap detection
   * Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads (MIT)
   * Connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP
 
-* [clockless-org/html-anything](https://github.com/clockless-org/html-anything) ⭐ 138 | 🐛 2 | 🌐 JavaScript | 📅 2026-05-13 ![Stars](https://img.shields.io/github/stars/clockless-org/html-anything?style=flat-square)
+* [clockless-org/html-anything](https://github.com/clockless-org/html-anything) ⭐ 141 | 🐛 2 | 🌐 JavaScript | 📅 2026-05-13 ![Stars](https://img.shields.io/github/stars/clockless-org/html-anything?style=flat-square)
   * Turn any file, folder, URL, or service export into a polished single-file HTML page
   * Auto picks one of 16 design systems (lesson lab, map atlas, timeline story, relationship rhythm, network map, dashboard, document review, terminal evidence, living essay, editorial carousel, paper trail, …)
   * 34 source parsers — CSV, PDF, DOCX, JSON/JSONL, log, GPX/KML, WhatsApp/WeChat/Slack/Discord/Telegram, Amazon orders, Kindle highlights, Spotify, Apple Health, LinkedIn, Google Photos Takeout, vCard, Venmo/PayPal, browser history, …
@@ -867,7 +867,7 @@ Skills for marketing professionals, content creators, and growth teams.
   * Ad Copy Writer and Lead Qualification
   * Works with Claude Code, Cursor, and Windsurf
 
-* [ndesv21/socialclaw](https://github.com/ndesv21/socialclaw) ⭐ 81 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-08 ![Stars](https://img.shields.io/github/stars/ndesv21/socialclaw?style=flat-square)
+* [ndesv21/socialclaw](https://github.com/ndesv21/socialclaw) ⭐ 82 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-08 ![Stars](https://img.shields.io/github/stars/ndesv21/socialclaw?style=flat-square)
   * Schedule and publish social media posts across 13 platforms via SocialClaw
   * Supports X, LinkedIn (profile + page), Instagram, Facebook Pages, TikTok, YouTube, Reddit, WordPress, Pinterest
   * One workspace API key (`SC_API_KEY`) for campaigns, media upload, and analytics
@@ -879,11 +879,11 @@ Skills for marketing professionals, content creators, and growth teams.
   * Engages vendor AI agents for verified due diligence
   * Evidence-tracked scoring across 7 dimensions; comparative scorecards for procurement and build-vs-buy decisions
 
-* [Linked-API/linkedin-skills](https://github.com/Linked-API/linkedin-skills/tree/main/linkedin) ⭐ 43 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-13 ![Stars](https://img.shields.io/github/stars/Linked-API/linkedin-skills?style=flat-square)
+* [Linked-API/linkedin-skills](https://github.com/Linked-API/linkedin-skills/tree/main/linkedin) ⭐ 44 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-13 ![Stars](https://img.shields.io/github/stars/Linked-API/linkedin-skills?style=flat-square)
   * Fetch LinkedIn profiles, search people and companies, send messages, manage connections, create posts, react, and comment
   * Custom LinkedIn workflows from Claude Code, Codex, Cursor, and Windsurf
 
-* [sergebulaev/facebook-skills](https://github.com/sergebulaev/facebook-skills) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/sergebulaev/facebook-skills?style=flat-square)
+* [sergebulaev/facebook-skills](https://github.com/sergebulaev/facebook-skills) ⭐ 21 | 🐛 0 | 🌐 Python | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/sergebulaev/facebook-skills?style=flat-square)
   * 8 Claude Code and Codex skills for Facebook Pages
   * High-share posts, hook extractor, humanizer, engagement drafter, and content planner
   * Note: publishing depends on the commercial Publora API
@@ -895,7 +895,7 @@ Skills for marketing professionals, content creators, and growth teams.
   * Every send, reply, bounce, and stage change lands on your machine
   * Install: `npx skills add outreachmagic/outreachmagic`
 
-* [humanpen/humanpen-skill](https://github.com/humanpen/humanpen-skill) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-08-12 ![Stars](https://img.shields.io/github/stars/humanpen/humanpen-skill?style=flat-square)
+* [humanpen/humanpen-skill](https://github.com/humanpen/humanpen-skill) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-08-12 ![Stars](https://img.shields.io/github/stars/humanpen/humanpen-skill?style=flat-square)
   * Document-level AI humanizer for .docx/.pptx — whole file, selected passages, or detector-flagged text
   * Keeps every fact, number, table and all formatting intact
   * The document never enters the model's context — upload, then get a result path back
@@ -942,83 +942,83 @@ Skills for marketing professionals, content creators, and growth teams.
 
 Specialized skills for specific industries and use cases.
 
-* [santifer/career-ops](https://github.com/santifer/career-ops) ⭐ 67,413 | 🐛 275 | 🌐 JavaScript | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/santifer/career-ops?style=flat-square)
+* [santifer/career-ops](https://github.com/santifer/career-ops) ⭐ 67,781 | 🐛 271 | 🌐 JavaScript | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/santifer/career-ops?style=flat-square)
   * End-to-end job-search system built on Claude Code with 14 skill modes
   * Resume tailoring, batch outreach, interview prep, and PDF generation
   * Go dashboard for tracking applications and pipeline status
   * MIT licensed; site at career-ops.org
 
-* [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) ⭐ 58,889 | 🐛 146 | 🌐 Python | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/mvanhorn/last30days-skill?style=flat-square)
+* [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) ⭐ 58,978 | 🐛 148 | 🌐 Python | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/mvanhorn/last30days-skill?style=flat-square)
   * Agent skill that researches topics across Reddit, X, YouTube, Hacker News, TikTok, Polymarket, Bluesky, and the open web
   * Synthesizes findings into a grounded recency summary, weighted toward the last 30 days
   * Targets deep research, social-media monitoring, and trend tracking
   * Compatible with Claude Code, OpenClaw, and ClawHub
 
-* [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) ⭐ 43,241 | 🐛 20 | 🌐 Python | 📅 2026-08-20 ![Stars](https://img.shields.io/github/stars/Imbad0202/academic-research-skills?style=flat-square)
+* [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) ⭐ 43,339 | 🐛 20 | 🌐 Python | 📅 2026-08-20 ![Stars](https://img.shields.io/github/stars/Imbad0202/academic-research-skills?style=flat-square)
   * Academic research skills for Claude Code
   * Research, write, review, revise, finalize pipeline
   * Python-driven
 
-* [blader/humanizer](https://github.com/blader/humanizer) ⭐ 37,049 | 🐛 16 | 🌐 Python | 📅 2026-08-19 ![Stars](https://img.shields.io/github/stars/blader/humanizer?style=flat-square)
+* [blader/humanizer](https://github.com/blader/humanizer) ⭐ 37,214 | 🐛 16 | 🌐 Python | 📅 2026-08-19 ![Stars](https://img.shields.io/github/stars/blader/humanizer?style=flat-square)
   * Claude Code and OpenCode skill that removes signs of AI-generated writing
   * Installs by cloning into `~/.claude/skills/humanizer` or `~/.config/opencode/skills/humanizer`
   * Single-file `SKILL.md` invoked via `/humanizer` in either tool
   * MIT licensed
 
-* [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) ⭐ 34,072 | 🐛 8 | 🌐 Python | 📅 2026-08-19 ![Stars](https://img.shields.io/github/stars/K-Dense-AI/scientific-agent-skills?style=flat-square)
+* [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) ⭐ 34,131 | 🐛 8 | 🌐 Python | 📅 2026-08-19 ![Stars](https://img.shields.io/github/stars/K-Dense-AI/scientific-agent-skills?style=flat-square)
   * Ready-to-use agent skills for research, science, engineering, analysis, finance, and writing
   * Coverage includes bioinformatics, chemoinformatics, genomics, proteomics, and materials science
   * Targets Claude Code and Claude Skills runtimes
   * Maintained by K-Dense AI; MIT licensed
 
-* [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) ⭐ 31,108 | 🐛 5 | 🌐 Python | 📅 2026-07-27 ![Stars](https://img.shields.io/github/stars/alchaincyf/nuwa-skill?style=flat-square)
+* [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) ⭐ 31,156 | 🐛 5 | 🌐 Python | 📅 2026-07-27 ![Stars](https://img.shields.io/github/stars/alchaincyf/nuwa-skill?style=flat-square)
   * Distill anyone's thinking — mental models, decision heuristics, and expression DNA
   * Python-driven Claude skill
   * English/Chinese bilingual
 
-* [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) ⭐ 24,388 | 🐛 58 | 🌐 Shell | 📅 2026-05-21 ![Stars](https://img.shields.io/github/stars/Donchitos/Claude-Code-Game-Studios?style=flat-square)
+* [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) ⭐ 24,431 | 🐛 58 | 🌐 Shell | 📅 2026-05-21 ![Stars](https://img.shields.io/github/stars/Donchitos/Claude-Code-Game-Studios?style=flat-square)
   * Turn Claude Code into a full game development studio
   * 48 AI agents and 37 workflow skills
   * Complete coordination system mirroring real studio hierarchy
   * Engine specialists, designers, and production agents
   * Perfect for game development projects
 
-* [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) ⭐ 15,824 | 🐛 26 | 📅 2026-01-19 ![Stars](https://img.shields.io/github/stars/op7418/Humanizer-zh?style=flat-square)
+* [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) ⭐ 15,866 | 🐛 27 | 📅 2026-01-19 ![Stars](https://img.shields.io/github/stars/op7418/Humanizer-zh?style=flat-square)
   * Chinese localization of the Humanizer Claude Code skill
   * Removes AI-generated signals from Chinese text
   * Companion to blader/humanizer for English
 
-* [nidhinjs/prompt-master](https://github.com/nidhinjs/prompt-master) ⭐ 11,573 | 🐛 29 | 📅 2026-06-10 ![Stars](https://img.shields.io/github/stars/nidhinjs/prompt-master?style=flat-square)
+* [nidhinjs/prompt-master](https://github.com/nidhinjs/prompt-master) ⭐ 11,615 | 🐛 29 | 📅 2026-06-10 ![Stars](https://img.shields.io/github/stars/nidhinjs/prompt-master?style=flat-square)
   * Claude skill that writes accurate prompts for any AI tool
   * Aims to keep context and memory across iterations
   * Token-conscious by design
 
-* [Master-cai/Research-Paper-Writing-Skills](https://github.com/Master-cai/Research-Paper-Writing-Skills) ⭐ 6,207 | 🐛 0 | 📅 2026-06-23 ![Stars](https://img.shields.io/github/stars/Master-cai/Research-Paper-Writing-Skills?style=flat-square)
+* [Master-cai/Research-Paper-Writing-Skills](https://github.com/Master-cai/Research-Paper-Writing-Skills) ⭐ 6,227 | 🐛 0 | 📅 2026-06-23 ![Stars](https://img.shields.io/github/stars/Master-cai/Research-Paper-Writing-Skills?style=flat-square)
   * Skill package for ML, CV, and NLP paper writing
   * Adapted from Prof. Peng Sida's open notes
   * Works with Codex, Claude Code, and Gemini CLI
 
-* [alchaincyf/darwin-skill](https://github.com/alchaincyf/darwin-skill) ⭐ 5,677 | 🐛 3 | 🌐 HTML | 📅 2026-07-27 ![Stars](https://img.shields.io/github/stars/alchaincyf/darwin-skill?style=flat-square)
+* [alchaincyf/darwin-skill](https://github.com/alchaincyf/darwin-skill) ⭐ 5,691 | 🐛 3 | 🌐 HTML | 📅 2026-07-27 ![Stars](https://img.shields.io/github/stars/alchaincyf/darwin-skill?style=flat-square)
   * Skill that lets your skills evolve through evaluate, improve, test, and keep-or-rollback cycles
   * Autoresearch-inspired iteration loop
   * HTML-driven; Chinese-language project
 
-* [Galaxy-Dawn/claude-scholar](https://github.com/Galaxy-Dawn/claude-scholar) ⭐ 5,148 | 🐛 3 | 🌐 Python | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/Galaxy-Dawn/claude-scholar?style=flat-square)
+* [Galaxy-Dawn/claude-scholar](https://github.com/Galaxy-Dawn/claude-scholar) ⭐ 5,155 | 🐛 3 | 🌐 Python | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/Galaxy-Dawn/claude-scholar?style=flat-square)
   * Semi-automated research assistant for academic and software work
   * Supports Claude Code, OpenCode, and Codex CLI
   * Python-driven
 
-* [SamurAIGPT/Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) ⭐ 4,108 | 🐛 3 | 🌐 Shell | 📅 2026-08-20 ![Stars](https://img.shields.io/github/stars/SamurAIGPT/Generative-Media-Skills?style=flat-square)
+* [SamurAIGPT/Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) ⭐ 4,122 | 🐛 3 | 🌐 Shell | 📅 2026-08-20 ![Stars](https://img.shields.io/github/stars/SamurAIGPT/Generative-Media-Skills?style=flat-square)
   * Multi-modal generative media skills for AI agents
   * High-quality image, video, and audio generation
   * Works with Claude Code, Cursor, and Gemini CLI
 
-* [FreedomIntelligence/OpenClaw-Medical-Skills](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) ⭐ 2,961 | 🐛 14 | 🌐 Python | 📅 2026-07-21 ![Stars](https://img.shields.io/github/stars/FreedomIntelligence/OpenClaw-Medical-Skills?style=flat-square)
+* [FreedomIntelligence/OpenClaw-Medical-Skills](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) ⭐ 2,964 | 🐛 14 | 🌐 Python | 📅 2026-07-21 ![Stars](https://img.shields.io/github/stars/FreedomIntelligence/OpenClaw-Medical-Skills?style=flat-square)
   * Open-source medical AI skills library for OpenClaw
   * Skills tuned for clinical, research, and pharma workflows
   * Python-driven
 
-* [pedrohcgs/claude-code-my-workflow](https://github.com/pedrohcgs/claude-code-my-workflow) ⭐ 1,520 | 🐛 4 | 🌐 HTML | 📅 2026-06-10 ![Stars](https://img.shields.io/github/stars/pedrohcgs/claude-code-my-workflow?style=flat-square)
+* [pedrohcgs/claude-code-my-workflow](https://github.com/pedrohcgs/claude-code-my-workflow) ⭐ 1,520 | 🐛 5 | 🌐 HTML | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/pedrohcgs/claude-code-my-workflow?style=flat-square)
   * Ready-to-fork template for academic research
   * LaTeX/Beamer + R workflow optimization
   * Multi-agent review and adversarial QA
@@ -1031,7 +1031,7 @@ Specialized skills for specific industries and use cases.
   * Includes media upload, media download, direct messages, monitors, webhooks, and giveaway draws
   * Ships GitHub docs, npm install, ClawHub listing, and Context7 reference docs
 
-* [Ericyoung-183/alpha-insights](https://github.com/Ericyoung-183/alpha-insights) ⭐ 56 | 🐛 1 | 🌐 Python | 📅 2026-06-29 ![Stars](https://img.shields.io/github/stars/Ericyoung-183/alpha-insights?style=flat-square)
+* [Ericyoung-183/alpha-insights](https://github.com/Ericyoung-183/alpha-insights) ⭐ 57 | 🐛 1 | 🌐 Python | 📅 2026-06-29 ![Stars](https://img.shields.io/github/stars/Ericyoung-183/alpha-insights?style=flat-square)
   * Business research skill for Claude Code and Codex
   * Encodes 19 consulting frameworks and 9 thinking methods
   * Uses evidence grading, source confidence checks, and stage gates to reduce unsupported AI research claims
@@ -1083,27 +1083,27 @@ Specialized skills for specific industries and use cases.
 
 ***
 
-* [tfriedel/claude-office-skills](https://github.com/tfriedel/claude-office-skills) ⭐ 813 | 🐛 3 | 🌐 Python | 📅 2026-04-01 ![Stars](https://img.shields.io/github/stars/tfriedel/claude-office-skills?style=flat-square)
+* [tfriedel/claude-office-skills](https://github.com/tfriedel/claude-office-skills) ⭐ 814 | 🐛 3 | 🌐 Python | 📅 2026-04-01 ![Stars](https://img.shields.io/github/stars/tfriedel/claude-office-skills?style=flat-square)
   * Office-document skills for Claude Code: PPTX, DOCX, XLSX, and PDF
   * HTML-to-PPTX conversion, DOCX tracked-changes editing, XLSX financial models
   * Community suite beyond Anthropic's official document skills
 
-* [ndpvt-web/latex-document-skill](https://github.com/ndpvt-web/latex-document-skill) ⭐ 717 | 🐛 2 | 🌐 TeX | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/ndpvt-web/latex-document-skill?style=flat-square)
+* [ndpvt-web/latex-document-skill](https://github.com/ndpvt-web/latex-document-skill) ⭐ 717 | 🐛 2 | 🌐 TeX | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/ndpvt-web/latex-document-skill?style=flat-square)
   * Universal LaTeX document skill for Claude Code
   * 27 templates, 27 scripts, and 26 reference guides
   * Papers, reports, and Beamer slides for academic/technical writing
 
-* [nimrodfisher/data-analytics-skills](https://github.com/nimrodfisher/data-analytics-skills) ⭐ 379 | 🐛 1 | 🌐 Python | 📅 2026-04-29 ![Stars](https://img.shields.io/github/stars/nimrodfisher/data-analytics-skills?style=flat-square)
+* [nimrodfisher/data-analytics-skills](https://github.com/nimrodfisher/data-analytics-skills) ⭐ 382 | 🐛 1 | 🌐 Python | 📅 2026-04-29 ![Stars](https://img.shields.io/github/stars/nimrodfisher/data-analytics-skills?style=flat-square)
   * Claude skills focused specifically on data-analytics tasks
   * Customizable reference materials for analytics workflows
   * Python-based
 
-* [lingzhi227/agent-research-skills](https://github.com/lingzhi227/agent-research-skills) ⭐ 287 | 🐛 5 | 🌐 Python | 📅 2026-02-27 ![Stars](https://img.shields.io/github/stars/lingzhi227/agent-research-skills?style=flat-square)
+* [lingzhi227/agent-research-skills](https://github.com/lingzhi227/agent-research-skills) ⭐ 288 | 🐛 5 | 🌐 Python | 📅 2026-02-27 ![Stars](https://img.shields.io/github/stars/lingzhi227/agent-research-skills?style=flat-square)
   * Skills for the full academic research lifecycle
   * Systematic literature review through slide generation
   * Includes GitHub repository analysis for research topics
 
-* [boraoztunc/skills](https://github.com/boraoztunc/skills) ⭐ 270 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-15 ![Stars](https://img.shields.io/github/stars/boraoztunc/skills?style=flat-square)
+* [boraoztunc/skills](https://github.com/boraoztunc/skills) ⭐ 271 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-15 ![Stars](https://img.shields.io/github/stars/boraoztunc/skills?style=flat-square)
   * Claude Code skills for copywriting, SEO, and design
   * Includes an AI-writing-pattern remover for humanizer-style prose cleanup
   * Apache-2.0 licensed
@@ -1114,7 +1114,7 @@ Specialized skills for specific industries and use cases.
   * Judgment-first: won't flatten prompts that need precise control
   * One SKILL.md, open Agent Skills standard; MIT
 
-* [b1rdmania/hinge-profile-optimizer](https://github.com/b1rdmania/hinge-profile-optimizer) ⭐ 55 | 🐛 1 | 📅 2026-02-07 ![Stars](https://img.shields.io/github/stars/b1rdmania/hinge-profile-optimizer?style=flat-square)
+* [b1rdmania/hinge-profile-optimizer](https://github.com/b1rdmania/hinge-profile-optimizer) ⭐ 56 | 🐛 1 | 📅 2026-02-07 ![Stars](https://img.shields.io/github/stars/b1rdmania/hinge-profile-optimizer?style=flat-square)
   * Dating-profile optimization skill grounded in 45+ peer-reviewed sources on attraction and online-dating signaling
   * Structured research-backed process for prompt selection, photo ordering, and bio writing
   * MIT licensed
@@ -1124,7 +1124,7 @@ Specialized skills for specific industries and use cases.
   * Visual-verify a rendered panel and catch bugs that live on the glass, not in the logs; check wiring before power-on
   * \~100 lines of bash + a SKILL.md, MIT, one-command setup
 
-* [b1rdmania/claude-plain-english-skill](https://github.com/b1rdmania/claude-plain-english-skill) ⭐ 32 | 🐛 1 | 🌐 Shell | 📅 2026-08-18 ![Stars](https://img.shields.io/github/stars/b1rdmania/claude-plain-english-skill?style=flat-square)
+* [b1rdmania/claude-plain-english-skill](https://github.com/b1rdmania/claude-plain-english-skill) ⭐ 34 | 🐛 1 | 🌐 Shell | 📅 2026-08-18 ![Stars](https://img.shields.io/github/stars/b1rdmania/claude-plain-english-skill?style=flat-square)
   * Strips AI writing tics and applies Orwell/Gowers plain-English rules
   * Audit, rewrite, and in-place file-edit modes, plus a second self-check pass on its own rewrites
   * Reference table of banned LLM vocabulary and constructions with before/after examples
@@ -1154,48 +1154,48 @@ Utilities and tools to enhance your Claude workflow.
 
 ### Desktop Applications & GUI Tools
 
-* [farion1231/cc-switch](https://github.com/farion1231/cc-switch) ⭐ 128,714 | 🐛 2,335 | 🌐 Rust | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/farion1231/cc-switch?style=flat-square)
+* [farion1231/cc-switch](https://github.com/farion1231/cc-switch) ⭐ 128,858 | 🐛 2,355 | 🌐 Rust | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/farion1231/cc-switch?style=flat-square)
   * All-in-one desktop assistant for Claude Code, Codex, OpenCode
   * Skills management and provider configuration
   * Cross-platform with WSL support
   * Built with Rust and Tauri for performance
 
-* [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) ⭐ 50,885 | 🐛 1,342 | 🌐 TypeScript | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/CherryHQ/cherry-studio?style=flat-square)
+* [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) ⭐ 50,920 | 🐛 1,372 | 🌐 TypeScript | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/CherryHQ/cherry-studio?style=flat-square)
   * AI productivity studio with smart chat and autonomous agents
   * 300+ built-in assistants for various tasks
   * Unified access to frontier LLMs
   * Cross-platform desktop application
 
-* [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) ⭐ 32,183 | 🐛 831 | 🌐 TypeScript | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/iOfficeAI/AionUi?style=flat-square)
+* [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) ⭐ 32,206 | 🐛 842 | 🌐 TypeScript | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/iOfficeAI/AionUi?style=flat-square)
   * Free, local, open-source 24/7 cowork app
   * OpenClaw alternative for multiple AI coding assistants
   * Supports Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code
   * Web UI for easy access
 
-* [winfunc/opcode](https://github.com/winfunc/opcode) ⭐ 22,383 | 🐛 331 | 🌐 TypeScript | 📅 2025-10-16 ![Stars](https://img.shields.io/github/stars/winfunc/opcode?style=flat-square)
+* [winfunc/opcode](https://github.com/winfunc/opcode) ⭐ 22,388 | 🐛 331 | 🌐 TypeScript | 📅 2025-10-16 ![Stars](https://img.shields.io/github/stars/winfunc/opcode?style=flat-square)
   * Powerful GUI app and toolkit for Claude Code
   * Create custom agents and manage interactive sessions
   * Run secure background agents
   * Built with Rust and Tauri
 
-* [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) ⭐ 13,385 | 🐛 184 | 🌐 TypeScript | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/siteboon/claudecodeui?style=flat-square)
+* [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) ⭐ 13,393 | 🐛 194 | 🌐 TypeScript | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/siteboon/claudecodeui?style=flat-square)
   * Desktop and mobile UI for Claude Code, Cursor CLI, Codex
   * Manage sessions and projects remotely
   * Responsive design works on desktop, tablet, and mobile
   * Built-in chat, shell terminal, file explorer, and git integration
   * Plugin system for custom extensions
 
-* [ValueCell-ai/ClawX](https://github.com/ValueCell-ai/ClawX) ⭐ 7,595 | 🐛 47 | 🌐 TypeScript | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/ValueCell-ai/ClawX?style=flat-square)
+* [ValueCell-ai/ClawX](https://github.com/ValueCell-ai/ClawX) ⭐ 7,596 | 🐛 47 | 🌐 TypeScript | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/ValueCell-ai/ClawX?style=flat-square)
   * Desktop app providing a graphical interface for OpenClaw AI agents
   * Turns CLI-based AI orchestration into a desktop experience
   * TypeScript-driven Electron build
 
-* [automazeio/vibeproxy](https://github.com/automazeio/vibeproxy) ⭐ 3,299 | 🐛 35 | 🌐 Swift | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/automazeio/vibeproxy?style=flat-square)
+* [automazeio/vibeproxy](https://github.com/automazeio/vibeproxy) ⭐ 3,300 | 🐛 35 | 🌐 Swift | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/automazeio/vibeproxy?style=flat-square)
   * Native macOS menu-bar app to use Claude Code and ChatGPT subscriptions with AI coding tools
   * Skips the need for API keys
   * Swift implementation
 
-* [jazzyalex/agent-sessions](https://github.com/jazzyalex/agent-sessions) ⭐ 806 | 🐛 3 | 🌐 Swift | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/jazzyalex/agent-sessions?style=flat-square)
+* [jazzyalex/agent-sessions](https://github.com/jazzyalex/agent-sessions) ⭐ 807 | 🐛 3 | 🌐 Swift | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/jazzyalex/agent-sessions?style=flat-square)
   * Native macOS app for searching, browsing, and resuming Claude Code sessions alongside Codex, Antigravity, OpenCode, and other agents
   * Agent Cockpit provides live iTerm2 orchestration and monitoring for active local agent sessions
   * Local-first transcript indexing with no telemetry
@@ -1207,23 +1207,23 @@ Utilities and tools to enhance your Claude workflow.
 
 ### Agent Harnesses & Meta-Tools
 
-* [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) ⭐ 68,203 | 🐛 790 | 🌐 TypeScript | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/code-yeongyu/oh-my-openagent?style=flat-square)
+* [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) ⭐ 68,243 | 🐛 801 | 🌐 TypeScript | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/code-yeongyu/oh-my-openagent?style=flat-square)
   * Best-in-class agent harness (previously oh-my-opencode)
   * TUI for orchestration and management
   * Multi-provider support (OpenAI, Gemini, Claude)
   * TypeScript-based with excellent developer experience
 
-* [tailcallhq/forgecode](https://github.com/tailcallhq/forgecode) ⭐ 7,500 | 🐛 41 | 🌐 Rust | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/tailcallhq/forgecode?style=flat-square)
+* [tailcallhq/forgecode](https://github.com/tailcallhq/forgecode) ⭐ 7,499 | 🐛 42 | 🌐 Rust | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/tailcallhq/forgecode?style=flat-square)
   * AI-enabled pair programmer with broad model support
   * Works with Claude, GPT, Grok, DeepSeek, Gemini, and 300+ more models
   * Rust-based binary
 
-* [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) ⭐ 6,569 | 🐛 46 | 🌐 Rust | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/max-sixty/worktrunk?style=flat-square)
+* [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) ⭐ 6,571 | 🐛 46 | 🌐 Rust | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/max-sixty/worktrunk?style=flat-square)
   * CLI for managing Git worktrees in parallel AI-agent workflows
   * Rust-based binary
   * Reduces friction when running multiple coding agents on the same repo
 
-* [intellectronica/ruler](https://github.com/intellectronica/ruler) ⭐ 2,885 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-19 ![Stars](https://img.shields.io/github/stars/intellectronica/ruler?style=flat-square)
+* [intellectronica/ruler](https://github.com/intellectronica/ruler) ⭐ 2,888 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-19 ![Stars](https://img.shields.io/github/stars/intellectronica/ruler?style=flat-square)
   * Applies the same rules to every coding agent on your machine
   * One rule set propagates to Claude Code, Cursor, Codex, and others
   * TypeScript-driven
@@ -1259,69 +1259,69 @@ Utilities and tools to enhance your Claude workflow.
 
 ### Memory & Context Management
 
-* [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) ⭐ 109,235 | 🐛 1,030 | 🌐 Python | 📅 2026-08-20 ![Stars](https://img.shields.io/github/stars/Graphify-Labs/graphify?style=flat-square)
+* [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) ⭐ 109,547 | 🐛 1,043 | 🌐 Python | 📅 2026-08-20 ![Stars](https://img.shields.io/github/stars/Graphify-Labs/graphify?style=flat-square)
   * Knowledge-graph skill that ingests code, SQL schemas, R/shell scripts, docs, papers, images, and videos
   * One graph holds application code, database schema, and infrastructure side by side
   * Uses tree-sitter parsing and Leiden community detection for GraphRAG
   * Works with Claude Code, Codex, OpenCode, Cursor, and Gemini CLI
 
-* [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) ⭐ 91,456 | 🐛 257 | 🌐 JavaScript | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/thedotmack/claude-mem?style=flat-square)
+* [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) ⭐ 91,528 | 🐛 262 | 🌐 JavaScript | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/thedotmack/claude-mem?style=flat-square)
   * Automatic session capture and AI compression
   * Long-term memory with RAG integration
   * Uses Claude's agent-sdk for intelligent context injection
   * SQLite and ChromaDB for embeddings storage
   * Seamless integration with future Claude sessions
 
-* [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) ⭐ 39,799 | 🐛 472 | 🌐 C | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/DeusData/codebase-memory-mcp?style=flat-square)
+* [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) ⭐ 39,902 | 🐛 484 | 🌐 C | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/DeusData/codebase-memory-mcp?style=flat-square)
   * High-performance code-intelligence MCP server
   * Indexes codebases into a persistent knowledge graph in milliseconds
   * C implementation for speed
 
-* [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) ⭐ 30,668 | 🐛 91 | 🌐 Python | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/tirth8205/code-review-graph?style=flat-square)
+* [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) ⭐ 30,703 | 🐛 94 | 🌐 Python | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/tirth8205/code-review-graph?style=flat-square)
   * Builds a persistent, incremental knowledge graph of your codebase for Claude Code
   * Claims roughly 6.8x fewer tokens on reviews and up to 49x on daily coding tasks
   * Tree-sitter static analysis exposed via MCP for graph queries
   * Python and MIT licensed; project site at code-review-graph.com
 
-* [getzep/graphiti](https://github.com/getzep/graphiti) ⭐ 30,177 | 🐛 488 | 🌐 Python | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/getzep/graphiti?style=flat-square)
+* [getzep/graphiti](https://github.com/getzep/graphiti) ⭐ 30,195 | 🐛 488 | 🌐 Python | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/getzep/graphiti?style=flat-square)
   * Real-time, temporally-aware knowledge-graph framework for agent memory
   * Ships an MCP server: add/search episodes and entities backed by a Neo4j/FalkorDB graph
   * Popular long-term memory backend; Python, Apache-2.0 licensed
 
-* [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) ⭐ 28,991 | 🐛 181 | 🌐 TypeScript | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/supermemoryai/supermemory?style=flat-square)
+* [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) ⭐ 28,999 | 🐛 193 | 🌐 TypeScript | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/supermemoryai/supermemory?style=flat-square)
   * Memory + context engine and API for AI apps and agents
   * Persistent memory across sessions and projects; can run fully locally
   * Frequently used as a Claude memory layer; TypeScript, MIT licensed
 
-* [gastownhall/beads](https://github.com/gastownhall/beads) ⭐ 26,507 | 🐛 733 | 🌐 Go | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/gastownhall/beads?style=flat-square)
+* [gastownhall/beads](https://github.com/gastownhall/beads) ⭐ 26,528 | 🐛 753 | 🌐 Go | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/gastownhall/beads?style=flat-square)
   * Memory upgrade for coding agents
   * Persists context across sessions for Claude Code and other agents
   * Go-based binary
 
-* [mksglu/context-mode](https://github.com/mksglu/context-mode) ⭐ 20,058 | 🐛 167 | 🌐 TypeScript | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/mksglu/context-mode?style=flat-square)
+* [mksglu/context-mode](https://github.com/mksglu/context-mode) ⭐ 20,087 | 🐛 168 | 🌐 TypeScript | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/mksglu/context-mode?style=flat-square)
   * Sandboxes tool output to compress context for AI coding agents
   * Claims up to 98% context reduction across long sessions
   * Ships hooks, skills, and an MCP server for 15+ platforms (Claude Code, Codex, Cursor, Kiro, Zed, OpenClaw)
   * Project site at context-mode.com
 
-* [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) ⭐ 14,329 | 🐛 110 | 🌐 Python | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/NevaMind-AI/memU?style=flat-square)
+* [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) ⭐ 14,333 | 🐛 112 | 🌐 Python | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/NevaMind-AI/memU?style=flat-square)
   * Memory layer for 24/7 proactive agents like OpenClaw
   * Python-driven graph-based memory store
   * Targets long-running agent workflows
 
-* [zilliztech/claude-context](https://github.com/zilliztech/claude-context) ⭐ 12,426 | 🐛 142 | 🌐 TypeScript | 📅 2026-07-14 ![Stars](https://img.shields.io/github/stars/zilliztech/claude-context?style=flat-square)
+* [zilliztech/claude-context](https://github.com/zilliztech/claude-context) ⭐ 12,428 | 🐛 143 | 🌐 TypeScript | 📅 2026-07-14 ![Stars](https://img.shields.io/github/stars/zilliztech/claude-context?style=flat-square)
   * Make entire codebase the context for Claude Code
   * Semantic code search MCP plugin
   * Vector database for efficient codebase storage
   * Cost-effective for large codebases
   * No multi-round discovery needed
 
-* [breferrari/obsidian-mind](https://github.com/breferrari/obsidian-mind) ⭐ 4,527 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-17 ![Stars](https://img.shields.io/github/stars/breferrari/obsidian-mind?style=flat-square)
+* [breferrari/obsidian-mind](https://github.com/breferrari/obsidian-mind) ⭐ 4,531 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/breferrari/obsidian-mind?style=flat-square)
   * Obsidian vault that gives AI coding agents persistent memory
   * Designed for Claude Code, Codex CLI, and Gemini CLI
   * TypeScript-driven
 
-* [parcadei/Continuous-Claude-v3](https://github.com/parcadei/Continuous-Claude-v3) ⭐ 3,932 | 🐛 46 | 🌐 Python | 📅 2026-01-26 ![Stars](https://img.shields.io/github/stars/parcadei/Continuous-Claude-v3?style=flat-square)
+* [parcadei/Continuous-Claude-v3](https://github.com/parcadei/Continuous-Claude-v3) ⭐ 3,930 | 🐛 46 | 🌐 Python | 📅 2026-01-26 ![Stars](https://img.shields.io/github/stars/parcadei/Continuous-Claude-v3?style=flat-square)
   * Context management for Claude Code via hooks
   * Maintains state via ledgers and handoffs across sessions
   * MCP execution without context pollution
@@ -1331,12 +1331,12 @@ Utilities and tools to enhance your Claude workflow.
   * You describe how you think and work; it captures and reuses that context
   * Shell-driven
 
-* [SamurAIGPT/llm-wiki-agent](https://github.com/SamurAIGPT/llm-wiki-agent) ⭐ 3,409 | 🐛 3 | 🌐 Python | 📅 2026-08-17 ![Stars](https://img.shields.io/github/stars/SamurAIGPT/llm-wiki-agent?style=flat-square)
+* [SamurAIGPT/llm-wiki-agent](https://github.com/SamurAIGPT/llm-wiki-agent) ⭐ 3,434 | 🐛 3 | 🌐 Python | 📅 2026-08-17 ![Stars](https://img.shields.io/github/stars/SamurAIGPT/llm-wiki-agent?style=flat-square)
   * Personal knowledge base that builds and maintains itself
   * Drop in sources and Claude (or Codex/Gemini) extracts and links knowledge
   * Python-driven
 
-* [letta-ai/claude-subconscious](https://github.com/letta-ai/claude-subconscious) ⭐ 2,877 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/letta-ai/claude-subconscious?style=flat-square)
+* [letta-ai/claude-subconscious](https://github.com/letta-ai/claude-subconscious) ⭐ 2,876 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/letta-ai/claude-subconscious?style=flat-square)
   * Background agent that watches Claude Code sessions
   * Builds memory and injects relevant context back into the session
   * From Letta AI; TypeScript, MIT licensed
@@ -1348,7 +1348,7 @@ Utilities and tools to enhance your Claude workflow.
   * Also ships an MCP server, CLI, libraries (Rust, Python, Ruby, Swift, Kotlin), and a WASM/JS npm package
   * Rust-based, MPL-2.0 licensed
 
-* [hjqcan/GoodMemory](https://github.com/hjqcan/GoodMemory) ⭐ 16 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/hjqcan/GoodMemory?style=flat-square)
+* [hjqcan/GoodMemory](https://github.com/hjqcan/GoodMemory) ⭐ 16 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/hjqcan/GoodMemory?style=flat-square)
   * Local-first, auditable memory layer for Claude Code, Codex, and MCP clients
   * One-command `goodmemory setup` installs managed hooks for scoped recall; governed writeback is opt-in, reviewable, and reversible
   * Uses durable SQLite by default, with Postgres support and read-only MCP inspection plus forget/export controls
@@ -1366,7 +1366,7 @@ Utilities and tools to enhance your Claude workflow.
   * Includes an npm CLI plus copyable Context Receipts skill recipe and 60-second smoke checks
   * Focuses on audit evidence, not persistent memory or agent orchestration
 
-* [bks-lab/open-bridge](https://github.com/bks-lab/open-bridge) ⭐ 8 | 🐛 6 | 🌐 Python | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/bks-lab/open-bridge?style=flat-square)
+* [bks-lab/open-bridge](https://github.com/bks-lab/open-bridge) ⭐ 8 | 🐛 2 | 🌐 Python | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/bks-lab/open-bridge?style=flat-square)
   * Agent-agnostic context layer: a plain git repo of Markdown + YAML your coding agent reads at the start of every session
   * It begins each session knowing your repos, clients, and task conventions instead of restarting from zero
   * One `skills/` tree works across Claude Code, Codex, and Copilot CLI; sync is via plain files/Git
@@ -1398,119 +1398,119 @@ Utilities and tools to enhance your Claude workflow.
 
 ### MCP Servers & Integrations
 
-* [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) ⭐ 89,752 | 🐛 530 | 🌐 TypeScript | 📅 2026-08-20 ![Stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=flat-square)
+* [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) ⭐ 89,781 | 🐛 535 | 🌐 TypeScript | 📅 2026-08-20 ![Stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=flat-square)
   * Official Anthropic reference collection of MCP servers
   * Bundles Filesystem, Git, Fetch, Memory, Sequential Thinking, and Time
   * The canonical starting point for the MCP ecosystem; TypeScript and Python
 
-* [upstash/context7](https://github.com/upstash/context7) ⭐ 61,053 | 🐛 40 | 🌐 TypeScript | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/upstash/context7?style=flat-square)
+* [upstash/context7](https://github.com/upstash/context7) ⭐ 61,090 | 🐛 42 | 🌐 TypeScript | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/upstash/context7?style=flat-square)
   * Pulls up-to-date, version-specific library docs and code examples into the model
   * Exposes `resolve-library-id` and `get-library-docs`; runs remotely or via npx
   * A near-ubiquitous "must-have" Claude Code MCP; TypeScript, MIT licensed
 
-* [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) ⭐ 49,548 | 🐛 90 | 🌐 TypeScript | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/ChromeDevTools/chrome-devtools-mcp?style=flat-square)
+* [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) ⭐ 49,586 | 🐛 89 | 🌐 TypeScript | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/ChromeDevTools/chrome-devtools-mcp?style=flat-square)
   * Official Chrome DevTools MCP server for real-browser control and debugging
   * Performance tracing, network/console inspection, and DOM/page automation
   * Maintained by the Google Chrome DevTools team; Apache-2.0 licensed
 
-* [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) ⭐ 36,337 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/microsoft/playwright-mcp?style=flat-square)
+* [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) ⭐ 36,365 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/microsoft/playwright-mcp?style=flat-square)
   * Microsoft's official browser-automation MCP server built on Playwright
   * Drives pages via the structured accessibility tree, not screenshots
   * De facto standard for end-to-end testing and web automation; Apache-2.0 licensed
 
-* [github/github-mcp-server](https://github.com/github/github-mcp-server) ⭐ 32,414 | 🐛 326 | 🌐 Go | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/github/github-mcp-server?style=flat-square)
+* [github/github-mcp-server](https://github.com/github/github-mcp-server) ⭐ 32,431 | 🐛 330 | 🌐 Go | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/github/github-mcp-server?style=flat-square)
   * GitHub's official MCP server for repos, issues, PRs, and Actions
   * Offered as a hosted remote server and a local Go binary
   * Supports OAuth and PAT auth; MIT licensed
 
-* [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) ⭐ 30,592 | 🐛 934 | 🌐 TypeScript | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/nanocoai/nanoclaw?style=flat-square)
+* [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) ⭐ 30,603 | 🐛 940 | 🌐 TypeScript | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/nanocoai/nanoclaw?style=flat-square)
   * Lightweight OpenClaw alternative for containers
   * Connects to WhatsApp, Telegram, Slack, Discord, Gmail
   * Built on Anthropic's Agents SDK
   * Memory and scheduled jobs support
 
-* [oraios/serena](https://github.com/oraios/serena) ⭐ 28,339 | 🐛 117 | 🌐 Python | 📅 2026-08-20 ![Stars](https://img.shields.io/github/stars/oraios/serena?style=flat-square)
+* [oraios/serena](https://github.com/oraios/serena) ⭐ 28,375 | 🐛 120 | 🌐 Python | 📅 2026-08-20 ![Stars](https://img.shields.io/github/stars/oraios/serena?style=flat-square)
   * Powerful coding agent toolkit with semantic capabilities
   * MCP server for retrieval and editing
   * Language server protocol integration
   * Advanced semantic code understanding
 
-* [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) ⭐ 15,700 | 🐛 23 | 🌐 TypeScript | 📅 2026-08-07 ![Stars](https://img.shields.io/github/stars/GLips/Figma-Context-MCP?style=flat-square)
+* [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) ⭐ 15,704 | 🐛 25 | 🌐 TypeScript | 📅 2026-08-07 ![Stars](https://img.shields.io/github/stars/GLips/Figma-Context-MCP?style=flat-square)
   * Framelink MCP server that feeds Figma layout and design data to coding agents
   * Fetches a file/node's layout, styles, and component structure for accurate UI code
   * Widely used for design-to-code; TypeScript, MIT licensed
 
-* [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) ⭐ 15,094 | 🐛 535 | 🌐 Go | 📅 2026-08-18 ![Stars](https://img.shields.io/github/stars/chenhg5/cc-connect?style=flat-square)
+* [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) ⭐ 15,111 | 🐛 536 | 🌐 Go | 📅 2026-08-18 ![Stars](https://img.shields.io/github/stars/chenhg5/cc-connect?style=flat-square)
   * Bridges local AI coding agents to messaging platforms
   * Supports Claude Code, Cursor, Gemini CLI, and Codex
   * Targets Feishu/Lark, DingTalk, Slack, Telegram, and Discord
   * Go-based runtime
 
-* [awslabs/mcp](https://github.com/awslabs/mcp) ⭐ 9,629 | 🐛 266 | 🌐 Python | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/awslabs/mcp?style=flat-square)
+* [awslabs/mcp](https://github.com/awslabs/mcp) ⭐ 9,630 | 🐛 270 | 🌐 Python | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/awslabs/mcp?style=flat-square)
   * AWS's official open-source suite of MCP servers for AWS services
   * Includes servers for docs, CDK, Cost Explorer, Bedrock Knowledge Bases, and DynamoDB
   * Installable per-service; Python, Apache-2.0 licensed
 
-* [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) ⭐ 9,368 | 🐛 215 | 🌐 TypeScript | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/wonderwhy-er/DesktopCommanderMCP?style=flat-square)
+* [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) ⭐ 9,379 | 🐛 216 | 🌐 TypeScript | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/wonderwhy-er/DesktopCommanderMCP?style=flat-square)
   * MCP server for terminal control and file system management
   * Execute commands, search files, and diff-based editing
   * Native Excel, PDF, and DOCX support
   * Interactive process control and session management
   * Docker isolation for sandboxing
 
-* [eze-is/web-access](https://github.com/eze-is/web-access) ⭐ 8,707 | 🐛 47 | 🌐 JavaScript | 📅 2026-08-19 ![Stars](https://img.shields.io/github/stars/eze-is/web-access?style=flat-square)
+* [eze-is/web-access](https://github.com/eze-is/web-access) ⭐ 8,709 | 🐛 47 | 🌐 JavaScript | 📅 2026-08-19 ![Stars](https://img.shields.io/github/stars/eze-is/web-access?style=flat-square)
   * Adds full internet access to Claude Code via a layered skill
   * Three-tier channel scheduling, browser CDP, and parallel divide-and-conquer
   * JavaScript-driven
 
-* [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) ⭐ 8,142 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-17 ![Stars](https://img.shields.io/github/stars/google-labs-code/stitch-skills?style=flat-square)
+* [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) ⭐ 8,152 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-17 ![Stars](https://img.shields.io/github/stars/google-labs-code/stitch-skills?style=flat-square)
   * Library of agent skills designed to work with the Stitch MCP server
   * Follows the open Agent Skills standard
   * TypeScript-driven; published by Google Labs
 
-* [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) ⭐ 7,287 | 🐛 156 | 🌐 JavaScript | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/firecrawl/firecrawl-mcp-server?style=flat-square)
+* [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) ⭐ 7,294 | 🐛 156 | 🌐 JavaScript | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/firecrawl/firecrawl-mcp-server?style=flat-square)
   * Official Firecrawl MCP server for web scraping, crawling, and search
   * Scrape/crawl/map/search tools return clean, LLM-ready markdown
   * Works hosted (API key) or self-hosted; MIT licensed
 
-* [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) ⭐ 6,980 | 🐛 87 | 🌐 JavaScript | 📅 2026-07-26 ![Stars](https://img.shields.io/github/stars/grab/cursor-talk-to-figma-mcp?style=flat-square)
+* [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) ⭐ 6,983 | 🐛 87 | 🌐 JavaScript | 📅 2026-07-26 ![Stars](https://img.shields.io/github/stars/grab/cursor-talk-to-figma-mcp?style=flat-square)
   * MCP integration that lets AI agents talk to Figma
   * Supports Cursor and Claude Code for reading and editing designs
   * JavaScript-based; published by Grab's engineering team
 
-* [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) ⭐ 5,781 | 🐛 189 | 🌐 Python | 📅 2026-08-20 ![Stars](https://img.shields.io/github/stars/sooperset/mcp-atlassian?style=flat-square)
+* [sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) ⭐ 5,783 | 🐛 191 | 🌐 Python | 📅 2026-08-20 ![Stars](https://img.shields.io/github/stars/sooperset/mcp-atlassian?style=flat-square)
   * Most popular MCP server for Atlassian Jira and Confluence
   * Create/search/update issues and read/write Confluence pages
   * Supports Cloud and Server/Data Center; distributed via Docker and uvx
 
-* [makenotion/notion-mcp-server](https://github.com/makenotion/notion-mcp-server) ⭐ 4,596 | 🐛 187 | 🌐 TypeScript | 📅 2026-07-25 ![Stars](https://img.shields.io/github/stars/makenotion/notion-mcp-server?style=flat-square)
+* [makenotion/notion-mcp-server](https://github.com/makenotion/notion-mcp-server) ⭐ 4,597 | 🐛 187 | 🌐 TypeScript | 📅 2026-07-25 ![Stars](https://img.shields.io/github/stars/makenotion/notion-mcp-server?style=flat-square)
   * Notion's official MCP server for reading and writing workspace content
   * Query databases and create/update pages and blocks via the Notion API
   * Supports a hosted remote endpoint and local stdio deployment
 
-* [atilaahmettaner/tradingview-mcp](https://github.com/atilaahmettaner/tradingview-mcp) ⭐ 4,162 | 🐛 11 | 🌐 Python | 📅 2026-08-07 ![Stars](https://img.shields.io/github/stars/atilaahmettaner/tradingview-mcp?style=flat-square)
+* [atilaahmettaner/tradingview-mcp](https://github.com/atilaahmettaner/tradingview-mcp) ⭐ 4,173 | 🐛 11 | 🌐 Python | 📅 2026-08-07 ![Stars](https://img.shields.io/github/stars/atilaahmettaner/tradingview-mcp?style=flat-square)
   * MCP for real-time crypto and stock screening
   * Advanced technical indicators and Bollinger-band intelligence
   * Python implementation; works as a native Claude Code MCP
 
-* [PleasePrompto/notebooklm-mcp](https://github.com/PleasePrompto/notebooklm-mcp) ⭐ 3,305 | 🐛 51 | 🌐 TypeScript | 📅 2026-05-01 ![Stars](https://img.shields.io/github/stars/PleasePrompto/notebooklm-mcp?style=flat-square)
+* [PleasePrompto/notebooklm-mcp](https://github.com/PleasePrompto/notebooklm-mcp) ⭐ 3,314 | 🐛 51 | 🌐 TypeScript | 📅 2026-05-01 ![Stars](https://img.shields.io/github/stars/PleasePrompto/notebooklm-mcp?style=flat-square)
   * MCP server for Google NotebookLM
   * Lets agents (Claude Code, Codex) research documentation with grounded citations
   * TypeScript-driven
 
-* [op7418/Claude-to-IM-skill](https://github.com/op7418/Claude-to-IM-skill) ⭐ 2,866 | 🐛 100 | 🌐 TypeScript | 📅 2026-03-23 ![Stars](https://img.shields.io/github/stars/op7418/Claude-to-IM-skill?style=flat-square)
+* [op7418/Claude-to-IM-skill](https://github.com/op7418/Claude-to-IM-skill) ⭐ 2,867 | 🐛 100 | 🌐 TypeScript | 📅 2026-03-23 ![Stars](https://img.shields.io/github/stars/op7418/Claude-to-IM-skill?style=flat-square)
   * Bridges Claude Code and Codex to IM platforms
   * Chat with AI coding agents from Telegram, Discord, or Feishu/Lark
   * TypeScript implementation
 
-* [RichardAtCT/claude-code-telegram](https://github.com/RichardAtCT/claude-code-telegram) ⭐ 2,760 | 🐛 42 | 🌐 Python | 📅 2026-03-30 ![Stars](https://img.shields.io/github/stars/RichardAtCT/claude-code-telegram?style=flat-square)
+* [RichardAtCT/claude-code-telegram](https://github.com/RichardAtCT/claude-code-telegram) ⭐ 2,762 | 🐛 42 | 🌐 Python | 📅 2026-03-30 ![Stars](https://img.shields.io/github/stars/RichardAtCT/claude-code-telegram?style=flat-square)
   * Telegram bot for remote Claude Code access
   * Chat naturally about projects from anywhere
   * Automatic session persistence per project
   * Proactive notifications from webhooks and CI/CD
   * Built-in authentication and audit logging
 
-* [kubestellar/console](https://github.com/kubestellar/console) ⭐ 127 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/kubestellar/console?style=flat-square)
+* [kubestellar/console](https://github.com/kubestellar/console) ⭐ 127 | 🐛 31 | 🌐 TypeScript | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/kubestellar/console?style=flat-square)
   * MCP server (`kc-agent`) bridging AI assistants to multi-cluster Kubernetes
   * Manage workloads, pods, namespaces, and RBAC across clusters via natural language
   * Built-in AI-powered dashboard with 250+ CNCF project integrations
@@ -1537,7 +1537,7 @@ Utilities and tools to enhance your Claude workflow.
 
 ### API & Integration Tools
 
-* [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) ⭐ 48,263 | 🐛 437 | 🌐 Go | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/router-for-me/CLIProxyAPI?style=flat-square)
+* [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) ⭐ 48,365 | 🐛 431 | 🌐 Go | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/router-for-me/CLIProxyAPI?style=flat-square)
   * Wrap multiple AI CLIs as OpenAI-compatible API
   * Support for Gemini CLI, Claude Code, ChatGPT Codex, Qwen Code
   * Access free models through standardized API interface
@@ -1556,7 +1556,7 @@ Utilities and tools to enhance your Claude workflow.
   * Captures requests, costs, sessions, and supported tool execution locally
   * Adds scriptable middleware, subscription bonding, failover, and messenger-assisted re-authentication
 
-* [sozercan/vekil](https://github.com/sozercan/vekil) ⭐ 18 | 🐛 19 | 🌐 Go | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/sozercan/vekil?style=flat-square)
+* [sozercan/vekil](https://github.com/sozercan/vekil) ⭐ 18 | 🐛 21 | 🌐 Go | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/sozercan/vekil?style=flat-square)
   * Go reverse proxy exposing Anthropic, Gemini, and OpenAI-compatible APIs behind one local endpoint
   * Multi-provider routing across GitHub Copilot, Azure OpenAI, and OpenAI Codex
   * Zero-config Copilot mode plus JSON/YAML provider configs for explicit routing
@@ -1571,24 +1571,24 @@ Utilities and tools to enhance your Claude workflow.
 
 ### CLI Configuration Tools
 
-* [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) ⭐ 36,802 | 🐛 1,091 | 🌐 TypeScript | 📅 2026-08-20 ![Stars](https://img.shields.io/github/stars/musistudio/claude-code-router?style=flat-square)
+* [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) ⭐ 36,826 | 🐛 1,088 | 🌐 TypeScript | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/musistudio/claude-code-router?style=flat-square)
   * Use Claude Code as foundation for coding infrastructure
   * Route requests to different models based on needs
   * Multi-provider support (OpenRouter, DeepSeek, Ollama, Gemini)
   * Dynamic model switching with /model command
   * GitHub Actions integration
 
-* [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) ⭐ 30,314 | 🐛 232 | 🌐 Python | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/davila7/claude-code-templates?style=flat-square)
+* [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) ⭐ 30,340 | 🐛 232 | 🌐 Python | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/davila7/claude-code-templates?style=flat-square)
   * CLI tool for configuring and monitoring Claude Code
   * Template management system
   * Configuration automation
   * Python-based for easy customization
 
-* [UfoMiao/zcf](https://github.com/UfoMiao/zcf) ⭐ 6,078 | 🐛 49 | 🌐 TypeScript | 📅 2026-08-19 ![Stars](https://img.shields.io/github/stars/UfoMiao/zcf?style=flat-square)
+* [UfoMiao/zcf](https://github.com/UfoMiao/zcf) ⭐ 6,078 | 🐛 49 | 🌐 TypeScript | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/UfoMiao/zcf?style=flat-square)
   * Zero-Config Code Flow for Claude Code and Codex
   * TypeScript-driven configuration wrapper
 
-* [MohamedAbdallah-14/unslop](https://github.com/MohamedAbdallah-14/unslop) ⭐ 101 | 🐛 1 | 🌐 Python | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/MohamedAbdallah-14/unslop?style=flat-square)
+* [MohamedAbdallah-14/unslop](https://github.com/MohamedAbdallah-14/unslop) ⭐ 105 | 🐛 1 | 🌐 Python | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/MohamedAbdallah-14/unslop?style=flat-square)
   * CLI and MCP server that removes AI writing patterns from text
   * Strips tricolons, em-dash overuse, sycophancy openers, and overused vocabulary
   * Works with Claude Code, Codex, Gemini CLI, and Cursor via PostToolUse hooks
@@ -1602,77 +1602,77 @@ Utilities and tools to enhance your Claude workflow.
 
 ### Autonomous Development
 
-* [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) ⭐ 9,602 | 🐛 33 | 🌐 Shell | 📅 2026-07-18 ![Stars](https://img.shields.io/github/stars/frankbria/ralph-claude-code?style=flat-square)
+* [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) ⭐ 9,604 | 🐛 33 | 🌐 Shell | 📅 2026-07-18 ![Stars](https://img.shields.io/github/stars/frankbria/ralph-claude-code?style=flat-square)
   * Autonomous AI development loop with intelligent exit detection
   * Continuous development cycles until project completion
   * Built-in safeguards to prevent infinite loops
   * Rate limiting and circuit breaker protection
   * Global command available in any directory
 
-* [evalstate/fast-agent](https://github.com/evalstate/fast-agent) ⭐ 3,897 | 🐛 31 | 🌐 Python | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/evalstate/fast-agent?style=flat-square)
+* [evalstate/fast-agent](https://github.com/evalstate/fast-agent) ⭐ 3,897 | 🐛 30 | 🌐 Python | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/evalstate/fast-agent?style=flat-square)
   * Build and evaluate agents with model, Skills, MCP, and ACP support
   * Python-based research-grade harness
   * Designed for fast agent-iteration cycles
 
 ### Monitoring & Observability
 
-* [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) ⭐ 27,546 | 🐛 13 | 🌐 JavaScript | 📅 2026-08-18 ![Stars](https://img.shields.io/github/stars/jarrodwatts/claude-hud?style=flat-square)
+* [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) ⭐ 27,560 | 🐛 14 | 🌐 JavaScript | 📅 2026-08-18 ![Stars](https://img.shields.io/github/stars/jarrodwatts/claude-hud?style=flat-square)
   * Claude Code plugin that surfaces context usage, active tools, running agents, and todo progress
   * Statusline-style HUD that updates while the agent works
   * TypeScript implementation; MIT licensed
 
-* [steipete/CodexBar](https://github.com/steipete/CodexBar) ⭐ 20,437 | 🐛 126 | 🌐 Swift | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/steipete/CodexBar?style=flat-square)
+* [steipete/CodexBar](https://github.com/steipete/CodexBar) ⭐ 20,469 | 🐛 130 | 🌐 Swift | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/steipete/CodexBar?style=flat-square)
   * macOS menu bar app for usage stats
   * Track Codex, Claude, Cursor, Gemini, and more
   * Session and weekly limits visibility
   * Reset timer for each provider
   * Minimal UI with dynamic bar icons
 
-* [ccusage/ccusage](https://github.com/ccusage/ccusage) ⭐ 18,094 | 🐛 29 | 🌐 Rust | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/ccusage/ccusage?style=flat-square)
+* [ccusage/ccusage](https://github.com/ccusage/ccusage) ⭐ 18,113 | 🐛 28 | 🌐 Rust | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/ccusage/ccusage?style=flat-square)
   * `npx ccusage` CLI that parses local Claude Code JSONL logs
   * Reports token usage and cost by day, month, session, and model
   * The most-referenced usage/cost tool in the community; Rust, very actively maintained
 
-* [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) ⭐ 12,507 | 🐛 111 | 🌐 TypeScript | 📅 2026-08-17 ![Stars](https://img.shields.io/github/stars/sirmalloc/ccstatusline?style=flat-square)
+* [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) ⭐ 12,522 | 🐛 112 | 🌐 TypeScript | 📅 2026-08-17 ![Stars](https://img.shields.io/github/stars/sirmalloc/ccstatusline?style=flat-square)
   * Customizable statusline for the Claude Code CLI
   * Powerline support, themes, and rich layouts
   * TypeScript-driven
 
-* [getagentseal/codeburn](https://github.com/getagentseal/codeburn) ⭐ 9,590 | 🐛 40 | 🌐 TypeScript | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/getagentseal/codeburn?style=flat-square)
+* [getagentseal/codeburn](https://github.com/getagentseal/codeburn) ⭐ 9,606 | 🐛 27 | 🌐 TypeScript | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/getagentseal/codeburn?style=flat-square)
   * Interactive TUI dashboard for token-cost observability
   * Shows where Claude Code, Codex, and Cursor tokens go
   * TypeScript-driven
 
-* [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) ⭐ 8,650 | 🐛 36 | 🌐 Python | 📅 2026-07-05 ![Stars](https://img.shields.io/github/stars/Maciek-roboblog/Claude-Code-Usage-Monitor?style=flat-square)
+* [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) ⭐ 8,649 | 🐛 36 | 🌐 Python | 📅 2026-07-05 ![Stars](https://img.shields.io/github/stars/Maciek-roboblog/Claude-Code-Usage-Monitor?style=flat-square)
   * Real-time terminal monitoring for token usage
   * Machine learning-based predictions and analytics
   * Burn rate tracking and cost analysis
   * Rich UI with intelligent session limit warnings
   * Track consumption across different Claude plans
 
-* [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ⭐ 7,946 | 🐛 136 | 🌐 TypeScript | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/backnotprop/plannotator?style=flat-square)
+* [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ⭐ 7,960 | 🐛 137 | 🌐 TypeScript | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/backnotprop/plannotator?style=flat-square)
   * Annotate and review coding-agent plans and diffs visually
   * Share with your team; send feedback to agents with one click
   * TypeScript-driven
 
-* [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) ⭐ 5,111 | 🐛 72 | 🌐 Rust | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/junhoyeo/tokscale?style=flat-square)
+* [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) ⭐ 5,126 | 🐛 68 | 🌐 Rust | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/junhoyeo/tokscale?style=flat-square)
   * CLI for tracking token usage across OpenCode, Claude Code, OpenClaw, Codex, Gemini, and Cursor
   * Single Rust binary
 
-* [PeonPing/peon-ping](https://github.com/PeonPing/peon-ping) ⭐ 4,998 | 🐛 37 | 🌐 Shell | 📅 2026-08-10 ![Stars](https://img.shields.io/github/stars/PeonPing/peon-ping?style=flat-square)
+* [PeonPing/peon-ping](https://github.com/PeonPing/peon-ping) ⭐ 4,999 | 🐛 38 | 🌐 Shell | 📅 2026-08-10 ![Stars](https://img.shields.io/github/stars/PeonPing/peon-ping?style=flat-square)
   * Warcraft III Peon voice notifications for Claude Code, Codex, and other agents
   * Shell-driven; stops you from babysitting the terminal
 
-* [matt1398/claude-devtools](https://github.com/matt1398/claude-devtools) ⭐ 3,855 | 🐛 47 | 🌐 TypeScript | 📅 2026-05-13 ![Stars](https://img.shields.io/github/stars/matt1398/claude-devtools?style=flat-square)
+* [matt1398/claude-devtools](https://github.com/matt1398/claude-devtools) ⭐ 3,857 | 🐛 47 | 🌐 TypeScript | 📅 2026-05-13 ![Stars](https://img.shields.io/github/stars/matt1398/claude-devtools?style=flat-square)
   * DevTools-style inspector for Claude Code
   * Session logs, tool calls, token usage, sub-agents, and context window
   * TypeScript-driven
 
-* [hamed-elfayome/Claude-Usage-Tracker](https://github.com/hamed-elfayome/Claude-Usage-Tracker) ⭐ 3,306 | 🐛 57 | 🌐 Swift | 📅 2026-07-12 ![Stars](https://img.shields.io/github/stars/hamed-elfayome/Claude-Usage-Tracker?style=flat-square)
+* [hamed-elfayome/Claude-Usage-Tracker](https://github.com/hamed-elfayome/Claude-Usage-Tracker) ⭐ 3,305 | 🐛 57 | 🌐 Swift | 📅 2026-07-12 ![Stars](https://img.shields.io/github/stars/hamed-elfayome/Claude-Usage-Tracker?style=flat-square)
   * Native macOS menu-bar app for tracking Claude AI usage limits in real time
   * Built with Swift and SwiftUI
 
-* [ZeframLou/call-me](https://github.com/ZeframLou/call-me) ⭐ 2,637 | 🐛 17 | 🌐 TypeScript | 📅 2026-04-07 ![Stars](https://img.shields.io/github/stars/ZeframLou/call-me?style=flat-square)
+* [ZeframLou/call-me](https://github.com/ZeframLou/call-me) ⭐ 2,638 | 🐛 17 | 🌐 TypeScript | 📅 2026-04-07 ![Stars](https://img.shields.io/github/stars/ZeframLou/call-me?style=flat-square)
   * Minimal plugin that lets Claude Code call you on the phone
   * TypeScript-based
   * Useful for long-running autonomous runs
@@ -1684,12 +1684,12 @@ Utilities and tools to enhance your Claude workflow.
   * Understand core agent workflow and architecture
   * Context compaction and task/sub-agent analysis
 
-* [disler/claude-code-hooks-multi-agent-observability](https://github.com/disler/claude-code-hooks-multi-agent-observability) ⭐ 1,523 | 🐛 31 | 🌐 Python | 📅 2026-02-08 ![Stars](https://img.shields.io/github/stars/disler/claude-code-hooks-multi-agent-observability?style=flat-square)
+* [disler/claude-code-hooks-multi-agent-observability](https://github.com/disler/claude-code-hooks-multi-agent-observability) ⭐ 1,522 | 🐛 31 | 🌐 Python | 📅 2026-02-08 ![Stars](https://img.shields.io/github/stars/disler/claude-code-hooks-multi-agent-observability?style=flat-square)
   * Real-time agent monitoring
   * Hook event tracking with SQLite dashboard
   * Visual tool event indicators
 
-* [luoyuctl/agenttrace](https://github.com/luoyuctl/agenttrace) ⭐ 121 | 🐛 8 | 🌐 Rust | 📅 2026-08-17 ![Stars](https://img.shields.io/github/stars/luoyuctl/agenttrace?style=flat-square)
+* [luoyuctl/agenttrace](https://github.com/luoyuctl/agenttrace) ⭐ 121 | 🐛 7 | 🌐 Rust | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/luoyuctl/agenttrace?style=flat-square)
   * Local-first TUI observability for AI coding agent sessions
   * Supports Claude Code, Codex CLI, Gemini CLI, Aider, Cursor exports, Hermes, OpenCode, Kimi, and Copilot-style logs
   * Tracks cost, tokens, tool failures, latency, anomalies, health, diffs, and CI gates
@@ -1715,17 +1715,17 @@ Utilities and tools to enhance your Claude workflow.
 
 ### Configuration & Templates
 
-* [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) ⭐ 64,841 | 🐛 33 | 🌐 HTML | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat-square)
+* [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) ⭐ 64,865 | 🐛 35 | 🌐 HTML | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat-square)
   * Comprehensive best practices guide
   * Prompting, planning, and agent strategies
   * Commands, skills, hooks, and workflows
 
-* [centminmod/my-claude-code-setup](https://github.com/centminmod/my-claude-code-setup) ⭐ 2,596 | 🐛 3 | 🌐 Python | 📅 2026-08-01 ![Stars](https://img.shields.io/github/stars/centminmod/my-claude-code-setup?style=flat-square)
+* [centminmod/my-claude-code-setup](https://github.com/centminmod/my-claude-code-setup) ⭐ 2,597 | 🐛 3 | 🌐 Python | 📅 2026-08-01 ![Stars](https://img.shields.io/github/stars/centminmod/my-claude-code-setup?style=flat-square)
   * Shared starter configuration and CLAUDE.md "memory bank" system
   * Bundles hooks and subagents; frequently forked as a reference setup
   * Python, MIT licensed
 
-* [abhishekray07/claude-md-templates](https://github.com/abhishekray07/claude-md-templates) ⭐ 317 | 🐛 0 | 📅 2026-05-18 ![Stars](https://img.shields.io/github/stars/abhishekray07/claude-md-templates?style=flat-square)
+* [abhishekray07/claude-md-templates](https://github.com/abhishekray07/claude-md-templates) ⭐ 318 | 🐛 0 | 📅 2026-05-18 ![Stars](https://img.shields.io/github/stars/abhishekray07/claude-md-templates?style=flat-square)
   * CLAUDE.md best practices and templates
   * Global, project, and local configurations
   * Framework-specific templates (Next.js, Python/FastAPI)
@@ -1737,13 +1737,13 @@ Utilities and tools to enhance your Claude workflow.
 
 ### Cost Optimization
 
-* [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) ⭐ 100,146 | 🐛 359 | 🌐 Go | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/JuliusBrussee/caveman?style=flat-square)
+* [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) ⭐ 100,329 | 🐛 362 | 🌐 Go | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/JuliusBrussee/caveman?style=flat-square)
   * Claude Code skill that rewrites prompts and responses in compressed caveman-style language
   * Claims roughly 65% token reduction by stripping function words and filler
   * JavaScript implementation; MIT licensed
   * Project site at getcaveman.dev
 
-* [nadimtuhin/claude-token-optimizer](https://github.com/nadimtuhin/claude-token-optimizer) ⭐ 555 | 🐛 8 | 🌐 JavaScript | 📅 2026-08-17 ![Stars](https://img.shields.io/github/stars/nadimtuhin/claude-token-optimizer?style=flat-square)
+* [nadimtuhin/claude-token-optimizer](https://github.com/nadimtuhin/claude-token-optimizer) ⭐ 558 | 🐛 8 | 🌐 JavaScript | 📅 2026-08-17 ![Stars](https://img.shields.io/github/stars/nadimtuhin/claude-token-optimizer?style=flat-square)
   * Up to 90% token savings
   * Progressive disclosure patterns
   * Framework-specific optimization
@@ -1769,7 +1769,7 @@ Resources for mastering Claude skills and understanding best practices.
 
 ### Learning & Tutoring Skills
 
-* [Li-Evan/Bloom](https://github.com/Li-Evan/Bloom) ⭐ 239 | 🐛 2 | 🌐 Python | 📅 2026-06-23 ![Stars](https://img.shields.io/github/stars/Li-Evan/Bloom?style=flat-square)
+* [Li-Evan/Bloom](https://github.com/Li-Evan/Bloom) ⭐ 238 | 🐛 2 | 🌐 Python | 📅 2026-06-23 ![Stars](https://img.shields.io/github/stars/Li-Evan/Bloom?style=flat-square)
   * One-on-one Socratic tutor skill based on Benjamin Bloom's "2 Sigma" research
   * Writes a syllabus, then teaches one lesson at a time, adapting each next lesson to your inline written feedback
   * The opposite of "dump the full answer" — guides you to derive it yourself
@@ -1777,18 +1777,18 @@ Resources for mastering Claude skills and understanding best practices.
 
 ### Comprehensive Guides
 
-* [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) ⭐ 74,901 | 🐛 49 | 🌐 Python | 📅 2026-08-18 ![Stars](https://img.shields.io/github/stars/shareAI-lab/learn-claude-code?style=flat-square)
+* [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) ⭐ 74,952 | 🐛 50 | 🌐 Python | 📅 2026-08-18 ![Stars](https://img.shields.io/github/stars/shareAI-lab/learn-claude-code?style=flat-square)
   * "Bash is all you need" philosophy
   * Build a Claude-like agent harness from scratch
   * 12 progressive learning sessions
 
-* [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) ⭐ 41,145 | 🐛 29 | 🌐 Python | 📅 2026-08-19 ![Stars](https://img.shields.io/github/stars/luongnv89/claude-howto?style=flat-square)
+* [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) ⭐ 41,154 | 🐛 29 | 🌐 Python | 📅 2026-08-19 ![Stars](https://img.shields.io/github/stars/luongnv89/claude-howto?style=flat-square)
   * Visual, example-driven guide to Claude Code
   * Progresses from basic concepts to advanced agent patterns
   * Ships copy-paste templates for immediate use
   * Hosted at luongnv.com/claude-howto; MIT licensed
 
-* [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) ⭐ 12,410 | 🐛 9 | 🌐 JavaScript | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/Piebald-AI/claude-code-system-prompts?style=flat-square)
+* [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) ⭐ 12,427 | 🐛 8 | 🌐 JavaScript | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/Piebald-AI/claude-code-system-prompts?style=flat-square)
   * Complete collection of Claude Code's system prompts
   * 18 builtin tool descriptions and sub-agent prompts
   * Updated within minutes of each Claude Code release
@@ -1802,7 +1802,7 @@ Resources for mastering Claude skills and understanding best practices.
   * Specialized agents for complex tasks
   * 6 months of iteration, 15-30 min to integrate
 
-* [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips) ⭐ 9,841 | 🐛 5 | 🌐 HTML | 📅 2026-08-17 ![Stars](https://img.shields.io/github/stars/ykdojo/claude-code-tips?style=flat-square)
+* [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips) ⭐ 9,848 | 🐛 4 | 🌐 HTML | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/ykdojo/claude-code-tips?style=flat-square)
   * 45 tips from basics to advanced techniques
   * Custom status line script and system prompt optimization
   * Voice input, container workflows, multi-model orchestration
@@ -1816,18 +1816,18 @@ Resources for mastering Claude skills and understanding best practices.
   * Best practices and anti-patterns guide
   * Complete directory structure reference
 
-* [FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) ⭐ 5,779 | 🐛 14 | 🌐 Python | 📅 2026-08-20 ![Stars](https://img.shields.io/github/stars/FlorianBruniaux/claude-code-ultimate-guide?style=flat-square)
+* [FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) ⭐ 5,784 | 🐛 15 | 🌐 Python | 📅 2026-08-20 ![Stars](https://img.shields.io/github/stars/FlorianBruniaux/claude-code-ultimate-guide?style=flat-square)
   * 22,000+ lines of documentation
   * Beginner to power user progression
   * 225 templates and 41 diagrams
   * 271 quiz questions for learning validation
 
-* [KimYx0207/AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) ⭐ 5,773 | 🐛 3 | 📅 2026-08-12 ![Stars](https://img.shields.io/github/stars/KimYx0207/AI-Coding-Guide-Zh?style=flat-square)
+* [KimYx0207/AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) ⭐ 5,778 | 🐛 3 | 📅 2026-08-12 ![Stars](https://img.shields.io/github/stars/KimYx0207/AI-Coding-Guide-Zh?style=flat-square)
   * Chinese tutorial covering Claude Code, OpenClaw, and Codex
   * 36 complete tutorials, three learning paths from beginner to enterprise
   * Markdown-only bundle
 
-* [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) ⭐ 4,584 | 🐛 2 | 🌐 Python | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/zebbern/claude-code-guide?style=flat-square)
+* [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) ⭐ 4,585 | 🐛 2 | 🌐 Python | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/zebbern/claude-code-guide?style=flat-square)
   * Complete guide from beginner to power user
   * Setup, commands, workflows, agents, and skills
   * Comprehensive MCP integration documentation
@@ -1839,7 +1839,7 @@ Resources for mastering Claude skills and understanding best practices.
   * In-depth architectural breakdown, structured as a book
   * Chinese-language
 
-* [jamesmurdza/awesome-ai-devtools](https://github.com/jamesmurdza/awesome-ai-devtools) ⭐ 3,918 | 🐛 257 | 📅 2026-07-11 ![Stars](https://img.shields.io/github/stars/jamesmurdza/awesome-ai-devtools?style=flat-square)
+* [jamesmurdza/awesome-ai-devtools](https://github.com/jamesmurdza/awesome-ai-devtools) ⭐ 3,920 | 🐛 259 | 📅 2026-07-11 ![Stars](https://img.shields.io/github/stars/jamesmurdza/awesome-ai-devtools?style=flat-square)
   * Curated list of AI-powered developer tools
   * Useful adjacent reading when shopping for Claude Code integrations
 
@@ -1850,14 +1850,14 @@ Resources for mastering Claude skills and understanding best practices.
   * Flow control, error codes, and security implementations
   * Custom status lines and output styles
 
-* [OneRedOak/claude-code-workflows](https://github.com/OneRedOak/claude-code-workflows) ⭐ 3,887 | 🐛 9 | 📅 2025-09-14 ![Stars](https://img.shields.io/github/stars/OneRedOak/claude-code-workflows?style=flat-square)
+* [OneRedOak/claude-code-workflows](https://github.com/OneRedOak/claude-code-workflows) ⭐ 3,888 | 🐛 9 | 📅 2025-09-14 ![Stars](https://img.shields.io/github/stars/OneRedOak/claude-code-workflows?style=flat-square)
   * Production workflows from AI-native startup
   * Code review, security review, and design review workflows
   * Battle-tested configurations since Claude Code launch
   * Video tutorials and demos available
   * Real-world applied learnings
 
-* [Windy3f3f3f3f/how-claude-code-works](https://github.com/Windy3f3f3f3f/how-claude-code-works) ⭐ 3,493 | 🐛 1 | 📅 2026-08-17 ![Stars](https://img.shields.io/github/stars/Windy3f3f3f3f/how-claude-code-works?style=flat-square)
+* [Windy3f3f3f3f/how-claude-code-works](https://github.com/Windy3f3f3f3f/how-claude-code-works) ⭐ 3,500 | 🐛 1 | 📅 2026-08-17 ![Stars](https://img.shields.io/github/stars/Windy3f3f3f3f/how-claude-code-works?style=flat-square)
   * Deep dive into Claude Code internals
   * Covers architecture, the agent loop, and context engineering
   * Bilingual English/Chinese write-up
@@ -1867,14 +1867,14 @@ Resources for mastering Claude skills and understanding best practices.
   * From prompt engineering to production-grade AI systems
   * Hundreds of papers and frameworks referenced
 
-* [Cranot/claude-code-guide](https://github.com/Cranot/claude-code-guide) ⭐ 2,863 | 🐛 0 | 🌐 Shell | 📅 2026-07-27 ![Stars](https://img.shields.io/github/stars/Cranot/claude-code-guide?style=flat-square)
+* [Cranot/claude-code-guide](https://github.com/Cranot/claude-code-guide) ⭐ 2,864 | 🐛 0 | 🌐 Shell | 📅 2026-07-27 ![Stars](https://img.shields.io/github/stars/Cranot/claude-code-guide?style=flat-square)
   * Complete CLI guide auto-updated every 2 days
   * Official docs, releases, and changelog integration
   * Skills, hooks, MCP, sub-agents, and plugins
   * Tool synergies and workflow examples
   * Optimized for both humans and AI agents
 
-* [KhazP/vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template) ⭐ 2,859 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/KhazP/vibe-coding-prompt-template?style=flat-square)
+* [KhazP/vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template) ⭐ 2,860 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/KhazP/vibe-coding-prompt-template?style=flat-square)
   * Templates and workflow for generating PRDs, tech designs, and MVPs
   * Designed for use with AI IDEs and Claude Code
   * Markdown-only bundle
@@ -1886,17 +1886,17 @@ Resources for mastering Claude skills and understanding best practices.
 
 ***
 
-* [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) ⭐ 37,747 | 🐛 63 | 🌐 Jupyter Notebook | 📅 2026-03-01 ![Stars](https://img.shields.io/github/stars/anthropics/prompt-eng-interactive-tutorial?style=flat-square)
+* [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) ⭐ 37,756 | 🐛 63 | 🌐 Jupyter Notebook | 📅 2026-03-01 ![Stars](https://img.shields.io/github/stars/anthropics/prompt-eng-interactive-tutorial?style=flat-square)
   * Anthropic's official interactive prompt-engineering course
   * Hands-on Jupyter notebooks from basics to advanced techniques
   * First-party learning resource
 
-* [anthropics/courses](https://github.com/anthropics/courses) ⭐ 22,677 | 🐛 88 | 🌐 Jupyter Notebook | 📅 2025-11-13 ![Stars](https://img.shields.io/github/stars/anthropics/courses?style=flat-square)
+* [anthropics/courses](https://github.com/anthropics/courses) ⭐ 22,689 | 🐛 88 | 🌐 Jupyter Notebook | 📅 2025-11-13 ![Stars](https://img.shields.io/github/stars/anthropics/courses?style=flat-square)
   * Anthropic's official educational course collection
   * Covers the API, prompt engineering, evaluations, and tool use
   * First-party, broadly cited learning material
 
-* [ericbuess/claude-code-docs](https://github.com/ericbuess/claude-code-docs) ⭐ 974 | 🐛 80 | 🌐 Shell | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/ericbuess/claude-code-docs?style=flat-square)
+* [ericbuess/claude-code-docs](https://github.com/ericbuess/claude-code-docs) ⭐ 974 | 🐛 80 | 🌐 Shell | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/ericbuess/claude-code-docs?style=flat-square)
   * Local, auto-updating mirror of the official Claude Code documentation
   * Exposed through a `/docs` command for fast, offline lookup
   * Shell-based; actively maintained
@@ -1905,40 +1905,40 @@ Resources for mastering Claude skills and understanding best practices.
 
 Tools and frameworks for creating your own Claude skills.
 
-* [agentskills/agentskills](https://github.com/agentskills/agentskills) ⭐ 24,563 | 🐛 59 | 🌐 Python | 📅 2026-08-09 ![Stars](https://img.shields.io/github/stars/agentskills/agentskills?style=flat-square)
+* [agentskills/agentskills](https://github.com/agentskills/agentskills) ⭐ 24,596 | 🐛 61 | 🌐 Python | 📅 2026-08-09 ![Stars](https://img.shields.io/github/stars/agentskills/agentskills?style=flat-square)
   * Open specification, documentation, and reference SDK for Agent Skills
   * Defines the `SKILL.md` format used across Claude Code and compatible agents
   * Maintained by Anthropic with community contributions
   * Apache 2.0 licensed (code) and CC-BY-4.0 (docs); companion site at agentskills.io
 
-* [yusufkaraaslan/Skill\_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) ⭐ 14,791 | 🐛 54 | 🌐 Python | 📅 2026-08-09 ![Stars](https://img.shields.io/github/stars/yusufkaraaslan/Skill_Seekers?style=flat-square)
+* [yusufkaraaslan/Skill\_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) ⭐ 14,801 | 🐛 54 | 🌐 Python | 📅 2026-08-09 ![Stars](https://img.shields.io/github/stars/yusufkaraaslan/Skill_Seekers?style=flat-square)
   * Converts documentation sites, GitHub repositories, and PDFs into Claude AI skills
   * Automatic conflict detection between overlapping skill definitions
   * AST parsing, OCR for PDFs, and web scraping pipelines
   * MIT licensed; hosted version at skillseekersweb.com
 
-* [numman-ali/openskills](https://github.com/numman-ali/openskills) ⭐ 10,700 | 🐛 43 | 🌐 TypeScript | 📅 2026-01-18 ![Stars](https://img.shields.io/github/stars/numman-ali/openskills?style=flat-square)
+* [numman-ali/openskills](https://github.com/numman-ali/openskills) ⭐ 10,701 | 🐛 43 | 🌐 TypeScript | 📅 2026-01-18 ![Stars](https://img.shields.io/github/stars/numman-ali/openskills?style=flat-square)
   * Universal `SKILL.md` loader installable via `npm i -g openskills`
   * Brings Anthropic's skills system to Claude Code, Cursor, Windsurf, Aider, Codex, and any tool that reads `AGENTS.md`
   * Project-local installs default to `./.claude/skills`; `--global` writes to `~/.claude/skills`
   * Supports private git repos and local paths
 
-* [refly-ai/refly](https://github.com/refly-ai/refly) ⭐ 7,489 | 🐛 97 | 🌐 TypeScript | 📅 2026-07-29 ![Stars](https://img.shields.io/github/stars/refly-ai/refly?style=flat-square)
+* [refly-ai/refly](https://github.com/refly-ai/refly) ⭐ 7,491 | 🐛 97 | 🌐 TypeScript | 📅 2026-07-29 ![Stars](https://img.shields.io/github/stars/refly-ai/refly?style=flat-square)
   * Open-source agent-skills builder
   * Define skills by workflow and run on Claude Code, Cursor, Codex, and others
   * TypeScript-driven
 
-* [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) ⭐ 5,058 | 🐛 15 | 🌐 TypeScript | 📅 2026-08-06 ![Stars](https://img.shields.io/github/stars/tech-leads-club/agent-skills?style=flat-square)
+* [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) ⭐ 5,062 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-06 ![Stars](https://img.shields.io/github/stars/tech-leads-club/agent-skills?style=flat-square)
   * Secure, validated skill registry for professional AI coding agents
   * Extends Antigravity, Claude Code, Cursor, and Copilot
   * TypeScript-driven
 
-* [gotalab/cc-sdd](https://github.com/gotalab/cc-sdd) ⭐ 3,628 | 🐛 25 | 🌐 TypeScript | 📅 2026-05-20 ![Stars](https://img.shields.io/github/stars/gotalab/cc-sdd?style=flat-square)
+* [gotalab/cc-sdd](https://github.com/gotalab/cc-sdd) ⭐ 3,632 | 🐛 25 | 🌐 TypeScript | 📅 2026-05-20 ![Stars](https://img.shields.io/github/stars/gotalab/cc-sdd?style=flat-square)
   * Spec-driven development harness for Claude Code
   * Turns approved specs into long-running autonomous implementation
   * TypeScript-driven, minimal and adaptable
 
-* [microsoft/apm](https://github.com/microsoft/apm) ⭐ 3,602 | 🐛 263 | 🌐 Python | 📅 2026-08-21 ![Stars](https://img.shields.io/github/stars/microsoft/apm?style=flat-square)
+* [microsoft/apm](https://github.com/microsoft/apm) ⭐ 3,610 | 🐛 265 | 🌐 Python | 📅 2026-08-22 ![Stars](https://img.shields.io/github/stars/microsoft/apm?style=flat-square)
   * Microsoft's Agent Package Manager
   * Distributes agent skills, MCP servers, and custom agents
   * Python-driven
@@ -1972,4 +1972,4 @@ This curated list is maintained by the community for the community.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
