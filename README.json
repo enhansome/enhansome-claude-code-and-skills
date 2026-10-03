@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "anthropics/skills",
-          "description": null,
+          "description": "anthropics/skills",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -19,7 +19,7 @@
             "open_issues": 1394,
             "owner": "anthropics",
             "repo": "skills",
-            "stars": 179418,
+            "stars": 179431,
             "topics": [
               "agent-skills"
             ]
@@ -29,7 +29,7 @@
         {
           "node_type": "item",
           "title": "anthropics/claude-code",
-          "description": null,
+          "description": "anthropics/claude-code",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -38,11 +38,11 @@
             "id": 937253475,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-02T20:19:56Z",
-            "open_issues": 14059,
+            "last_commit": "2026-10-03T04:16:58Z",
+            "open_issues": 14086,
             "owner": "anthropics",
             "repo": "claude-code",
-            "stars": 148980,
+            "stars": 148997,
             "topics": []
           },
           "first_seen": "2026-08-28T06:12:52.412Z"
@@ -50,7 +50,7 @@
         {
           "node_type": "item",
           "title": "anthropics/claude-plugins-official",
-          "description": null,
+          "description": "anthropics/claude-plugins-official",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -63,7 +63,7 @@
             "open_issues": 1050,
             "owner": "anthropics",
             "repo": "claude-plugins-official",
-            "stars": 37321,
+            "stars": 37325,
             "topics": [
               "claude-code",
               "mcp",
@@ -75,7 +75,7 @@
         {
           "node_type": "item",
           "title": "anthropics/claude-for-legal",
-          "description": null,
+          "description": "anthropics/claude-for-legal",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -88,7 +88,7 @@
             "open_issues": 79,
             "owner": "anthropics",
             "repo": "claude-for-legal",
-            "stars": 9568,
+            "stars": 9569,
             "topics": []
           },
           "first_seen": "2026-08-28T06:12:52.412Z"
@@ -96,7 +96,7 @@
         {
           "node_type": "item",
           "title": "anthropics/claude-code-action",
-          "description": null,
+          "description": "anthropics/claude-code-action",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -109,7 +109,7 @@
             "open_issues": 813,
             "owner": "anthropics",
             "repo": "claude-code-action",
-            "stars": 9377,
+            "stars": 9383,
             "topics": []
           },
           "first_seen": "2026-08-28T06:12:52.412Z"
@@ -117,7 +117,7 @@
         {
           "node_type": "item",
           "title": "anthropics/claude-code-security-review",
-          "description": null,
+          "description": "anthropics/claude-code-security-review",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -138,7 +138,7 @@
         {
           "node_type": "item",
           "title": "anthropics/claude-code-base-action",
-          "description": null,
+          "description": "anthropics/claude-code-base-action",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -165,7 +165,7 @@
         {
           "node_type": "item",
           "title": "garrytan/gstack",
-          "description": null,
+          "description": "garrytan/gstack",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -174,11 +174,11 @@
             "id": 1179264259,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T01:08:44Z",
-            "open_issues": 827,
+            "last_commit": "2026-10-03T04:36:40Z",
+            "open_issues": 830,
             "owner": "garrytan",
             "repo": "gstack",
-            "stars": 134801,
+            "stars": 134817,
             "topics": []
           },
           "first_seen": "2026-08-28T06:12:52.412Z"
@@ -186,7 +186,7 @@
         {
           "node_type": "item",
           "title": "ComposioHQ/awesome-claude-skills",
-          "description": null,
+          "description": "ComposioHQ/awesome-claude-skills",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -196,10 +196,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-09-18T07:16:11Z",
-            "open_issues": 1610,
+            "open_issues": 1611,
             "owner": "ComposioHQ",
             "repo": "awesome-claude-skills",
-            "stars": 76371,
+            "stars": 76380,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -225,7 +225,7 @@
         {
           "node_type": "item",
           "title": "hesreallyhim/awesome-claude-code",
-          "description": null,
+          "description": "hesreallyhim/awesome-claude-code",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -234,11 +234,11 @@
             "id": 969302809,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T00:26:58Z",
+            "last_commit": "2026-10-03T03:20:52Z",
             "open_issues": 1192,
             "owner": "hesreallyhim",
             "repo": "awesome-claude-code",
-            "stars": 54965,
+            "stars": 54976,
             "topics": [
               "agent-skills",
               "agentic-code",
@@ -266,7 +266,7 @@
         {
           "node_type": "item",
           "title": "VoltAgent/awesome-openclaw-skills",
-          "description": null,
+          "description": "VoltAgent/awesome-openclaw-skills",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -279,7 +279,7 @@
             "open_issues": 3,
             "owner": "VoltAgent",
             "repo": "awesome-openclaw-skills",
-            "stars": 52914,
+            "stars": 52916,
             "topics": [
               "agent-skills",
               "awesome",
@@ -300,7 +300,7 @@
         {
           "node_type": "item",
           "title": "sickn33/agentic-awesome-skills",
-          "description": null,
+          "description": "sickn33/agentic-awesome-skills",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -313,7 +313,7 @@
             "open_issues": 3,
             "owner": "sickn33",
             "repo": "agentic-awesome-skills",
-            "stars": 47194,
+            "stars": 47201,
             "topics": [
               "agent-skills",
               "agentic-skills",
@@ -342,7 +342,7 @@
         {
           "node_type": "item",
           "title": "wshobson/agents",
-          "description": null,
+          "description": "wshobson/agents",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -355,7 +355,7 @@
             "open_issues": 4,
             "owner": "wshobson",
             "repo": "agents",
-            "stars": 40164,
+            "stars": 40168,
             "topics": [
               "agent-skills",
               "agentic-ai",
@@ -384,7 +384,7 @@
         {
           "node_type": "item",
           "title": "VoltAgent/awesome-agent-skills",
-          "description": null,
+          "description": "VoltAgent/awesome-agent-skills",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -397,7 +397,7 @@
             "open_issues": 43,
             "owner": "VoltAgent",
             "repo": "awesome-agent-skills",
-            "stars": 35126,
+            "stars": 35130,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -418,7 +418,7 @@
         {
           "node_type": "item",
           "title": "alirezarezvani/claude-skills",
-          "description": null,
+          "description": "alirezarezvani/claude-skills",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -431,7 +431,7 @@
             "open_issues": 27,
             "owner": "alirezarezvani",
             "repo": "claude-skills",
-            "stars": 27317,
+            "stars": 27346,
             "topics": [
               "agent-plugins",
               "agent-skills",
@@ -460,7 +460,7 @@
         {
           "node_type": "item",
           "title": "SuperClaude-Org/SuperClaude_Framework",
-          "description": null,
+          "description": "SuperClaude-Org/SuperClaude_Framework",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -481,7 +481,7 @@
         {
           "node_type": "item",
           "title": "muratcankoylan/Agent-Skills-for-Context-Engineering",
-          "description": null,
+          "description": "muratcankoylan/Agent-Skills-for-Context-Engineering",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -502,7 +502,7 @@
         {
           "node_type": "item",
           "title": "travisvn/awesome-claude-skills",
-          "description": null,
+          "description": "travisvn/awesome-claude-skills",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -515,7 +515,7 @@
             "open_issues": 853,
             "owner": "travisvn",
             "repo": "awesome-claude-skills",
-            "stars": 15251,
+            "stars": 15253,
             "topics": [
               "agentic-coding",
               "anthropic",
@@ -535,7 +535,7 @@
         {
           "node_type": "item",
           "title": "ConardLi/garden-skills",
-          "description": null,
+          "description": "ConardLi/garden-skills",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -563,7 +563,7 @@
         {
           "node_type": "item",
           "title": "huggingface/skills",
-          "description": null,
+          "description": "huggingface/skills",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -576,7 +576,7 @@
             "open_issues": 61,
             "owner": "huggingface",
             "repo": "skills",
-            "stars": 11126,
+            "stars": 11128,
             "topics": []
           },
           "first_seen": "2026-08-28T06:12:52.412Z"
@@ -584,7 +584,7 @@
         {
           "node_type": "item",
           "title": "jnMetaCode/superpowers-zh",
-          "description": null,
+          "description": "jnMetaCode/superpowers-zh",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -622,7 +622,7 @@
         {
           "node_type": "item",
           "title": "heilcheng/awesome-agent-skills",
-          "description": null,
+          "description": "heilcheng/awesome-agent-skills",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -635,7 +635,7 @@
             "open_issues": 363,
             "owner": "heilcheng",
             "repo": "awesome-agent-skills",
-            "stars": 6254,
+            "stars": 6256,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -660,7 +660,7 @@
         {
           "node_type": "item",
           "title": "antfu/skills",
-          "description": null,
+          "description": "antfu/skills",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -673,7 +673,7 @@
             "open_issues": 12,
             "owner": "antfu",
             "repo": "skills",
-            "stars": 5932,
+            "stars": 5933,
             "topics": [
               "agent-skills",
               "skills"
@@ -684,7 +684,7 @@
         {
           "node_type": "item",
           "title": "langgptai/awesome-claude-prompts",
-          "description": null,
+          "description": "langgptai/awesome-claude-prompts",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -697,7 +697,7 @@
             "open_issues": 2,
             "owner": "langgptai",
             "repo": "awesome-claude-prompts",
-            "stars": 5515,
+            "stars": 5516,
             "topics": [
               "anthropic",
               "anthropic-claude",
@@ -722,7 +722,7 @@
         {
           "node_type": "item",
           "title": "libukai/awesome-agent-skills",
-          "description": null,
+          "description": "libukai/awesome-agent-skills",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -749,7 +749,7 @@
         {
           "node_type": "item",
           "title": "clawdbot-ai/awesome-openclaw-skills-zh",
-          "description": null,
+          "description": "clawdbot-ai/awesome-openclaw-skills-zh",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -770,7 +770,7 @@
         {
           "node_type": "item",
           "title": "mergisi/awesome-openclaw-agents",
-          "description": null,
+          "description": "mergisi/awesome-openclaw-agents",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -783,7 +783,7 @@
             "open_issues": 87,
             "owner": "mergisi",
             "repo": "awesome-openclaw-agents",
-            "stars": 3992,
+            "stars": 3993,
             "topics": [
               "ai-agent-templates",
               "ai-agents",
@@ -812,7 +812,7 @@
         {
           "node_type": "item",
           "title": "davepoon/buildwithclaude",
-          "description": null,
+          "description": "davepoon/buildwithclaude",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -825,7 +825,7 @@
             "open_issues": 22,
             "owner": "davepoon",
             "repo": "buildwithclaude",
-            "stars": 3578,
+            "stars": 3579,
             "topics": [
               "claude",
               "claude-code",
@@ -846,7 +846,7 @@
         {
           "node_type": "item",
           "title": "microsoft/skills",
-          "description": null,
+          "description": "microsoft/skills",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -875,7 +875,7 @@
         {
           "node_type": "item",
           "title": "rohitg00/awesome-claude-code-toolkit",
-          "description": null,
+          "description": "rohitg00/awesome-claude-code-toolkit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -885,7 +885,7 @@
             "language": "JavaScript",
             "license": "Apache-2.0",
             "last_commit": "2026-05-12T07:18:34Z",
-            "open_issues": 345,
+            "open_issues": 346,
             "owner": "rohitg00",
             "repo": "awesome-claude-code-toolkit",
             "stars": 2669,
@@ -903,7 +903,7 @@
         {
           "node_type": "item",
           "title": "JasonColapietro/suede-creator-skills",
-          "description": null,
+          "description": "JasonColapietro/suede-creator-skills",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -912,8 +912,8 @@
             "id": 1247987146,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T23:35:31Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-03T04:42:59Z",
+            "open_issues": 4,
             "owner": "JasonColapietro",
             "repo": "suede-creator-skills",
             "stars": 126,
@@ -945,7 +945,7 @@
         {
           "node_type": "item",
           "title": "swarmclawai/andrej-karpathy-skills",
-          "description": null,
+          "description": "swarmclawai/andrej-karpathy-skills",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -987,7 +987,7 @@
         {
           "node_type": "item",
           "title": "abubakarsiddik31/claude-skills-collection",
-          "description": null,
+          "description": "abubakarsiddik31/claude-skills-collection",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1008,7 +1008,7 @@
         {
           "node_type": "item",
           "title": "getsentry/skills",
-          "description": null,
+          "description": "getsentry/skills",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1031,7 +1031,7 @@
         {
           "node_type": "item",
           "title": "borghei/Claude-Skills",
-          "description": null,
+          "description": "borghei/Claude-Skills",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1044,7 +1044,7 @@
             "open_issues": 0,
             "owner": "borghei",
             "repo": "Claude-Skills",
-            "stars": 854,
+            "stars": 857,
             "topics": [
               "agentic-coding",
               "agile",
@@ -1073,7 +1073,7 @@
         {
           "node_type": "item",
           "title": "levnikolaevich/claude-code-skills",
-          "description": null,
+          "description": "levnikolaevich/claude-code-skills",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1115,7 +1115,7 @@
         {
           "node_type": "item",
           "title": "karanb192/awesome-claude-skills",
-          "description": null,
+          "description": "karanb192/awesome-claude-skills",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1125,10 +1125,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-10-02T18:19:52Z",
-            "open_issues": 78,
+            "open_issues": 80,
             "owner": "karanb192",
             "repo": "awesome-claude-skills",
-            "stars": 532,
+            "stars": 533,
             "topics": [
               "agent-skills",
               "ai",
@@ -1156,7 +1156,7 @@
         {
           "node_type": "item",
           "title": "glebis/claude-skills",
-          "description": null,
+          "description": "glebis/claude-skills",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1177,7 +1177,7 @@
         {
           "node_type": "item",
           "title": "mailtrap/mailtrap-skills",
-          "description": null,
+          "description": "mailtrap/mailtrap-skills",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1198,7 +1198,7 @@
         {
           "node_type": "item",
           "title": "connerkward/ckw-skills",
-          "description": null,
+          "description": "connerkward/ckw-skills",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1240,7 +1240,7 @@
             {
               "node_type": "item",
               "title": "obra/superpowers",
-              "description": null,
+              "description": "obra/superpowers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1253,7 +1253,7 @@
                 "open_issues": 297,
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 294471,
+                "stars": 294528,
                 "topics": [
                   "ai",
                   "brainstorming",
@@ -1270,7 +1270,7 @@
             {
               "node_type": "item",
               "title": "mattpocock/skills",
-              "description": null,
+              "description": "mattpocock/skills",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1283,7 +1283,7 @@
                 "open_issues": 544,
                 "owner": "mattpocock",
                 "repo": "skills",
-                "stars": 274716,
+                "stars": 274808,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:12:52.412Z"
@@ -1291,7 +1291,7 @@
             {
               "node_type": "item",
               "title": "affaan-m/ECC",
-              "description": null,
+              "description": "affaan-m/ECC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1304,7 +1304,7 @@
                 "open_issues": 339,
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 271362,
+                "stars": 271457,
                 "topics": [
                   "ai-agents",
                   "anthropic",
@@ -1321,7 +1321,7 @@
             {
               "node_type": "item",
               "title": "github/spec-kit",
-              "description": null,
+              "description": "github/spec-kit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1334,7 +1334,7 @@
                 "open_issues": 268,
                 "owner": "github",
                 "repo": "spec-kit",
-                "stars": 139858,
+                "stars": 139875,
                 "topics": [
                   "ai",
                   "copilot",
@@ -1350,7 +1350,7 @@
             {
               "node_type": "item",
               "title": "addyosmani/agent-skills",
-              "description": null,
+              "description": "addyosmani/agent-skills",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1363,7 +1363,7 @@
                 "open_issues": 120,
                 "owner": "addyosmani",
                 "repo": "agent-skills",
-                "stars": 100541,
+                "stars": 100581,
                 "topics": [
                   "agent-skills",
                   "antigravity",
@@ -1378,7 +1378,7 @@
             {
               "node_type": "item",
               "title": "yamadashy/repomix",
-              "description": null,
+              "description": "yamadashy/repomix",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1391,7 +1391,7 @@
                 "open_issues": 155,
                 "owner": "yamadashy",
                 "repo": "repomix",
-                "stars": 28655,
+                "stars": 28656,
                 "topics": [
                   "ai",
                   "anthropic",
@@ -1420,7 +1420,7 @@
             {
               "node_type": "item",
               "title": "eyaltoledano/claude-task-master",
-              "description": null,
+              "description": "eyaltoledano/claude-task-master",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1454,7 +1454,7 @@
             {
               "node_type": "item",
               "title": "OthmanAdi/planning-with-files",
-              "description": null,
+              "description": "OthmanAdi/planning-with-files",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1496,7 +1496,7 @@
             {
               "node_type": "item",
               "title": "EveryInc/compound-engineering-plugin",
-              "description": null,
+              "description": "EveryInc/compound-engineering-plugin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1509,7 +1509,7 @@
                 "open_issues": 115,
                 "owner": "EveryInc",
                 "repo": "compound-engineering-plugin",
-                "stars": 25372,
+                "stars": 25375,
                 "topics": [
                   "compound",
                   "engineering"
@@ -1520,7 +1520,7 @@
             {
               "node_type": "item",
               "title": "SawyerHood/dev-browser",
-              "description": null,
+              "description": "SawyerHood/dev-browser",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1545,7 +1545,7 @@
             {
               "node_type": "item",
               "title": "Pimzino/claude-code-spec-workflow",
-              "description": null,
+              "description": "Pimzino/claude-code-spec-workflow",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1566,7 +1566,7 @@
             {
               "node_type": "item",
               "title": "awesome-skills/code-review-skill",
-              "description": null,
+              "description": "awesome-skills/code-review-skill",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1579,7 +1579,7 @@
                 "open_issues": 1,
                 "owner": "awesome-skills",
                 "repo": "code-review-skill",
-                "stars": 2039,
+                "stars": 2040,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:12:52.412Z"
@@ -1587,7 +1587,7 @@
             {
               "node_type": "item",
               "title": "carlrannaberg/claudekit",
-              "description": null,
+              "description": "carlrannaberg/claudekit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1608,7 +1608,7 @@
             {
               "node_type": "item",
               "title": "musoyangrigor/gitx-skill",
-              "description": null,
+              "description": "musoyangrigor/gitx-skill",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1638,7 +1638,7 @@
             {
               "node_type": "item",
               "title": "bo-cao/breaking-coding-chaos",
-              "description": null,
+              "description": "bo-cao/breaking-coding-chaos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1668,7 +1668,7 @@
             {
               "node_type": "item",
               "title": "arun-mosai/claude-code-slice-skills",
-              "description": null,
+              "description": "arun-mosai/claude-code-slice-skills",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1700,7 +1700,7 @@
             {
               "node_type": "item",
               "title": "YoungApple/growth-retrospective-skill",
-              "description": null,
+              "description": "YoungApple/growth-retrospective-skill",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1733,7 +1733,7 @@
             {
               "node_type": "item",
               "title": "gyujeongion/claude-code-rootcause",
-              "description": null,
+              "description": "gyujeongion/claude-code-rootcause",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1754,7 +1754,7 @@
             {
               "node_type": "item",
               "title": "gyujeongion/claude-code-sandbox-gate",
-              "description": null,
+              "description": "gyujeongion/claude-code-sandbox-gate",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1775,7 +1775,7 @@
             {
               "node_type": "item",
               "title": "gyujeongion/claude-code-request-modes",
-              "description": null,
+              "description": "gyujeongion/claude-code-request-modes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1796,7 +1796,7 @@
             {
               "node_type": "item",
               "title": "gyujeongion/claude-code-cold-tester",
-              "description": null,
+              "description": "gyujeongion/claude-code-cold-tester",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1817,7 +1817,7 @@
             {
               "node_type": "item",
               "title": "gyujeongion/claude-code-mix-compare",
-              "description": null,
+              "description": "gyujeongion/claude-code-mix-compare",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1838,7 +1838,7 @@
             {
               "node_type": "item",
               "title": "ggrigo/align",
-              "description": null,
+              "description": "ggrigo/align",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1859,7 +1859,7 @@
             {
               "node_type": "item",
               "title": "innovestrum/keelson",
-              "description": null,
+              "description": "innovestrum/keelson",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1889,7 +1889,7 @@
             {
               "node_type": "item",
               "title": "laki-arnsteinlarsen/strategistkit-skills",
-              "description": null,
+              "description": "laki-arnsteinlarsen/strategistkit-skills",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1917,7 +1917,7 @@
             {
               "node_type": "item",
               "title": "zenlee123/routerbase-agent-skills",
-              "description": null,
+              "description": "zenlee123/routerbase-agent-skills",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1958,11 +1958,11 @@
                 "id": 1137846174,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T02:06:56Z",
+                "last_commit": "2026-10-03T03:26:57Z",
                 "open_issues": 118,
                 "owner": "xai-org",
                 "repo": "x-algorithm",
-                "stars": 33482,
+                "stars": 33483,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:12:52.412Z"
@@ -1977,7 +1977,7 @@
             {
               "node_type": "item",
               "title": "VoltAgent/awesome-claude-code-subagents",
-              "description": null,
+              "description": "VoltAgent/awesome-claude-code-subagents",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1990,7 +1990,7 @@
                 "open_issues": 3,
                 "owner": "VoltAgent",
                 "repo": "awesome-claude-code-subagents",
-                "stars": 25463,
+                "stars": 25467,
                 "topics": [
                   "ai-agent-framework",
                   "ai-agent-tools",
@@ -2009,7 +2009,7 @@
             {
               "node_type": "item",
               "title": "Orchestra-Research/AI-Research-SKILLs",
-              "description": null,
+              "description": "Orchestra-Research/AI-Research-SKILLs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2022,7 +2022,7 @@
                 "open_issues": 22,
                 "owner": "Orchestra-Research",
                 "repo": "AI-Research-SKILLs",
-                "stars": 13198,
+                "stars": 13204,
                 "topics": [
                   "ai",
                   "ai-research",
@@ -2045,7 +2045,7 @@
             {
               "node_type": "item",
               "title": "Jeffallan/claude-skills",
-              "description": null,
+              "description": "Jeffallan/claude-skills",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2058,7 +2058,7 @@
                 "open_issues": 36,
                 "owner": "Jeffallan",
                 "repo": "claude-skills",
-                "stars": 11707,
+                "stars": 11711,
                 "topics": [
                   "ai-agents",
                   "claude",
@@ -2072,7 +2072,7 @@
             {
               "node_type": "item",
               "title": "revfactory/harness",
-              "description": null,
+              "description": "revfactory/harness",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2085,7 +2085,7 @@
                 "open_issues": 2,
                 "owner": "revfactory",
                 "repo": "harness",
-                "stars": 9109,
+                "stars": 9110,
                 "topics": [
                   "claude-code",
                   "claude-code-plugin",
@@ -2098,7 +2098,7 @@
             {
               "node_type": "item",
               "title": "vijaythecoder/awesome-claude-agents",
-              "description": null,
+              "description": "vijaythecoder/awesome-claude-agents",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2119,7 +2119,7 @@
             {
               "node_type": "item",
               "title": "wshobson/commands",
-              "description": null,
+              "description": "wshobson/commands",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2156,7 +2156,7 @@
             {
               "node_type": "item",
               "title": "composio-community/awesome-claude-plugins",
-              "description": null,
+              "description": "composio-community/awesome-claude-plugins",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2190,7 +2190,7 @@
             {
               "node_type": "item",
               "title": "lst97/claude-code-sub-agents",
-              "description": null,
+              "description": "lst97/claude-code-sub-agents",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2218,7 +2218,7 @@
             {
               "node_type": "item",
               "title": "hesreallyhim/a-list-of-claude-code-agents",
-              "description": null,
+              "description": "hesreallyhim/a-list-of-claude-code-agents",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2239,7 +2239,7 @@
             {
               "node_type": "item",
               "title": "qdhenry/Claude-Command-Suite",
-              "description": null,
+              "description": "qdhenry/Claude-Command-Suite",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2272,7 +2272,7 @@
             {
               "node_type": "item",
               "title": "0xfurai/claude-code-subagents",
-              "description": null,
+              "description": "0xfurai/claude-code-subagents",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2300,7 +2300,7 @@
             {
               "node_type": "item",
               "title": "nextlevelbuilder/ui-ux-pro-max-skill",
-              "description": null,
+              "description": "nextlevelbuilder/ui-ux-pro-max-skill",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2310,10 +2310,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-27T11:30:41Z",
-                "open_issues": 82,
+                "open_issues": 81,
                 "owner": "nextlevelbuilder",
                 "repo": "ui-ux-pro-max-skill",
-                "stars": 132570,
+                "stars": 132601,
                 "topics": [
                   "ai-skills",
                   "antigravity",
@@ -2341,7 +2341,7 @@
             {
               "node_type": "item",
               "title": "htdt/godogen",
-              "description": null,
+              "description": "htdt/godogen",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2354,7 +2354,7 @@
                 "open_issues": 0,
                 "owner": "htdt",
                 "repo": "godogen",
-                "stars": 7034,
+                "stars": 7035,
                 "topics": [
                   "claude",
                   "claude-code",
@@ -2373,7 +2373,7 @@
             {
               "node_type": "item",
               "title": "IvanMurzak/Unity-MCP",
-              "description": null,
+              "description": "IvanMurzak/Unity-MCP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2386,7 +2386,7 @@
                 "open_issues": 54,
                 "owner": "IvanMurzak",
                 "repo": "Unity-MCP",
-                "stars": 4374,
+                "stars": 4376,
                 "topics": [
                   "ai",
                   "ai-integration",
@@ -2414,7 +2414,7 @@
             {
               "node_type": "item",
               "title": "coder/claudecode.nvim",
-              "description": null,
+              "description": "coder/claudecode.nvim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2439,7 +2439,7 @@
             {
               "node_type": "item",
               "title": "conorluddy/ios-simulator-skill",
-              "description": null,
+              "description": "conorluddy/ios-simulator-skill",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2488,7 +2488,7 @@
             {
               "node_type": "item",
               "title": "alibaba/open-code-review",
-              "description": null,
+              "description": "alibaba/open-code-review",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2501,7 +2501,7 @@
                 "open_issues": 260,
                 "owner": "alibaba",
                 "repo": "open-code-review",
-                "stars": 43354,
+                "stars": 43385,
                 "topics": [
                   "agent",
                   "agent-skills",
@@ -2516,7 +2516,7 @@
             {
               "node_type": "item",
               "title": "The-PR-Agent/pr-agent",
-              "description": null,
+              "description": "The-PR-Agent/pr-agent",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2526,10 +2526,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-02T21:36:19Z",
-                "open_issues": 40,
+                "open_issues": 42,
                 "owner": "The-PR-Agent",
                 "repo": "pr-agent",
-                "stars": 13242,
+                "stars": 13246,
                 "topics": [
                   "ai",
                   "anthropic",
@@ -2547,7 +2547,7 @@
             {
               "node_type": "item",
               "title": "modem-dev/hunk",
-              "description": null,
+              "description": "modem-dev/hunk",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2579,7 +2579,7 @@
             {
               "node_type": "item",
               "title": "coderabbitai/skills",
-              "description": null,
+              "description": "coderabbitai/skills",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2613,7 +2613,7 @@
             {
               "node_type": "item",
               "title": "Nutlope/hallmark",
-              "description": null,
+              "description": "Nutlope/hallmark",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2626,7 +2626,7 @@
                 "open_issues": 48,
                 "owner": "Nutlope",
                 "repo": "hallmark",
-                "stars": 29432,
+                "stars": 29435,
                 "topics": []
               },
               "first_seen": "2026-09-27T00:44:53.016Z"
@@ -2634,7 +2634,7 @@
             {
               "node_type": "item",
               "title": "miqdadbadjuber/anti-slop",
-              "description": null,
+              "description": "miqdadbadjuber/anti-slop",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2647,7 +2647,7 @@
                 "open_issues": 0,
                 "owner": "miqdadbadjuber",
                 "repo": "anti-slop",
-                "stars": 4323,
+                "stars": 4329,
                 "topics": [
                   "accessibility",
                   "agent-skills",
@@ -2666,7 +2666,7 @@
             {
               "node_type": "item",
               "title": "jakubkrehel/make-interfaces-feel-better",
-              "description": null,
+              "description": "jakubkrehel/make-interfaces-feel-better",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2679,7 +2679,7 @@
                 "open_issues": 0,
                 "owner": "jakubkrehel",
                 "repo": "make-interfaces-feel-better",
-                "stars": 3562,
+                "stars": 3563,
                 "topics": []
               },
               "first_seen": "2026-09-27T00:44:53.016Z"
@@ -2687,7 +2687,7 @@
             {
               "node_type": "item",
               "title": "superdesigndev/superdesign-skill",
-              "description": null,
+              "description": "superdesigndev/superdesign-skill",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2722,7 +2722,7 @@
             {
               "node_type": "item",
               "title": "funboy322/avoid-ai-design",
-              "description": null,
+              "description": "funboy322/avoid-ai-design",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2771,7 +2771,7 @@
             {
               "node_type": "item",
               "title": "millionco/react-doctor",
-              "description": null,
+              "description": "millionco/react-doctor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2798,7 +2798,7 @@
             {
               "node_type": "item",
               "title": "webpro-nl/knip",
-              "description": null,
+              "description": "webpro-nl/knip",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2830,7 +2830,7 @@
             {
               "node_type": "item",
               "title": "kucherenko/jscpd",
-              "description": null,
+              "description": "kucherenko/jscpd",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2872,7 +2872,7 @@
             {
               "node_type": "item",
               "title": "fallow-rs/fallow",
-              "description": null,
+              "description": "fallow-rs/fallow",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2912,7 +2912,7 @@
             {
               "node_type": "item",
               "title": "peteromallet/desloppify",
-              "description": null,
+              "description": "peteromallet/desloppify",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2922,10 +2922,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-05-13T20:17:05Z",
-                "open_issues": 176,
+                "open_issues": 177,
                 "owner": "peteromallet",
                 "repo": "desloppify",
-                "stars": 3159,
+                "stars": 3160,
                 "topics": [
                   "agent-harness"
                 ]
@@ -2948,7 +2948,7 @@
             {
               "node_type": "item",
               "title": "bmad-code-org/BMAD-METHOD",
-              "description": null,
+              "description": "bmad-code-org/BMAD-METHOD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2957,11 +2957,11 @@
                 "id": 965615190,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T11:25:54Z",
-                "open_issues": 51,
+                "last_commit": "2026-10-03T03:59:07Z",
+                "open_issues": 52,
                 "owner": "bmad-code-org",
                 "repo": "BMAD-METHOD",
-                "stars": 53742,
+                "stars": 53744,
                 "topics": [
                   "agile",
                   "ai",
@@ -2975,7 +2975,7 @@
             {
               "node_type": "item",
               "title": "BloopAI/vibe-kanban",
-              "description": null,
+              "description": "BloopAI/vibe-kanban",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2988,7 +2988,7 @@
                 "open_issues": 544,
                 "owner": "BloopAI",
                 "repo": "vibe-kanban",
-                "stars": 28248,
+                "stars": 28249,
                 "topics": [
                   "agent",
                   "ai-agents",
@@ -3002,7 +3002,7 @@
             {
               "node_type": "item",
               "title": "gastownhall/gastown",
-              "description": null,
+              "description": "gastownhall/gastown",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3015,7 +3015,7 @@
                 "open_issues": 502,
                 "owner": "gastownhall",
                 "repo": "gastown",
-                "stars": 18237,
+                "stars": 18238,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:12:52.412Z"
@@ -3023,7 +3023,7 @@
             {
               "node_type": "item",
               "title": "Untrivial-ai/agent-orchestrator",
-              "description": null,
+              "description": "Untrivial-ai/agent-orchestrator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3032,11 +3032,11 @@
                 "id": 1156994049,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T23:52:07Z",
-                "open_issues": 729,
+                "last_commit": "2026-10-03T04:33:27Z",
+                "open_issues": 731,
                 "owner": "Untrivial-ai",
                 "repo": "agent-orchestrator",
-                "stars": 12613,
+                "stars": 12626,
                 "topics": [
                   "agent-fleet",
                   "agent-ide",
@@ -3058,7 +3058,7 @@
             {
               "node_type": "item",
               "title": "humanlayer/humanlayer",
-              "description": null,
+              "description": "humanlayer/humanlayer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3071,7 +3071,7 @@
                 "open_issues": 49,
                 "owner": "humanlayer",
                 "repo": "humanlayer",
-                "stars": 11645,
+                "stars": 11646,
                 "topics": [
                   "agents",
                   "ai",
@@ -3090,7 +3090,7 @@
             {
               "node_type": "item",
               "title": "generalaction/emdash",
-              "description": null,
+              "description": "generalaction/emdash",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3103,7 +3103,7 @@
                 "open_issues": 87,
                 "owner": "generalaction",
                 "repo": "emdash",
-                "stars": 5897,
+                "stars": 5898,
                 "topics": [
                   "agenticdevelopment",
                   "agenticdevelopmentenvironment",
@@ -3131,7 +3131,7 @@
             {
               "node_type": "item",
               "title": "nyldn/claude-octopus",
-              "description": null,
+              "description": "nyldn/claude-octopus",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3140,8 +3140,8 @@
                 "id": 1134819911,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-10-03T01:04:23Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-03T04:06:51Z",
+                "open_issues": 1,
                 "owner": "nyldn",
                 "repo": "claude-octopus",
                 "stars": 4140,
@@ -3165,7 +3165,7 @@
             {
               "node_type": "item",
               "title": "RunMaestro/Maestro",
-              "description": null,
+              "description": "RunMaestro/Maestro",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3178,7 +3178,7 @@
                 "open_issues": 108,
                 "owner": "RunMaestro",
                 "repo": "Maestro",
-                "stars": 3397,
+                "stars": 3399,
                 "topics": [
                   "ai-agents",
                   "claude-code",
@@ -3192,7 +3192,7 @@
             {
               "node_type": "item",
               "title": "stravu/crystal",
-              "description": null,
+              "description": "stravu/crystal",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3227,7 +3227,7 @@
             {
               "node_type": "item",
               "title": "stellarlinkco/myclaude",
-              "description": null,
+              "description": "stellarlinkco/myclaude",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3248,7 +3248,7 @@
             {
               "node_type": "item",
               "title": "agentlas-ai/Agentlas-OS",
-              "description": null,
+              "description": "agentlas-ai/Agentlas-OS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3261,7 +3261,7 @@
                 "open_issues": 2,
                 "owner": "agentlas-ai",
                 "repo": "Agentlas-OS",
-                "stars": 1546,
+                "stars": 1547,
                 "topics": [
                   "a2a",
                   "agent",
@@ -3289,7 +3289,7 @@
             {
               "node_type": "item",
               "title": "dlorenc/multiclaude",
-              "description": null,
+              "description": "dlorenc/multiclaude",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3310,7 +3310,7 @@
             {
               "node_type": "item",
               "title": "supernovae-st/nika",
-              "description": null,
+              "description": "supernovae-st/nika",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3352,7 +3352,7 @@
             {
               "node_type": "item",
               "title": "5dive-ai/5dive",
-              "description": null,
+              "description": "5dive-ai/5dive",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3361,8 +3361,8 @@
                 "id": 1239570688,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-10-03T01:15:11Z",
-                "open_issues": 14,
+                "last_commit": "2026-10-03T04:42:16Z",
+                "open_issues": 12,
                 "owner": "5dive-ai",
                 "repo": "5dive",
                 "stars": 64,
@@ -3394,7 +3394,7 @@
             {
               "node_type": "item",
               "title": "Varalix-Digitech-Solutions/clone-team",
-              "description": null,
+              "description": "Varalix-Digitech-Solutions/clone-team",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3430,7 +3430,7 @@
             {
               "node_type": "item",
               "title": "beastlabai/multi-llm-plugin",
-              "description": null,
+              "description": "beastlabai/multi-llm-plugin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3451,7 +3451,7 @@
             {
               "node_type": "item",
               "title": "ymxlx/polis-protocol",
-              "description": null,
+              "description": "ymxlx/polis-protocol",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3488,7 +3488,7 @@
             {
               "node_type": "item",
               "title": "Varalix-Digitech-Solutions/game-build-team-skill",
-              "description": null,
+              "description": "Varalix-Digitech-Solutions/game-build-team-skill",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3518,7 +3518,7 @@
             {
               "node_type": "item",
               "title": "gyujeongion/llm-council-no-api",
-              "description": null,
+              "description": "gyujeongion/llm-council-no-api",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3539,7 +3539,7 @@
             {
               "node_type": "item",
               "title": "gyujeongion/claude-code-goal-loop",
-              "description": null,
+              "description": "gyujeongion/claude-code-goal-loop",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3567,7 +3567,7 @@
             {
               "node_type": "item",
               "title": "ruvnet/ruflo",
-              "description": null,
+              "description": "ruvnet/ruflo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3576,11 +3576,11 @@
                 "id": 995029641,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-03T00:46:16Z",
+                "last_commit": "2026-10-03T04:23:49Z",
                 "open_issues": 1052,
                 "owner": "ruvnet",
                 "repo": "ruflo",
-                "stars": 73737,
+                "stars": 73745,
                 "topics": [
                   "agentic-ai",
                   "agentic-framework",
@@ -3590,7 +3590,7 @@
                   "ai-assistant",
                   "ai-skills",
                   "autonomous-agents",
-                  "claude-code",
+                  "claude",
                   "codex",
                   "dsh-plugin",
                   "harness",
@@ -3609,7 +3609,7 @@
             {
               "node_type": "item",
               "title": "Yeachan-Heo/oh-my-claudecode",
-              "description": null,
+              "description": "Yeachan-Heo/oh-my-claudecode",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3622,7 +3622,7 @@
                 "open_issues": 3,
                 "owner": "Yeachan-Heo",
                 "repo": "oh-my-claudecode",
-                "stars": 39539,
+                "stars": 39542,
                 "topics": [
                   "agentic-coding",
                   "ai-agents",
@@ -3641,7 +3641,7 @@
             {
               "node_type": "item",
               "title": "smtg-ai/claude-squad",
-              "description": null,
+              "description": "smtg-ai/claude-squad",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3668,7 +3668,7 @@
             {
               "node_type": "item",
               "title": "SeemSeam/claude_codex_bridge",
-              "description": null,
+              "description": "SeemSeam/claude_codex_bridge",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3710,7 +3710,7 @@
             {
               "node_type": "item",
               "title": "mikeyobrien/ralph-orchestrator",
-              "description": null,
+              "description": "mikeyobrien/ralph-orchestrator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3747,7 +3747,7 @@
             {
               "node_type": "item",
               "title": "michaelshimeles/ralphy",
-              "description": null,
+              "description": "michaelshimeles/ralphy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3774,7 +3774,7 @@
             {
               "node_type": "item",
               "title": "subsy/ralph-tui",
-              "description": null,
+              "description": "subsy/ralph-tui",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3795,7 +3795,7 @@
             {
               "node_type": "item",
               "title": "Dicklesworthstone/claude_code_agent_farm",
-              "description": null,
+              "description": "Dicklesworthstone/claude_code_agent_farm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3822,7 +3822,7 @@
             {
               "node_type": "item",
               "title": "disler/infinite-agentic-loop",
-              "description": null,
+              "description": "disler/infinite-agentic-loop",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3843,7 +3843,7 @@
             {
               "node_type": "item",
               "title": "avelikiy/great_cto",
-              "description": null,
+              "description": "avelikiy/great_cto",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3852,7 +3852,7 @@
                 "id": 1201775350,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-03T01:03:07Z",
+                "last_commit": "2026-10-03T03:30:09Z",
                 "open_issues": 19,
                 "owner": "avelikiy",
                 "repo": "great_cto",
@@ -3876,7 +3876,7 @@
             {
               "node_type": "item",
               "title": "AutomateLab-tech/agency-os",
-              "description": null,
+              "description": "AutomateLab-tech/agency-os",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3917,7 +3917,7 @@
             {
               "node_type": "item",
               "title": "dagger/container-use",
-              "description": null,
+              "description": "dagger/container-use",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3938,7 +3938,7 @@
             {
               "node_type": "item",
               "title": "dazuiba/handoff",
-              "description": null,
+              "description": "dazuiba/handoff",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3983,7 +3983,7 @@
             {
               "node_type": "item",
               "title": "usestrix/strix",
-              "description": null,
+              "description": "usestrix/strix",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3993,10 +3993,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T21:27:23Z",
-                "open_issues": 435,
+                "open_issues": 436,
                 "owner": "usestrix",
                 "repo": "strix",
-                "stars": 66189,
+                "stars": 66215,
                 "topics": [
                   "agents",
                   "ai-hacking",
@@ -4025,7 +4025,7 @@
             {
               "node_type": "item",
               "title": "mukul975/Anthropic-Cybersecurity-Skills",
-              "description": null,
+              "description": "mukul975/Anthropic-Cybersecurity-Skills",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4038,7 +4038,7 @@
                 "open_issues": 51,
                 "owner": "mukul975",
                 "repo": "Anthropic-Cybersecurity-Skills",
-                "stars": 33718,
+                "stars": 33722,
                 "topics": [
                   "ai-agents",
                   "claude-code",
@@ -4067,7 +4067,7 @@
             {
               "node_type": "item",
               "title": "gitleaks/gitleaks",
-              "description": null,
+              "description": "gitleaks/gitleaks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4080,7 +4080,7 @@
                 "open_issues": 489,
                 "owner": "gitleaks",
                 "repo": "gitleaks",
-                "stars": 29622,
+                "stars": 29623,
                 "topics": [
                   "ai-powered",
                   "ci-cd",
@@ -4109,7 +4109,7 @@
             {
               "node_type": "item",
               "title": "vercel-labs/deepsec",
-              "description": null,
+              "description": "vercel-labs/deepsec",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4122,7 +4122,7 @@
                 "open_issues": 69,
                 "owner": "vercel-labs",
                 "repo": "deepsec",
-                "stars": 8082,
+                "stars": 8083,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:12:52.412Z"
@@ -4130,7 +4130,7 @@
             {
               "node_type": "item",
               "title": "SimoneAvogadro/android-reverse-engineering-skill",
-              "description": null,
+              "description": "SimoneAvogadro/android-reverse-engineering-skill",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4151,7 +4151,7 @@
             {
               "node_type": "item",
               "title": "trailofbits/skills",
-              "description": null,
+              "description": "trailofbits/skills",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4164,7 +4164,7 @@
                 "open_issues": 55,
                 "owner": "trailofbits",
                 "repo": "skills",
-                "stars": 7346,
+                "stars": 7347,
                 "topics": [
                   "agent-skills"
                 ]
@@ -4174,7 +4174,7 @@
             {
               "node_type": "item",
               "title": "gadievron/raptor",
-              "description": null,
+              "description": "gadievron/raptor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4187,7 +4187,7 @@
                 "open_issues": 37,
                 "owner": "gadievron",
                 "repo": "raptor",
-                "stars": 3851,
+                "stars": 3852,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:12:52.412Z"
@@ -4195,7 +4195,7 @@
             {
               "node_type": "item",
               "title": "snyk/agent-scan",
-              "description": null,
+              "description": "snyk/agent-scan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4222,7 +4222,7 @@
             {
               "node_type": "item",
               "title": "LoRexxar/Kunlun-M",
-              "description": null,
+              "description": "LoRexxar/Kunlun-M",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4285,7 +4285,7 @@
             {
               "node_type": "item",
               "title": "wrsmith108/varlock-claude-skill",
-              "description": null,
+              "description": "wrsmith108/varlock-claude-skill",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4312,7 +4312,7 @@
             {
               "node_type": "item",
               "title": "moltenbit/should-i-care",
-              "description": null,
+              "description": "moltenbit/should-i-care",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4352,7 +4352,7 @@
             {
               "node_type": "item",
               "title": "GiulioDER/cca-audit",
-              "description": null,
+              "description": "GiulioDER/cca-audit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4388,7 +4388,7 @@
             {
               "node_type": "item",
               "title": "SpicyNoodles3/claude-code-file-guard",
-              "description": null,
+              "description": "SpicyNoodles3/claude-code-file-guard",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4425,7 +4425,7 @@
             {
               "node_type": "item",
               "title": "BehiSecc/awesome-claude-skills",
-              "description": null,
+              "description": "BehiSecc/awesome-claude-skills",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4435,7 +4435,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-09-21T07:16:41Z",
-                "open_issues": 293,
+                "open_issues": 294,
                 "owner": "BehiSecc",
                 "repo": "awesome-claude-skills",
                 "stars": 10201,
@@ -4457,7 +4457,7 @@
         {
           "node_type": "item",
           "title": "nexu-io/open-design",
-          "description": null,
+          "description": "nexu-io/open-design",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4466,11 +4466,11 @@
             "id": 1223170290,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T09:44:20Z",
+            "last_commit": "2026-10-03T01:26:22Z",
             "open_issues": 1164,
             "owner": "nexu-io",
             "repo": "open-design",
-            "stars": 99190,
+            "stars": 99206,
             "topics": [
               "agent-skills",
               "ai-design",
@@ -4499,7 +4499,7 @@
         {
           "node_type": "item",
           "title": "coreyhaines31/marketingskills",
-          "description": null,
+          "description": "coreyhaines31/marketingskills",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4508,11 +4508,11 @@
             "id": 1135212071,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T00:38:13Z",
-            "open_issues": 47,
+            "last_commit": "2026-10-03T01:51:50Z",
+            "open_issues": 58,
             "owner": "coreyhaines31",
             "repo": "marketingskills",
-            "stars": 52421,
+            "stars": 52465,
             "topics": [
               "claude",
               "codex",
@@ -4524,7 +4524,7 @@
         {
           "node_type": "item",
           "title": "op7418/guizang-ppt-skill",
-          "description": null,
+          "description": "op7418/guizang-ppt-skill",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4537,7 +4537,7 @@
             "open_issues": 47,
             "owner": "op7418",
             "repo": "guizang-ppt-skill",
-            "stars": 27181,
+            "stars": 27186,
             "topics": [
               "ai-agent",
               "claude-code",
@@ -4557,7 +4557,7 @@
         {
           "node_type": "item",
           "title": "alchaincyf/huashu-design",
-          "description": null,
+          "description": "alchaincyf/huashu-design",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4570,7 +4570,7 @@
             "open_issues": 4,
             "owner": "alchaincyf",
             "repo": "huashu-design",
-            "stars": 24564,
+            "stars": 24565,
             "topics": []
           },
           "first_seen": "2026-08-28T06:12:52.412Z"
@@ -4578,7 +4578,7 @@
         {
           "node_type": "item",
           "title": "AgriciDaniel/claude-seo",
-          "description": null,
+          "description": "AgriciDaniel/claude-seo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4591,7 +4591,7 @@
             "open_issues": 24,
             "owner": "AgriciDaniel",
             "repo": "claude-seo",
-            "stars": 18184,
+            "stars": 18190,
             "topics": [
               "ai",
               "ai-seo",
@@ -4607,7 +4607,7 @@
         {
           "node_type": "item",
           "title": "yizhiyanhua-ai/fireworks-tech-graph",
-          "description": null,
+          "description": "yizhiyanhua-ai/fireworks-tech-graph",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4635,7 +4635,7 @@
         {
           "node_type": "item",
           "title": "zubair-trabzada/geo-seo-claude",
-          "description": null,
+          "description": "zubair-trabzada/geo-seo-claude",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4656,7 +4656,7 @@
         {
           "node_type": "item",
           "title": "AgriciDaniel/claude-ads",
-          "description": null,
+          "description": "AgriciDaniel/claude-ads",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4669,7 +4669,7 @@
             "open_issues": 25,
             "owner": "AgriciDaniel",
             "repo": "claude-ads",
-            "stars": 9682,
+            "stars": 9684,
             "topics": [
               "agent-skills",
               "ai",
@@ -4689,7 +4689,7 @@
         {
           "node_type": "item",
           "title": "ZSeven-W/openpencil",
-          "description": null,
+          "description": "ZSeven-W/openpencil",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4731,7 +4731,7 @@
         {
           "node_type": "item",
           "title": "zarazhangrui/codebase-to-course",
-          "description": null,
+          "description": "zarazhangrui/codebase-to-course",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4744,7 +4744,7 @@
             "open_issues": 13,
             "owner": "zarazhangrui",
             "repo": "codebase-to-course",
-            "stars": 5624,
+            "stars": 5627,
             "topics": []
           },
           "first_seen": "2026-08-28T06:12:52.412Z"
@@ -4752,7 +4752,7 @@
         {
           "node_type": "item",
           "title": "nowork-studio/NotFair",
-          "description": null,
+          "description": "nowork-studio/notfair-plugin",
           "children": [
             {
               "node_type": "item",
@@ -4881,7 +4881,7 @@
         {
           "node_type": "item",
           "title": "clockless-org/html-anything",
-          "description": null,
+          "description": "clockless-org/html-anything",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4917,7 +4917,7 @@
         {
           "node_type": "item",
           "title": "cognyai/claude-code-marketing-skills",
-          "description": null,
+          "description": "cognyai/claude-code-marketing-skills",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4953,7 +4953,7 @@
         {
           "node_type": "item",
           "title": "humanpen/humanpen-skill",
-          "description": null,
+          "description": "humanpen/humanpen-skill",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4974,7 +4974,7 @@
         {
           "node_type": "item",
           "title": "ndesv21/socialclaw",
-          "description": null,
+          "description": "ndesv21/socialclaw",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5016,7 +5016,7 @@
         {
           "node_type": "item",
           "title": "Linked-API/linkedin-skills",
-          "description": null,
+          "description": "Linked-API/linkedin-skills",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5046,7 +5046,7 @@
         {
           "node_type": "item",
           "title": "salespeak-ai/buyer-eval-skill",
-          "description": null,
+          "description": "salespeak-ai/buyer-eval-skill",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5075,7 +5075,7 @@
         {
           "node_type": "item",
           "title": "sergebulaev/facebook-skills",
-          "description": null,
+          "description": "sergebulaev/facebook-skills",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5113,7 +5113,7 @@
         {
           "node_type": "item",
           "title": "outreachmagic/outreachmagic",
-          "description": null,
+          "description": "outreachmagic/outreachmagic",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5152,7 +5152,7 @@
         {
           "node_type": "item",
           "title": "aragossa/ai-tell-detector",
-          "description": null,
+          "description": "aragossa/ai-tell-detector",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5173,7 +5173,7 @@
         {
           "node_type": "item",
           "title": "Sequenzy/skills",
-          "description": null,
+          "description": "Sequenzy/skills",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5206,7 +5206,7 @@
         {
           "node_type": "item",
           "title": "aislinn-yang/rednote-writing-skill",
-          "description": null,
+          "description": "aislinn-yang/rednote-writing-skill",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5242,7 +5242,7 @@
         {
           "node_type": "item",
           "title": "fjilvvi/growthlens",
-          "description": null,
+          "description": "fjilvvi/growthlens",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5274,7 +5274,7 @@
         {
           "node_type": "item",
           "title": "Get-Maito/newsletter-skills",
-          "description": null,
+          "description": "Get-Maito/newsletter-skills",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5405,7 +5405,7 @@
         {
           "node_type": "item",
           "title": "santifer/career-ops",
-          "description": null,
+          "description": "career-ops-hq/career-ops",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5415,10 +5415,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-03T00:34:02Z",
-            "open_issues": 466,
+            "open_issues": 468,
             "owner": "career-ops-hq",
             "repo": "career-ops",
-            "stars": 73318,
+            "stars": 73329,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -5447,7 +5447,7 @@
         {
           "node_type": "item",
           "title": "mvanhorn/last30days-skill",
-          "description": null,
+          "description": "mvanhorn/last30days-skill",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5460,7 +5460,7 @@
             "open_issues": 141,
             "owner": "mvanhorn",
             "repo": "last30days-skill",
-            "stars": 63383,
+            "stars": 63392,
             "topics": [
               "ai-prompts",
               "ai-skill",
@@ -5489,7 +5489,7 @@
         {
           "node_type": "item",
           "title": "blader/humanizer",
-          "description": null,
+          "description": "blader/humanizer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5502,7 +5502,7 @@
             "open_issues": 4,
             "owner": "blader",
             "repo": "humanizer",
-            "stars": 53606,
+            "stars": 53623,
             "topics": [
               "agent-skills",
               "ai-humanizer",
@@ -5524,7 +5524,7 @@
         {
           "node_type": "item",
           "title": "Imbad0202/academic-research-skills",
-          "description": null,
+          "description": "Imbad0202/academic-research-skills",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5533,11 +5533,11 @@
             "id": 1167300963,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T15:07:32Z",
-            "open_issues": 39,
+            "last_commit": "2026-10-03T04:10:26Z",
+            "open_issues": 37,
             "owner": "Imbad0202",
             "repo": "academic-research-skills",
-            "stars": 50185,
+            "stars": 50204,
             "topics": [
               "academic-pipeline",
               "academic-writing",
@@ -5554,7 +5554,7 @@
         {
           "node_type": "item",
           "title": "K-Dense-AI/scientific-agent-skills",
-          "description": null,
+          "description": "K-Dense-AI/scientific-agent-skills",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5567,7 +5567,7 @@
             "open_issues": 21,
             "owner": "K-Dense-AI",
             "repo": "scientific-agent-skills",
-            "stars": 47375,
+            "stars": 47398,
             "topics": [
               "agent-skills",
               "ai-scientist",
@@ -5593,7 +5593,7 @@
         {
           "node_type": "item",
           "title": "alchaincyf/nuwa-skill",
-          "description": null,
+          "description": "alchaincyf/nuwa-skill",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5606,7 +5606,7 @@
             "open_issues": 11,
             "owner": "alchaincyf",
             "repo": "nuwa-skill",
-            "stars": 33477,
+            "stars": 33485,
             "topics": []
           },
           "first_seen": "2026-08-28T06:12:52.412Z"
@@ -5614,7 +5614,7 @@
         {
           "node_type": "item",
           "title": "Donchitos/Claude-Code-Game-Studios",
-          "description": null,
+          "description": "Donchitos/Claude-Code-Game-Studios",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5627,7 +5627,7 @@
             "open_issues": 60,
             "owner": "Donchitos",
             "repo": "Claude-Code-Game-Studios",
-            "stars": 25663,
+            "stars": 25670,
             "topics": [
               "ai-agents",
               "ai-assisted-development",
@@ -5648,7 +5648,7 @@
         {
           "node_type": "item",
           "title": "op7418/Humanizer-zh",
-          "description": null,
+          "description": "op7418/Humanizer-zh",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5658,10 +5658,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-23T02:24:28Z",
-            "open_issues": 32,
+            "open_issues": 33,
             "owner": "op7418",
             "repo": "Humanizer-zh",
-            "stars": 18840,
+            "stars": 18845,
             "topics": []
           },
           "first_seen": "2026-08-28T06:12:52.412Z"
@@ -5669,7 +5669,7 @@
         {
           "node_type": "item",
           "title": "nidhinjs/prompt-master",
-          "description": null,
+          "description": "nidhinjs/prompt-master",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5682,7 +5682,7 @@
             "open_issues": 36,
             "owner": "nidhinjs",
             "repo": "prompt-master",
-            "stars": 13987,
+            "stars": 13991,
             "topics": [
               "claude-ai",
               "claude-skills",
@@ -5695,7 +5695,7 @@
         {
           "node_type": "item",
           "title": "Master-cai/Research-Paper-Writing-Skills",
-          "description": null,
+          "description": "Master-cai/Research-Paper-Writing-Skills",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5708,7 +5708,7 @@
             "open_issues": 1,
             "owner": "Master-cai",
             "repo": "Research-Paper-Writing-Skills",
-            "stars": 7213,
+            "stars": 7216,
             "topics": []
           },
           "first_seen": "2026-08-28T06:12:52.412Z"
@@ -5716,7 +5716,7 @@
         {
           "node_type": "item",
           "title": "alchaincyf/darwin-skill",
-          "description": null,
+          "description": "alchaincyf/darwin-skill",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5729,7 +5729,7 @@
             "open_issues": 5,
             "owner": "alchaincyf",
             "repo": "darwin-skill",
-            "stars": 6150,
+            "stars": 6152,
             "topics": []
           },
           "first_seen": "2026-08-28T06:12:52.412Z"
@@ -5737,7 +5737,7 @@
         {
           "node_type": "item",
           "title": "Galaxy-Dawn/claude-scholar",
-          "description": null,
+          "description": "Galaxy-Dawn/claude-scholar",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5750,7 +5750,7 @@
             "open_issues": 3,
             "owner": "Galaxy-Dawn",
             "repo": "claude-scholar",
-            "stars": 5649,
+            "stars": 5651,
             "topics": [
               "academic-research",
               "ai-agents",
@@ -5771,7 +5771,7 @@
         {
           "node_type": "item",
           "title": "SamurAIGPT/Generative-Media-Skills",
-          "description": null,
+          "description": "Anil-matcha/open-dots",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5784,7 +5784,7 @@
             "open_issues": 1,
             "owner": "Anil-matcha",
             "repo": "open-dots",
-            "stars": 5233,
+            "stars": 5243,
             "topics": [
               "agentic-ai",
               "ai-agent",
@@ -5813,7 +5813,7 @@
         {
           "node_type": "item",
           "title": "FreedomIntelligence/OpenClaw-Medical-Skills",
-          "description": null,
+          "description": "FreedomIntelligence/OpenClaw-Medical-Skills",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5843,7 +5843,7 @@
         {
           "node_type": "item",
           "title": "pedrohcgs/claude-code-my-workflow",
-          "description": null,
+          "description": "pedrohcgs/claude-code-my-workflow",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5856,7 +5856,7 @@
             "open_issues": 5,
             "owner": "pedrohcgs",
             "repo": "claude-code-my-workflow",
-            "stars": 1607,
+            "stars": 1609,
             "topics": [
               "academic-writing",
               "causal-inference",
@@ -5875,7 +5875,7 @@
         {
           "node_type": "item",
           "title": "Xquik-dev/tweetclaw",
-          "description": null,
+          "description": "Xquik-dev/tweetclaw",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5917,7 +5917,7 @@
         {
           "node_type": "item",
           "title": "Ericyoung-183/alpha-insights",
-          "description": null,
+          "description": "Ericyoung-183/alpha-insights",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5959,7 +5959,7 @@
         {
           "node_type": "item",
           "title": "longbridge/skills",
-          "description": null,
+          "description": "longbridge/skills",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5994,7 +5994,7 @@
         {
           "node_type": "item",
           "title": "takechanman1228/claude-ecom",
-          "description": null,
+          "description": "takechanman1228/claude-ecom",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6021,7 +6021,7 @@
         {
           "node_type": "item",
           "title": "Xquik-dev/hermes-tweet",
-          "description": null,
+          "description": "Xquik-dev/hermes-tweet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6063,7 +6063,7 @@
         {
           "node_type": "item",
           "title": "Three-Pillar Personal Finance",
-          "description": null,
+          "description": "nontravis/personal-finance-whitepaper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6101,7 +6101,7 @@
         {
           "node_type": "item",
           "title": "fruitwyatt/puzzlegenio-claude-skill",
-          "description": null,
+          "description": "fruitwyatt/puzzlegenio-claude-skill",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6122,7 +6122,7 @@
         {
           "node_type": "item",
           "title": "dhosruiasn/accessible-dark-mode-design-expert",
-          "description": null,
+          "description": "dhosruiasn/accessible-dark-mode-design-expert",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6151,7 +6151,7 @@
         {
           "node_type": "item",
           "title": "Miscodings/paper-plugin",
-          "description": null,
+          "description": "Miscodings/paper-plugin",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6172,7 +6172,7 @@
         {
           "node_type": "item",
           "title": "ZeroPointRepo/youtube-skills",
-          "description": null,
+          "description": "ZeroPointRepo/youtube-skills",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6200,7 +6200,7 @@
         {
           "node_type": "item",
           "title": "tfriedel/claude-office-skills",
-          "description": null,
+          "description": "tfriedel/claude-office-skills",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6221,7 +6221,7 @@
         {
           "node_type": "item",
           "title": "ndpvt-web/latex-document-skill",
-          "description": null,
+          "description": "ndpvt-web/latex-document-skill",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6234,7 +6234,7 @@
             "open_issues": 2,
             "owner": "ndpvt-web",
             "repo": "latex-document-skill",
-            "stars": 775,
+            "stars": 776,
             "topics": [
               "academic",
               "ai",
@@ -6258,7 +6258,7 @@
         {
           "node_type": "item",
           "title": "nimrodfisher/data-analytics-skills",
-          "description": null,
+          "description": "nimrodfisher/data-analytics-skills",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6284,7 +6284,7 @@
         {
           "node_type": "item",
           "title": "boraoztunc/skills",
-          "description": null,
+          "description": "boraoztunc/skills",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6305,7 +6305,7 @@
         {
           "node_type": "item",
           "title": "lingzhi227/agent-research-skills",
-          "description": null,
+          "description": "lingzhi227/agent-research-skills",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6318,7 +6318,7 @@
             "open_issues": 5,
             "owner": "lingzhi227",
             "repo": "agent-research-skills",
-            "stars": 371,
+            "stars": 373,
             "topics": []
           },
           "first_seen": "2026-08-28T06:12:52.412Z"
@@ -6326,7 +6326,7 @@
         {
           "node_type": "item",
           "title": "Alisa0808/vibe-creating-skill",
-          "description": null,
+          "description": "Alisa0808/vibe-creating-skill",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6368,7 +6368,7 @@
         {
           "node_type": "item",
           "title": "b1rdmania/hinge-profile-optimizer",
-          "description": null,
+          "description": "b1rdmania/hinge-profile-optimizer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6401,7 +6401,7 @@
         {
           "node_type": "item",
           "title": "b1rdmania/claude-plain-english-skill",
-          "description": null,
+          "description": "b1rdmania/claude-plain-english-skill",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6422,7 +6422,7 @@
         {
           "node_type": "item",
           "title": "fcavalcantirj/claude-code-eyes",
-          "description": null,
+          "description": "fcavalcantirj/claude-code-eyes",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6456,7 +6456,7 @@
         {
           "node_type": "item",
           "title": "b1rdmania/claude-premortem-skill",
-          "description": null,
+          "description": "b1rdmania/claude-premortem-skill",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6483,7 +6483,7 @@
         {
           "node_type": "item",
           "title": "abe238/claude-video-plus",
-          "description": null,
+          "description": "abe238/claude-video-plus",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6528,7 +6528,7 @@
             {
               "node_type": "item",
               "title": "farion1231/cc-switch",
-              "description": null,
+              "description": "farion1231/cc-switch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6537,11 +6537,11 @@
                 "id": 1031912724,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-02T17:45:32Z",
-                "open_issues": 2939,
+                "last_commit": "2026-10-03T04:16:29Z",
+                "open_issues": 2936,
                 "owner": "farion1231",
                 "repo": "cc-switch",
-                "stars": 139565,
+                "stars": 139612,
                 "topics": [
                   "ai-tools",
                   "claude-code",
@@ -6570,7 +6570,7 @@
             {
               "node_type": "item",
               "title": "CherryHQ/cherry-studio",
-              "description": null,
+              "description": "CherryHQ/cherry-studio",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6579,11 +6579,11 @@
                 "id": 805155266,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-03T01:15:42Z",
-                "open_issues": 1703,
+                "last_commit": "2026-10-03T03:16:56Z",
+                "open_issues": 1704,
                 "owner": "CherryHQ",
                 "repo": "cherry-studio",
-                "stars": 52324,
+                "stars": 52327,
                 "topics": [
                   "agent-skills",
                   "ai-agent",
@@ -6601,7 +6601,7 @@
             {
               "node_type": "item",
               "title": "iOfficeAI/AionUi",
-              "description": null,
+              "description": "iOfficeAI/AionUi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6643,7 +6643,7 @@
             {
               "node_type": "item",
               "title": "winfunc/opcode",
-              "description": null,
+              "description": "winfunc/opcode",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6656,7 +6656,7 @@
                 "open_issues": 332,
                 "owner": "winfunc",
                 "repo": "opcode",
-                "stars": 22426,
+                "stars": 22424,
                 "topics": [
                   "anthropic",
                   "anthropic-claude",
@@ -6680,7 +6680,7 @@
             {
               "node_type": "item",
               "title": "siteboon/claudecodeui",
-              "description": null,
+              "description": "siteboon/claudecodeui",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6690,10 +6690,10 @@
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-02T23:07:43Z",
-                "open_issues": 273,
+                "open_issues": 274,
                 "owner": "siteboon",
                 "repo": "claudecodeui",
-                "stars": 13908,
+                "stars": 13912,
                 "topics": [
                   "anthropic",
                   "anthropic-ai",
@@ -6714,7 +6714,7 @@
             {
               "node_type": "item",
               "title": "ValueCell-ai/ClawX",
-              "description": null,
+              "description": "ValueCell-ai/ClawX",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6744,7 +6744,7 @@
             {
               "node_type": "item",
               "title": "automazeio/vibeproxy",
-              "description": null,
+              "description": "automazeio/vibeproxy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6772,7 +6772,7 @@
             {
               "node_type": "item",
               "title": "jazzyalex/agent-sessions",
-              "description": null,
+              "description": "jazzyalex/agent-sessions",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6821,7 +6821,7 @@
             {
               "node_type": "item",
               "title": "code-yeongyu/oh-my-openagent",
-              "description": null,
+              "description": "code-yeongyu/oh-my-openagent",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6830,8 +6830,8 @@
                 "id": 1108837393,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-03T01:00:05Z",
-                "open_issues": 1109,
+                "last_commit": "2026-10-03T04:40:28Z",
+                "open_issues": 1095,
                 "owner": "code-yeongyu",
                 "repo": "oh-my-openagent",
                 "stars": 69760,
@@ -6858,7 +6858,7 @@
             {
               "node_type": "item",
               "title": "max-sixty/worktrunk",
-              "description": null,
+              "description": "max-sixty/worktrunk",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6867,11 +6867,11 @@
                 "id": 1078528927,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-03T00:32:08Z",
-                "open_issues": 58,
+                "last_commit": "2026-10-03T04:31:42Z",
+                "open_issues": 55,
                 "owner": "max-sixty",
                 "repo": "worktrunk",
-                "stars": 8676,
+                "stars": 8690,
                 "topics": [
                   "agents",
                   "claude-code",
@@ -6886,7 +6886,7 @@
             {
               "node_type": "item",
               "title": "tailcallhq/forgecode",
-              "description": null,
+              "description": "tailcallhq/forgecode",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6895,8 +6895,8 @@
                 "id": 900461318,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T21:23:28Z",
-                "open_issues": 32,
+                "last_commit": "2026-10-03T02:03:56Z",
+                "open_issues": 31,
                 "owner": "tailcallhq",
                 "repo": "forgecode",
                 "stars": 7638,
@@ -6924,7 +6924,7 @@
             {
               "node_type": "item",
               "title": "intellectronica/ruler",
-              "description": null,
+              "description": "intellectronica/ruler",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6955,7 +6955,7 @@
             {
               "node_type": "item",
               "title": "notlikeDev/CCPlugins",
-              "description": null,
+              "description": "brennercruvinel/CCPlugins",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -6986,7 +6986,7 @@
             {
               "node_type": "item",
               "title": "thousandflowers/skillreaper",
-              "description": null,
+              "description": "thousandflowers/skillreaper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7026,7 +7026,7 @@
             {
               "node_type": "item",
               "title": "KernelLord/pickysteve",
-              "description": null,
+              "description": "KernelLord/pickysteve",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7068,7 +7068,7 @@
             {
               "node_type": "item",
               "title": "huangji6693-max/claude-code-dna",
-              "description": null,
+              "description": "huangji6693-max/claude-code-dna",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7100,7 +7100,7 @@
             {
               "node_type": "item",
               "title": "Battlelamb/claude-code-conversation-titler",
-              "description": null,
+              "description": "Battlelamb/claude-code-conversation-titler",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7149,7 +7149,7 @@
             {
               "node_type": "item",
               "title": "Graphify-Labs/graphify",
-              "description": null,
+              "description": "Graphify-Labs/graphify",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7159,10 +7159,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T22:12:03Z",
-                "open_issues": 1522,
+                "open_issues": 1523,
                 "owner": "Graphify-Labs",
                 "repo": "graphify",
-                "stars": 123346,
+                "stars": 123368,
                 "topics": [
                   "ai-agents",
                   "antigravity",
@@ -7190,7 +7190,7 @@
             {
               "node_type": "item",
               "title": "thedotmack/claude-mem",
-              "description": null,
+              "description": "thedotmack/claude-mem",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7199,11 +7199,11 @@
                 "id": 1048065319,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T20:44:24Z",
-                "open_issues": 107,
+                "last_commit": "2026-10-03T04:17:51Z",
+                "open_issues": 111,
                 "owner": "thedotmack",
                 "repo": "claude-mem",
-                "stars": 95197,
+                "stars": 95206,
                 "topics": [
                   "ai",
                   "ai-agents",
@@ -7232,7 +7232,7 @@
             {
               "node_type": "item",
               "title": "DeusData/codebase-memory-mcp",
-              "description": null,
+              "description": "DeusData/codebase-memory-mcp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7242,10 +7242,10 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2026-10-02T23:46:03Z",
-                "open_issues": 631,
+                "open_issues": 633,
                 "owner": "DeusData",
                 "repo": "codebase-memory-mcp",
-                "stars": 45695,
+                "stars": 45705,
                 "topics": [
                   "aider",
                   "ast",
@@ -7274,7 +7274,7 @@
             {
               "node_type": "item",
               "title": "tirth8205/code-review-graph",
-              "description": null,
+              "description": "tirth8205/code-review-graph",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7287,7 +7287,7 @@
                 "open_issues": 163,
                 "owner": "tirth8205",
                 "repo": "code-review-graph",
-                "stars": 31897,
+                "stars": 31898,
                 "topics": [
                   "ai-coding",
                   "claude",
@@ -7308,7 +7308,7 @@
             {
               "node_type": "item",
               "title": "getzep/graphiti",
-              "description": null,
+              "description": "getzep/graphiti",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7321,7 +7321,7 @@
                 "open_issues": 444,
                 "owner": "getzep",
                 "repo": "graphiti",
-                "stars": 31389,
+                "stars": 31391,
                 "topics": [
                   "agents",
                   "graph",
@@ -7334,7 +7334,7 @@
             {
               "node_type": "item",
               "title": "supermemoryai/supermemory",
-              "description": null,
+              "description": "supermemoryai/supermemory",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7343,11 +7343,11 @@
                 "id": 764287615,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-03T00:05:13Z",
-                "open_issues": 95,
+                "last_commit": "2026-10-03T01:41:43Z",
+                "open_issues": 97,
                 "owner": "supermemoryai",
                 "repo": "supermemory",
-                "stars": 31056,
+                "stars": 31062,
                 "topics": [
                   "agent-memory",
                   "ai-memory",
@@ -7368,7 +7368,7 @@
             {
               "node_type": "item",
               "title": "gastownhall/beads",
-              "description": null,
+              "description": "gastownhall/beads",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7378,7 +7378,7 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-10-03T00:15:57Z",
-                "open_issues": 1295,
+                "open_issues": 1297,
                 "owner": "gastownhall",
                 "repo": "beads",
                 "stars": 27599,
@@ -7393,7 +7393,7 @@
             {
               "node_type": "item",
               "title": "mksglu/context-mode",
-              "description": null,
+              "description": "mksglu/context-mode",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7406,7 +7406,7 @@
                 "open_issues": 317,
                 "owner": "mksglu",
                 "repo": "context-mode",
-                "stars": 25044,
+                "stars": 25083,
                 "topics": [
                   "antigravity",
                   "claude",
@@ -7435,7 +7435,7 @@
             {
               "node_type": "item",
               "title": "NevaMind-AI/memU",
-              "description": null,
+              "description": "NevaMind-AI/memU",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7467,7 +7467,7 @@
             {
               "node_type": "item",
               "title": "zilliztech/claude-context",
-              "description": null,
+              "description": "zilliztech/claude-context",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7509,7 +7509,7 @@
             {
               "node_type": "item",
               "title": "breferrari/obsidian-mind",
-              "description": null,
+              "description": "breferrari/obsidian-mind",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7522,7 +7522,7 @@
                 "open_issues": 17,
                 "owner": "breferrari",
                 "repo": "obsidian-mind",
-                "stars": 4860,
+                "stars": 4864,
                 "topics": [
                   "ai-agents",
                   "claude-code",
@@ -7541,7 +7541,7 @@
             {
               "node_type": "item",
               "title": "parcadei/Continuous-Claude-v3",
-              "description": null,
+              "description": "parcadei/Continuous-Claude-v3",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7572,7 +7572,7 @@
             {
               "node_type": "item",
               "title": "SamurAIGPT/llm-wiki-agent",
-              "description": null,
+              "description": "SamurAIGPT/llm-wiki-agent",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7614,7 +7614,7 @@
             {
               "node_type": "item",
               "title": "agenticnotetaking/arscontexta",
-              "description": null,
+              "description": "agenticnotetaking/arscontexta",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7642,7 +7642,7 @@
             {
               "node_type": "item",
               "title": "letta-ai/claude-subconscious",
-              "description": null,
+              "description": "letta-ai/claude-subconscious",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7663,7 +7663,7 @@
             {
               "node_type": "item",
               "title": "fkiene/llmtrim",
-              "description": null,
+              "description": "fkiene/llmtrim",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7702,7 +7702,7 @@
             {
               "node_type": "item",
               "title": "hjqcan/GoodMemory",
-              "description": null,
+              "description": "hjqcan/GoodMemory",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7711,7 +7711,7 @@
                 "id": 1189746863,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T06:19:13Z",
+                "last_commit": "2026-10-03T02:17:56Z",
                 "open_issues": 2,
                 "owner": "hjqcan",
                 "repo": "GoodMemory",
@@ -7741,7 +7741,7 @@
             {
               "node_type": "item",
               "title": "TerminallyLazy/Tree-Ring-Memory",
-              "description": null,
+              "description": "TerminallyLazy/Tree-Ring-Memory",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7783,7 +7783,7 @@
             {
               "node_type": "item",
               "title": "caioribeiroclw-pixel/pluribus",
-              "description": null,
+              "description": "caioribeiroclw-pixel/pluribus",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7825,7 +7825,7 @@
             {
               "node_type": "item",
               "title": "bks-lab/open-bridge",
-              "description": null,
+              "description": "bks-lab/open-bridge",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7867,7 +7867,7 @@
             {
               "node_type": "item",
               "title": "maxbaluev/accreted-intelligence",
-              "description": null,
+              "description": "maxbaluev/accreted-intelligence",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7909,7 +7909,7 @@
             {
               "node_type": "item",
               "title": "0xsarwagya/ontoly",
-              "description": null,
+              "description": "0xsarwagya/ontoly",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7949,7 +7949,7 @@
             {
               "node_type": "item",
               "title": "cremenescu/mem0ry4ai",
-              "description": null,
+              "description": "cremenescu/mem0ry4ai",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7988,7 +7988,7 @@
             {
               "node_type": "item",
               "title": "modelcontextprotocol/servers",
-              "description": null,
+              "description": "modelcontextprotocol/servers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8001,7 +8001,7 @@
                 "open_issues": 551,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 90960,
+                "stars": 90961,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:12:52.412Z"
@@ -8009,7 +8009,7 @@
             {
               "node_type": "item",
               "title": "upstash/context7",
-              "description": null,
+              "description": "upstash/context7",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8022,7 +8022,7 @@
                 "open_issues": 90,
                 "owner": "upstash",
                 "repo": "context7",
-                "stars": 62616,
+                "stars": 62619,
                 "topics": [
                   "llm",
                   "mcp",
@@ -8035,7 +8035,7 @@
             {
               "node_type": "item",
               "title": "ChromeDevTools/chrome-devtools-mcp",
-              "description": null,
+              "description": "ChromeDevTools/chrome-devtools-mcp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8045,7 +8045,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T11:06:10Z",
-                "open_issues": 102,
+                "open_issues": 103,
                 "owner": "ChromeDevTools",
                 "repo": "chrome-devtools-mcp",
                 "stars": 52893,
@@ -8065,7 +8065,7 @@
             {
               "node_type": "item",
               "title": "microsoft/playwright-mcp",
-              "description": null,
+              "description": "microsoft/playwright-mcp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8078,7 +8078,7 @@
                 "open_issues": 0,
                 "owner": "microsoft",
                 "repo": "playwright-mcp",
-                "stars": 37766,
+                "stars": 37771,
                 "topics": [
                   "mcp",
                   "playwright"
@@ -8089,7 +8089,7 @@
             {
               "node_type": "item",
               "title": "github/github-mcp-server",
-              "description": null,
+              "description": "github/github-mcp-server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8114,7 +8114,7 @@
             {
               "node_type": "item",
               "title": "nanocoai/nanoclaw",
-              "description": null,
+              "description": "nanocoai/nanoclaw",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8141,7 +8141,7 @@
             {
               "node_type": "item",
               "title": "oraios/serena",
-              "description": null,
+              "description": "oraios/serena",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8154,7 +8154,7 @@
                 "open_issues": 195,
                 "owner": "oraios",
                 "repo": "serena",
-                "stars": 29950,
+                "stars": 29952,
                 "topics": [
                   "agent",
                   "ai",
@@ -8175,7 +8175,7 @@
             {
               "node_type": "item",
               "title": "GLips/Figma-Context-MCP",
-              "description": null,
+              "description": "GLips/Figma-Context-MCP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8184,7 +8184,7 @@
                 "id": 931892749,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-18T03:44:15Z",
+                "last_commit": "2026-10-03T03:46:18Z",
                 "open_issues": 27,
                 "owner": "GLips",
                 "repo": "Figma-Context-MCP",
@@ -8202,7 +8202,7 @@
             {
               "node_type": "item",
               "title": "chenhg5/cc-connect",
-              "description": null,
+              "description": "chenhg5/cc-connect",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8212,7 +8212,7 @@
                 "language": "Go",
                 "license": null,
                 "last_commit": "2026-09-29T03:13:03Z",
-                "open_issues": 586,
+                "open_issues": 587,
                 "owner": "chenhg5",
                 "repo": "cc-connect",
                 "stars": 15736,
@@ -8223,7 +8223,7 @@
             {
               "node_type": "item",
               "title": "wonderwhy-er/DesktopCommanderMCP",
-              "description": null,
+              "description": "wonderwhy-er/DesktopCommanderMCP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8236,7 +8236,7 @@
                 "open_issues": 302,
                 "owner": "wonderwhy-er",
                 "repo": "DesktopCommanderMCP",
-                "stars": 9884,
+                "stars": 9885,
                 "topics": [
                   "agent",
                   "ai",
@@ -8254,7 +8254,7 @@
             {
               "node_type": "item",
               "title": "awslabs/mcp",
-              "description": null,
+              "description": "awslabs/mcp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8285,7 +8285,7 @@
             {
               "node_type": "item",
               "title": "eze-is/web-access",
-              "description": null,
+              "description": "eze-is/web-access",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8306,7 +8306,7 @@
             {
               "node_type": "item",
               "title": "google-labs-code/stitch-skills",
-              "description": null,
+              "description": "google-labs-code/stitch-skills",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8327,7 +8327,7 @@
             {
               "node_type": "item",
               "title": "firecrawl/firecrawl-mcp-server",
-              "description": null,
+              "description": "firecrawl/firecrawl-mcp-server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8336,11 +8336,11 @@
                 "id": 899407931,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T18:44:43Z",
-                "open_issues": 150,
+                "last_commit": "2026-10-03T04:31:07Z",
+                "open_issues": 152,
                 "owner": "firecrawl",
                 "repo": "firecrawl-mcp-server",
-                "stars": 7537,
+                "stars": 7539,
                 "topics": [
                   "batch-processing",
                   "claude",
@@ -8364,7 +8364,7 @@
             {
               "node_type": "item",
               "title": "grab/cursor-talk-to-figma-mcp",
-              "description": null,
+              "description": "grab/cursor-talk-to-figma-mcp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8402,7 +8402,7 @@
             {
               "node_type": "item",
               "title": "sooperset/mcp-atlassian",
-              "description": null,
+              "description": "sooperset/mcp-atlassian",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8415,7 +8415,7 @@
                 "open_issues": 259,
                 "owner": "sooperset",
                 "repo": "mcp-atlassian",
-                "stars": 5964,
+                "stars": 5963,
                 "topics": [
                   "atlassian",
                   "confluence",
@@ -8428,7 +8428,7 @@
             {
               "node_type": "item",
               "title": "atilaahmettaner/tradingview-mcp",
-              "description": null,
+              "description": "atilaahmettaner/tradingview-mcp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8463,7 +8463,7 @@
             {
               "node_type": "item",
               "title": "makenotion/notion-mcp-server",
-              "description": null,
+              "description": "makenotion/notion-mcp-server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8484,7 +8484,7 @@
             {
               "node_type": "item",
               "title": "PleasePrompto/notebooklm-mcp",
-              "description": null,
+              "description": "PleasePrompto/notebooklm-mcp",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -8505,7 +8505,7 @@
             {
               "node_type": "item",
               "title": "op7418/Claude-to-IM-skill",
-              "description": null,
+              "description": "op7418/Claude-to-IM-skill",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8535,7 +8535,7 @@
             {
               "node_type": "item",
               "title": "RichardAtCT/claude-code-telegram",
-              "description": null,
+              "description": "overwirehq/claude-code-telegram",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8556,7 +8556,7 @@
             {
               "node_type": "item",
               "title": "kubestellar/console",
-              "description": null,
+              "description": "kubestellar/console",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8565,7 +8565,7 @@
                 "id": 1135473716,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T01:06:43Z",
+                "last_commit": "2026-10-03T04:21:51Z",
                 "open_issues": 5,
                 "owner": "kubestellar",
                 "repo": "console",
@@ -8577,7 +8577,7 @@
             {
               "node_type": "item",
               "title": "officialzeroxyz/zero-plugins",
-              "description": null,
+              "description": "officialzeroxyz/zero-plugins",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8598,7 +8598,7 @@
             {
               "node_type": "item",
               "title": "getformo/cli",
-              "description": null,
+              "description": "getformo/cli",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8630,7 +8630,7 @@
             {
               "node_type": "item",
               "title": "skillselion/skillselion-mcp",
-              "description": null,
+              "description": "skillselion/skillselion-mcp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8671,20 +8671,20 @@
             {
               "node_type": "item",
               "title": "router-for-me/CLIProxyAPI",
-              "description": null,
+              "description": "router-for-me/CLIProxyAPI",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Davin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API",
+                "description": "Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API",
                 "homepage": null,
                 "id": 1012087571,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-02T20:21:33Z",
-                "open_issues": 655,
+                "last_commit": "2026-10-03T02:48:14Z",
+                "open_issues": 657,
                 "owner": "router-for-me",
                 "repo": "CLIProxyAPI",
-                "stars": 53904,
+                "stars": 53921,
                 "topics": [
                   "antigravity",
                   "claude-code",
@@ -8701,7 +8701,7 @@
             {
               "node_type": "item",
               "title": "1rgs/claude-code-proxy",
-              "description": null,
+              "description": "1rgs/claude-code-proxy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8722,7 +8722,7 @@
             {
               "node_type": "item",
               "title": "madhavajay/alex",
-              "description": null,
+              "description": "OpenMined/alex",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -8743,7 +8743,7 @@
             {
               "node_type": "item",
               "title": "sozercan/vekil",
-              "description": null,
+              "description": "sozercan/vekil",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8779,7 +8779,7 @@
             {
               "node_type": "item",
               "title": "runapi-ai/cli-skill",
-              "description": null,
+              "description": "runapi-ai/cli-skill",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8817,7 +8817,7 @@
             {
               "node_type": "item",
               "title": "musistudio/claude-code-router",
-              "description": null,
+              "description": "musistudio/claude-code-router",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8830,7 +8830,7 @@
                 "open_issues": 1164,
                 "owner": "musistudio",
                 "repo": "claude-code-router",
-                "stars": 37515,
+                "stars": 37517,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:12:52.412Z"
@@ -8838,7 +8838,7 @@
             {
               "node_type": "item",
               "title": "davila7/claude-code-templates",
-              "description": null,
+              "description": "davila7/claude-code-templates",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8847,11 +8847,11 @@
                 "id": 1013480284,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-02T23:11:56Z",
-                "open_issues": 320,
+                "last_commit": "2026-10-03T03:23:10Z",
+                "open_issues": 322,
                 "owner": "davila7",
                 "repo": "claude-code-templates",
-                "stars": 32303,
+                "stars": 32313,
                 "topics": [
                   "anthropic",
                   "anthropic-claude",
@@ -8864,7 +8864,7 @@
             {
               "node_type": "item",
               "title": "UfoMiao/zcf",
-              "description": null,
+              "description": "UfoMiao/zcf",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8906,7 +8906,7 @@
             {
               "node_type": "item",
               "title": "MohamedAbdallah-14/unslop",
-              "description": null,
+              "description": "MohamedAbdallah-14/unslop",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8948,7 +8948,7 @@
             {
               "node_type": "item",
               "title": "ainova-systems/intelligence-sync",
-              "description": null,
+              "description": "ainova-systems/intelligence-sync",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8993,7 +8993,7 @@
             {
               "node_type": "item",
               "title": "frankbria/ralph-claude-code",
-              "description": null,
+              "description": "frankbria/ralph-claude-code",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9002,11 +9002,11 @@
                 "id": 1045721921,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-09-29T08:24:30Z",
-                "open_issues": 38,
+                "last_commit": "2026-10-03T04:17:44Z",
+                "open_issues": 40,
                 "owner": "frankbria",
                 "repo": "ralph-claude-code",
-                "stars": 9642,
+                "stars": 9643,
                 "topics": [
                   "ai",
                   "ai-agent",
@@ -9024,7 +9024,7 @@
             {
               "node_type": "item",
               "title": "evalstate/fast-agent",
-              "description": null,
+              "description": "evalstate/fast-agent",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9058,7 +9058,7 @@
             {
               "node_type": "item",
               "title": "aeonfun/aeon",
-              "description": null,
+              "description": "aeonfun/aeon",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9067,7 +9067,7 @@
                 "id": 1172886754,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-10-02T20:38:00Z",
+                "last_commit": "2026-10-03T01:35:41Z",
                 "open_issues": 2,
                 "owner": "aeonfun",
                 "repo": "aeon",
@@ -9101,7 +9101,7 @@
             {
               "node_type": "item",
               "title": "jarrodwatts/claude-hud",
-              "description": null,
+              "description": "jarrodwatts/claude-hud",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9114,7 +9114,7 @@
                 "open_issues": 1,
                 "owner": "jarrodwatts",
                 "repo": "claude-hud",
-                "stars": 28265,
+                "stars": 28267,
                 "topics": [
                   "anthropic",
                   "claude",
@@ -9130,7 +9130,7 @@
             {
               "node_type": "item",
               "title": "steipete/CodexBar",
-              "description": null,
+              "description": "steipete/CodexBar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9139,11 +9139,11 @@
                 "id": 1097695258,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-03T00:47:18Z",
-                "open_issues": 163,
+                "last_commit": "2026-10-03T04:28:23Z",
+                "open_issues": 156,
                 "owner": "steipete",
                 "repo": "CodexBar",
-                "stars": 22140,
+                "stars": 22142,
                 "topics": [
                   "ai",
                   "claude-code",
@@ -9156,7 +9156,7 @@
             {
               "node_type": "item",
               "title": "ccusage/ccusage",
-              "description": null,
+              "description": "ccusage/ccusage",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9165,11 +9165,11 @@
                 "id": 992755069,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-03T01:00:36Z",
+                "last_commit": "2026-10-03T04:25:17Z",
                 "open_issues": 11,
                 "owner": "ccusage",
                 "repo": "ccusage",
-                "stars": 18846,
+                "stars": 18847,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:12:52.412Z"
@@ -9177,7 +9177,7 @@
             {
               "node_type": "item",
               "title": "sirmalloc/ccstatusline",
-              "description": null,
+              "description": "sirmalloc/ccstatusline",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9209,7 +9209,7 @@
             {
               "node_type": "item",
               "title": "getagentseal/codeburn",
-              "description": null,
+              "description": "getagentseal/codeburn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9222,7 +9222,7 @@
                 "open_issues": 29,
                 "owner": "getagentseal",
                 "repo": "codeburn",
-                "stars": 11312,
+                "stars": 11313,
                 "topics": [
                   "ai-coding",
                   "claude-code",
@@ -9243,7 +9243,7 @@
             {
               "node_type": "item",
               "title": "backnotprop/plannotator",
-              "description": null,
+              "description": "backnotprop/plannotator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9252,8 +9252,8 @@
                 "id": 1123956658,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T19:45:52Z",
-                "open_issues": 132,
+                "last_commit": "2026-10-03T03:25:21Z",
+                "open_issues": 133,
                 "owner": "backnotprop",
                 "repo": "plannotator",
                 "stars": 9110,
@@ -9274,7 +9274,7 @@
             {
               "node_type": "item",
               "title": "Maciek-roboblog/Claude-Code-Usage-Monitor",
-              "description": null,
+              "description": "Maciek-roboblog/Claude-Code-Usage-Monitor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9305,7 +9305,7 @@
             {
               "node_type": "item",
               "title": "junhoyeo/tokscale",
-              "description": null,
+              "description": "junhoyeo/tokscale",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9315,10 +9315,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-09-29T20:33:45Z",
-                "open_issues": 79,
+                "open_issues": 81,
                 "owner": "junhoyeo",
                 "repo": "tokscale",
-                "stars": 5607,
+                "stars": 5608,
                 "topics": [
                   "ai",
                   "ai-agents",
@@ -9347,7 +9347,7 @@
             {
               "node_type": "item",
               "title": "PeonPing/peon-ping",
-              "description": null,
+              "description": "PeonPing/peon-ping",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9377,7 +9377,7 @@
             {
               "node_type": "item",
               "title": "matt1398/claude-devtools",
-              "description": null,
+              "description": "matt1398/claude-devtools",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9419,7 +9419,7 @@
             {
               "node_type": "item",
               "title": "hamed-elfayome/Claude-Usage-Tracker",
-              "description": null,
+              "description": "hamed-elfayome/Claude-Usage-Tracker",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9447,7 +9447,7 @@
             {
               "node_type": "item",
               "title": "ZeframLou/call-me",
-              "description": null,
+              "description": "ZeframLou/call-me",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9468,7 +9468,7 @@
             {
               "node_type": "item",
               "title": "Yuyz0112/claude-code-reverse",
-              "description": null,
+              "description": "Yuyz0112/claude-code-reverse",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9489,7 +9489,7 @@
             {
               "node_type": "item",
               "title": "disler/claude-code-hooks-multi-agent-observability",
-              "description": null,
+              "description": "disler/claude-code-hooks-multi-agent-observability",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9510,7 +9510,7 @@
             {
               "node_type": "item",
               "title": "luoyuctl/agenttrace",
-              "description": null,
+              "description": "luoyuctl/agenttrace",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9547,7 +9547,7 @@
             {
               "node_type": "item",
               "title": "Necmttn/ax",
-              "description": null,
+              "description": "Necmttn/ax",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9581,7 +9581,7 @@
             {
               "node_type": "item",
               "title": "jakemarsh/ccthread",
-              "description": null,
+              "description": "jakemarsh/ccthread",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9612,7 +9612,7 @@
             {
               "node_type": "item",
               "title": "eltonylfgi-blip/claude-session-triage",
-              "description": null,
+              "description": "eltonylfgi-blip/claude-session-triage",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9655,7 +9655,7 @@
             {
               "node_type": "item",
               "title": "shanraisshan/claude-code-best-practice",
-              "description": null,
+              "description": "shanraisshan/claude-code-best-practice",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9664,11 +9664,11 @@
                 "id": 1087192965,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-10-02T06:46:52Z",
+                "last_commit": "2026-10-03T04:17:25Z",
                 "open_issues": 50,
                 "owner": "shanraisshan",
                 "repo": "claude-code-best-practice",
-                "stars": 67013,
+                "stars": 67016,
                 "topics": [
                   "agentic-ai",
                   "agentic-coding",
@@ -9697,7 +9697,7 @@
             {
               "node_type": "item",
               "title": "centminmod/my-claude-code-setup",
-              "description": null,
+              "description": "centminmod/my-claude-code-setup",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9710,7 +9710,7 @@
                 "open_issues": 3,
                 "owner": "centminmod",
                 "repo": "my-claude-code-setup",
-                "stars": 2651,
+                "stars": 2653,
                 "topics": [
                   "claude",
                   "claude-ai",
@@ -9726,7 +9726,7 @@
             {
               "node_type": "item",
               "title": "abhishekray07/claude-md-templates",
-              "description": null,
+              "description": "abhishekray07/claude-md-templates",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9750,7 +9750,7 @@
             {
               "node_type": "item",
               "title": "sneg55/agent-starter",
-              "description": null,
+              "description": "sneg55/agent-starter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9786,7 +9786,7 @@
             {
               "node_type": "item",
               "title": "JuliusBrussee/caveman",
-              "description": null,
+              "description": "JuliusBrussee/caveman",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9795,11 +9795,11 @@
                 "id": 1201173969,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T00:45:33Z",
-                "open_issues": 134,
+                "last_commit": "2026-10-03T01:34:05Z",
+                "open_issues": 144,
                 "owner": "JuliusBrussee",
                 "repo": "caveman",
-                "stars": 109106,
+                "stars": 109171,
                 "topics": [
                   "ai",
                   "anthropic",
@@ -9818,7 +9818,7 @@
             {
               "node_type": "item",
               "title": "nadimtuhin/claude-token-optimizer",
-              "description": null,
+              "description": "nadimtuhin/claude-token-optimizer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9848,7 +9848,7 @@
             {
               "node_type": "item",
               "title": "Sagargupta16/claude-cost-optimizer",
-              "description": null,
+              "description": "Sagargupta16/claude-cost-optimizer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9883,7 +9883,7 @@
             {
               "node_type": "item",
               "title": "AutomateLab-tech/publishing-skills",
-              "description": null,
+              "description": "AutomateLab-tech/publishing-skills",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9929,7 +9929,7 @@
             {
               "node_type": "item",
               "title": "Li-Evan/Bloom",
-              "description": null,
+              "description": "Li-Evan/Bloom",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9976,7 +9976,7 @@
             {
               "node_type": "item",
               "title": "shareAI-lab/learn-claude-code",
-              "description": null,
+              "description": "shareAI-lab/learn-claude-code",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9989,7 +9989,7 @@
                 "open_issues": 61,
                 "owner": "shareAI-lab",
                 "repo": "learn-claude-code",
-                "stars": 77924,
+                "stars": 77926,
                 "topics": [
                   "agent",
                   "agent-development",
@@ -10008,7 +10008,7 @@
             {
               "node_type": "item",
               "title": "luongnv89/claude-howto",
-              "description": null,
+              "description": "luongnv89/claude-howto",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10021,7 +10021,7 @@
                 "open_issues": 31,
                 "owner": "luongnv89",
                 "repo": "claude-howto",
-                "stars": 41730,
+                "stars": 41729,
                 "topics": [
                   "claude-code",
                   "guide",
@@ -10033,7 +10033,7 @@
             {
               "node_type": "item",
               "title": "Piebald-AI/claude-code-system-prompts",
-              "description": null,
+              "description": "Piebald-AI/claude-code-system-prompts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10046,7 +10046,7 @@
                 "open_issues": 9,
                 "owner": "Piebald-AI",
                 "repo": "claude-code-system-prompts",
-                "stars": 12814,
+                "stars": 12815,
                 "topics": [
                   "claude-code",
                   "claude-code-system-prompts",
@@ -10058,7 +10058,7 @@
             {
               "node_type": "item",
               "title": "ykdojo/claude-code-tips",
-              "description": null,
+              "description": "ykdojo/claude-code-tips",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10071,7 +10071,7 @@
                 "open_issues": 4,
                 "owner": "ykdojo",
                 "repo": "claude-code-tips",
-                "stars": 10183,
+                "stars": 10182,
                 "topics": [
                   "agentic",
                   "agentic-ai",
@@ -10092,7 +10092,7 @@
             {
               "node_type": "item",
               "title": "diet103/claude-code-infrastructure-showcase",
-              "description": null,
+              "description": "diet103/claude-code-infrastructure-showcase",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10105,7 +10105,7 @@
                 "open_issues": 18,
                 "owner": "diet103",
                 "repo": "claude-code-infrastructure-showcase",
-                "stars": 10033,
+                "stars": 10034,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:12:52.412Z"
@@ -10113,7 +10113,7 @@
             {
               "node_type": "item",
               "title": "KimYx0207/AI-Coding-Guide-Zh",
-              "description": null,
+              "description": "KimYx0207/AI-Coding-Guide-Zh",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10143,7 +10143,7 @@
             {
               "node_type": "item",
               "title": "FlorianBruniaux/claude-code-ultimate-guide",
-              "description": null,
+              "description": "FlorianBruniaux/claude-code-ultimate-guide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10156,7 +10156,7 @@
                 "open_issues": 4,
                 "owner": "FlorianBruniaux",
                 "repo": "claude-code-ultimate-guide",
-                "stars": 6086,
+                "stars": 6088,
                 "topics": [
                   "agentic-coding",
                   "ai-assistant",
@@ -10185,7 +10185,7 @@
             {
               "node_type": "item",
               "title": "ChrisWiles/claude-code-showcase",
-              "description": null,
+              "description": "ChrisWiles/claude-code-showcase",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10206,7 +10206,7 @@
             {
               "node_type": "item",
               "title": "zebbern/claude-code-guide",
-              "description": null,
+              "description": "zebbern/claude-code-guide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10248,7 +10248,7 @@
             {
               "node_type": "item",
               "title": "lintsinghua/claude-code-book",
-              "description": null,
+              "description": "lintsinghua/claude-code-book",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10279,7 +10279,7 @@
             {
               "node_type": "item",
               "title": "jamesmurdza/awesome-ai-devtools",
-              "description": null,
+              "description": "jamesmurdza/awesome-ai-devtools",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10300,7 +10300,7 @@
             {
               "node_type": "item",
               "title": "disler/claude-code-hooks-mastery",
-              "description": null,
+              "description": "disler/claude-code-hooks-mastery",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10321,7 +10321,7 @@
             {
               "node_type": "item",
               "title": "OneRedOak/claude-code-workflows",
-              "description": null,
+              "description": "OneRedOak/claude-code-workflows",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10342,7 +10342,7 @@
             {
               "node_type": "item",
               "title": "Windy3f3f3f3f/how-claude-code-works",
-              "description": null,
+              "description": "Windy3f3f3f3f/how-claude-code-works",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10374,7 +10374,7 @@
             {
               "node_type": "item",
               "title": "Meirtz/Awesome-Context-Engineering",
-              "description": null,
+              "description": "Meirtz/Awesome-Context-Engineering",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10404,7 +10404,7 @@
             {
               "node_type": "item",
               "title": "KhazP/vibe-coding-prompt-template",
-              "description": null,
+              "description": "KhazP/vibe-coding-prompt-template",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10446,7 +10446,7 @@
             {
               "node_type": "item",
               "title": "Cranot/claude-code-guide",
-              "description": null,
+              "description": "Cranot/claude-code-guide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10467,7 +10467,7 @@
             {
               "node_type": "item",
               "title": "rosmur/claudecode-best-practices",
-              "description": null,
+              "description": "rosmur/claudecode-best-practices",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10494,7 +10494,7 @@
             {
               "node_type": "item",
               "title": "anthropics/prompt-eng-interactive-tutorial",
-              "description": null,
+              "description": "anthropics/prompt-eng-interactive-tutorial",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10507,7 +10507,7 @@
                 "open_issues": 64,
                 "owner": "anthropics",
                 "repo": "prompt-eng-interactive-tutorial",
-                "stars": 38376,
+                "stars": 38375,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:12:52.412Z"
@@ -10515,7 +10515,7 @@
             {
               "node_type": "item",
               "title": "anthropics/courses",
-              "description": null,
+              "description": "anthropics/courses",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -10536,7 +10536,7 @@
             {
               "node_type": "item",
               "title": "ericbuess/claude-code-docs",
-              "description": null,
+              "description": "ericbuess/claude-code-docs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -10545,7 +10545,7 @@
                 "id": 1012164912,
                 "language": "Shell",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T21:34:55Z",
+                "last_commit": "2026-10-03T02:43:25Z",
                 "open_issues": 79,
                 "owner": "ericbuess",
                 "repo": "claude-code-docs",
@@ -10568,7 +10568,7 @@
         {
           "node_type": "item",
           "title": "agentskills/agentskills",
-          "description": null,
+          "description": "agentskills/agentskills",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10581,7 +10581,7 @@
             "open_issues": 96,
             "owner": "agentskills",
             "repo": "agentskills",
-            "stars": 25862,
+            "stars": 25867,
             "topics": [
               "agent-skills"
             ]
@@ -10591,7 +10591,7 @@
         {
           "node_type": "item",
           "title": "yusufkaraaslan/Skill_Seekers",
-          "description": null,
+          "description": "yusufkaraaslan/Skill_Seekers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10604,7 +10604,7 @@
             "open_issues": 47,
             "owner": "yusufkaraaslan",
             "repo": "Skill_Seekers",
-            "stars": 15093,
+            "stars": 15092,
             "topics": [
               "ai-tools",
               "ast-parser",
@@ -10631,7 +10631,7 @@
         {
           "node_type": "item",
           "title": "numman-ali/openskills",
-          "description": null,
+          "description": "numman-ali/openskills",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10644,7 +10644,7 @@
             "open_issues": 44,
             "owner": "numman-ali",
             "repo": "openskills",
-            "stars": 10773,
+            "stars": 10774,
             "topics": []
           },
           "first_seen": "2026-08-28T06:12:52.412Z"
@@ -10652,7 +10652,7 @@
         {
           "node_type": "item",
           "title": "refly-ai/refly",
-          "description": null,
+          "description": "refly-ai/refly",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10691,7 +10691,7 @@
         {
           "node_type": "item",
           "title": "tech-leads-club/agent-skills",
-          "description": null,
+          "description": "tech-leads-club/agent-skills",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10704,7 +10704,7 @@
             "open_issues": 34,
             "owner": "tech-leads-club",
             "repo": "agent-skills",
-            "stars": 7023,
+            "stars": 7024,
             "topics": [
               "agent",
               "ai",
@@ -10720,7 +10720,7 @@
         {
           "node_type": "item",
           "title": "microsoft/apm",
-          "description": null,
+          "description": "microsoft/apm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10730,7 +10730,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-02T18:18:51Z",
-            "open_issues": 225,
+            "open_issues": 226,
             "owner": "microsoft",
             "repo": "apm",
             "stars": 3928,
@@ -10749,7 +10749,7 @@
         {
           "node_type": "item",
           "title": "gotalab/cc-sdd",
-          "description": null,
+          "description": "gotalab/cc-sdd",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10783,7 +10783,7 @@
         {
           "node_type": "item",
           "title": "alirezarezvani/claude-code-skill-factory",
-          "description": null,
+          "description": "alirezarezvani/claude-code-skill-factory",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10813,7 +10813,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:16:46.760Z",
+    "last_updated": "2026-10-03T04:43:41.396Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of Claude Skills",
